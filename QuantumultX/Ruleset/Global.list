@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6909
+# 规则统计: 6912
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -961,6 +961,7 @@ HOST-SUFFIX,cccat.cc,Global
 HOST-SUFFIX,cccat.co,Global
 HOST-SUFFIX,cccat.io,Global
 HOST-SUFFIX,ccdtr.org,Global
+HOST-SUFFIX,ccfd.org.tw,Global
 HOST-SUFFIX,cchere.com,Global
 HOST-SUFFIX,ccim.org,Global
 HOST-SUFFIX,cclife.ca,Global
@@ -2599,6 +2600,7 @@ HOST-SUFFIX,graph.org,Global
 HOST-SUFFIX,graphis.ne.jp,Global
 HOST-SUFFIX,graphql.org,Global
 HOST-SUFFIX,gravatar.com,Global
+HOST-SUFFIX,greasyfork.org,Global
 HOST-SUFFIX,great-firewall.com,Global
 HOST-SUFFIX,great-roc.org,Global
 HOST-SUFFIX,greatfire.org,Global
@@ -3106,6 +3108,7 @@ HOST-SUFFIX,iownyour.biz,Global
 HOST-SUFFIX,iownyour.org,Global
 HOST-SUFFIX,ip138.com,Global
 HOST-SUFFIX,ipalter.com,Global
+HOST-SUFFIX,ipdefenseforum.com,Global
 HOST-SUFFIX,ipfire.org,Global
 HOST-SUFFIX,ipfs.io,Global
 HOST-SUFFIX,iphone4hongkong.com,Global
@@ -4113,6 +4116,7 @@ HOST-SUFFIX,no-ip.org,Global
 HOST-SUFFIX,nobel.se,Global
 HOST-SUFFIX,nobelprize.org,Global
 HOST-SUFFIX,nobodycanstop.us,Global
+HOST-SUFFIX,nodeseek.com,Global
 HOST-SUFFIX,nodesnoop.com,Global
 HOST-SUFFIX,nofile.io,Global
 HOST-SUFFIX,nokogiri.org,Global
@@ -4345,6 +4349,7 @@ HOST-SUFFIX,ozyoyo.com,Global
 HOST-SUFFIX,pachosting.com,Global
 HOST-SUFFIX,pacificpoker.com,Global
 HOST-SUFFIX,packetix.net,Global
+HOST-SUFFIX,pacom.mil,Global
 HOST-SUFFIX,pacopacomama.com,Global
 HOST-SUFFIX,padmanet.com,Global
 HOST-SUFFIX,page.bid.yahoo.com,Global
@@ -6033,7 +6038,6 @@ HOST-SUFFIX,usercontent.goog,Global
 HOST-SUFFIX,users.skynet.be,Global
 HOST-SUFFIX,usfk.mil,Global
 HOST-SUFFIX,ushuarencity.echainhost.com,Global
-HOST-SUFFIX,usinfo.state.gov,Global
 HOST-SUFFIX,usma.edu,Global
 HOST-SUFFIX,usmc.mil,Global
 HOST-SUFFIX,usmgtcg.ning.com,Global
@@ -6459,7 +6463,6 @@ HOST-SUFFIX,wwe.com,Global
 HOST-SUFFIX,wwitv.com,Global
 HOST-SUFFIX,www.abclite.net,Global
 HOST-SUFFIX,www.ajsands.com,Global
-HOST-SUFFIX,www.americorps.gov,Global
 HOST-SUFFIX,www.antd.org,Global
 HOST-SUFFIX,www.aolnews.com,Global
 HOST-SUFFIX,www.businessinsider.com.au,Global

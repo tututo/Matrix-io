@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31100
+# 规则统计: 31118
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -3105,6 +3105,7 @@ HOST-SUFFIX,bangkokpost.com,GlobalMax
 HOST-SUFFIX,bangkokstreetwhores.com,GlobalMax
 HOST-SUFFIX,bangor-university-london.ac.uk,GlobalMax
 HOST-SUFFIX,bangor.ac.uk,GlobalMax
+HOST-SUFFIX,bangumi.tv,GlobalMax
 HOST-SUFFIX,bangyoulater.com,GlobalMax
 HOST-SUFFIX,bangyourwife.com,GlobalMax
 HOST-SUFFIX,bankmobilevibe.com,GlobalMax
@@ -3747,6 +3748,7 @@ HOST-SUFFIX,bfnn.org,GlobalMax
 HOST-SUFFIX,bfsh.hk,GlobalMax
 HOST-SUFFIX,bftv.ac.uk,GlobalMax
 HOST-SUFFIX,bgc.ac.uk,GlobalMax
+HOST-SUFFIX,bgm.tv,GlobalMax
 HOST-SUFFIX,bgov.com,GlobalMax
 HOST-SUFFIX,bgr.in,GlobalMax
 HOST-SUFFIX,bgs.ac.uk,GlobalMax
@@ -6075,6 +6077,7 @@ HOST-SUFFIX,chicloud.ac.uk,GlobalMax
 HOST-SUFFIX,chid.com.mm,GlobalMax
 HOST-SUFFIX,chigroup.ac.uk,GlobalMax
 HOST-SUFFIX,chihair-straightener.com,GlobalMax
+HOST-SUFFIX,chii.in,GlobalMax
 HOST-SUFFIX,chikiporn.com,GlobalMax
 HOST-SUFFIX,chilbolton.ac.uk,GlobalMax
 HOST-SUFFIX,childrenofthe90s.ac.uk,GlobalMax
@@ -12183,6 +12186,7 @@ HOST-SUFFIX,grimsby.ac.uk,GlobalMax
 HOST-SUFFIX,grimsbytec.ac.uk,GlobalMax
 HOST-SUFFIX,grindr.com,GlobalMax
 HOST-SUFFIX,grooby.com,GlobalMax
+HOST-SUFFIX,groq.com,GlobalMax
 HOST-SUFFIX,grotty-monday.com,GlobalMax
 HOST-SUFFIX,ground.news,GlobalMax
 HOST-SUFFIX,groupfun.com,GlobalMax
@@ -26488,6 +26492,8 @@ HOST-SUFFIX,tiktok.com,GlobalMax
 HOST-SUFFIX,tiktokcdn-eu.com,GlobalMax
 HOST-SUFFIX,tiktokcdn-us.com,GlobalMax
 HOST-SUFFIX,tiktokcdn.com,GlobalMax
+HOST-SUFFIX,tiktokeu-cdn.com,GlobalMax
+HOST-SUFFIX,tiktokrow-cdn.com,GlobalMax
 HOST-SUFFIX,tiktokv.com,GlobalMax
 HOST-SUFFIX,tiktokv.eu,GlobalMax
 HOST-SUFFIX,tiktokv.us,GlobalMax
@@ -26907,6 +26913,7 @@ HOST-SUFFIX,tte-lisa.ac.uk,GlobalMax
 HOST-SUFFIX,tteshop.com,GlobalMax
 HOST-SUFFIX,ttetraining.ac.uk,GlobalMax
 HOST-SUFFIX,ttlivecdn.com,GlobalMax
+HOST-SUFFIX,ttoverseaus.net,GlobalMax
 HOST-SUFFIX,ttrb.ac.uk,GlobalMax
 HOST-SUFFIX,tttan.com,GlobalMax
 HOST-SUFFIX,ttv.com.tw,GlobalMax
@@ -28310,25 +28317,36 @@ HOST-SUFFIX,viznet.ac.uk,GlobalMax
 HOST-SUFFIX,vizvaz.com,GlobalMax
 HOST-SUFFIX,vjav.com,GlobalMax
 HOST-SUFFIX,vjmedia.com.hk,GlobalMax
+HOST-SUFFIX,vk-apps.com,GlobalMax
+HOST-SUFFIX,vk-apps.ru,GlobalMax
 HOST-SUFFIX,vk-cdn.me,GlobalMax
 HOST-SUFFIX,vk-cdn.net,GlobalMax
 HOST-SUFFIX,vk-portal.net,GlobalMax
 HOST-SUFFIX,vk.cc,GlobalMax
 HOST-SUFFIX,vk.com,GlobalMax
+HOST-SUFFIX,vk.company,GlobalMax
 HOST-SUFFIX,vk.design,GlobalMax
 HOST-SUFFIX,vk.link,GlobalMax
 HOST-SUFFIX,vk.me,GlobalMax
 HOST-SUFFIX,vk.ru,GlobalMax
+HOST-SUFFIX,vk.team,GlobalMax
 HOST-SUFFIX,vkcache.com,GlobalMax
 HOST-SUFFIX,vkgo.app,GlobalMax
 HOST-SUFFIX,vklive.app,GlobalMax
 HOST-SUFFIX,vkmessenger.app,GlobalMax
 HOST-SUFFIX,vkmessenger.com,GlobalMax
 HOST-SUFFIX,vkontakte.ru,GlobalMax
+HOST-SUFFIX,vkuser.net,GlobalMax
 HOST-SUFFIX,vkuseraudio.com,GlobalMax
+HOST-SUFFIX,vkuseraudio.net,GlobalMax
+HOST-SUFFIX,vkuseraudio.ru,GlobalMax
+HOST-SUFFIX,vkusercdn.ru,GlobalMax
 HOST-SUFFIX,vkuserlive.net,GlobalMax
+HOST-SUFFIX,vkuserphoto.ru,GlobalMax
 HOST-SUFFIX,vkuservideo.com,GlobalMax
 HOST-SUFFIX,vkuservideo.net,GlobalMax
+HOST-SUFFIX,vkuservideo.ru,GlobalMax
+HOST-SUFFIX,vkvideo.ru,GlobalMax
 HOST-SUFFIX,vl4x.net,GlobalMax
 HOST-SUFFIX,vllcs.org,GlobalMax
 HOST-SUFFIX,vmglobal.net,GlobalMax
