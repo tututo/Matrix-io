@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31118
+# 规则统计: 31123
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -5705,6 +5705,7 @@ HOST-SUFFIX,cccu.ac.uk,GlobalMax
 HOST-SUFFIX,ccdc.ac.uk,GlobalMax
 HOST-SUFFIX,ccdtr.org,GlobalMax
 HOST-SUFFIX,ccesd.ac.uk,GlobalMax
+HOST-SUFFIX,ccfd.org.tw,GlobalMax
 HOST-SUFFIX,ccfe.ac.uk,GlobalMax
 HOST-SUFFIX,cch.ac.uk,GlobalMax
 HOST-SUFFIX,cchere.com,GlobalMax
@@ -12137,6 +12138,7 @@ HOST-SUFFIX,grazie.ai,GlobalMax
 HOST-SUFFIX,grcb.ac.uk,GlobalMax
 HOST-SUFFIX,gre.ac.uk,GlobalMax
 HOST-SUFFIX,greasespot.net,GlobalMax
+HOST-SUFFIX,greasyfork.org,GlobalMax
 HOST-SUFFIX,great-firewall.com,GlobalMax
 HOST-SUFFIX,great-roc.org,GlobalMax
 HOST-SUFFIX,greatapedictionary.ac.uk,GlobalMax
@@ -14647,6 +14649,7 @@ HOST-SUFFIX,ipadmini.lk,GlobalMax
 HOST-SUFFIX,ipadpro.buzz,GlobalMax
 HOST-SUFFIX,ipalter.com,GlobalMax
 HOST-SUFFIX,ipcc-wg3.ac.uk,GlobalMax
+HOST-SUFFIX,ipdefenseforum.com,GlobalMax
 HOST-SUFFIX,ipem.ac.uk,GlobalMax
 HOST-SUFFIX,ipfire.org,GlobalMax
 HOST-SUFFIX,ipforesightforum.ac.uk,GlobalMax
@@ -19744,6 +19747,7 @@ HOST-SUFFIX,nocn.ac.uk,GlobalMax
 HOST-SUFFIX,nocs.ac.uk,GlobalMax
 HOST-SUFFIX,nodejs.org,GlobalMax
 HOST-SUFFIX,nodes.ac.uk,GlobalMax
+HOST-SUFFIX,nodeseek.com,GlobalMax
 HOST-SUFFIX,nodesnoop.com,GlobalMax
 HOST-SUFFIX,nodesource.com,GlobalMax
 HOST-SUFFIX,nofile.io,GlobalMax
@@ -20737,6 +20741,7 @@ HOST-SUFFIX,packagist.org,GlobalMax
 HOST-SUFFIX,packer.io,GlobalMax
 HOST-SUFFIX,packetix.net,GlobalMax
 HOST-SUFFIX,pacloudflare.com,GlobalMax
+HOST-SUFFIX,pacom.mil,GlobalMax
 HOST-SUFFIX,pacopacomama.com,GlobalMax
 HOST-SUFFIX,pact.ac.uk,GlobalMax
 HOST-SUFFIX,paddle.com,GlobalMax

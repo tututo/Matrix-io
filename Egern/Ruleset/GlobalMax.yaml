@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31118
+# 规则统计: 31123
 
 no_resolve: true
 domain_set:
@@ -5708,6 +5708,7 @@ domain_suffix_set:
   - ccdc.ac.uk
   - ccdtr.org
   - ccesd.ac.uk
+  - ccfd.org.tw
   - ccfe.ac.uk
   - cch.ac.uk
   - cchere.com
@@ -12140,6 +12141,7 @@ domain_suffix_set:
   - grcb.ac.uk
   - gre.ac.uk
   - greasespot.net
+  - greasyfork.org
   - great-firewall.com
   - great-roc.org
   - greatapedictionary.ac.uk
@@ -14650,6 +14652,7 @@ domain_suffix_set:
   - ipadpro.buzz
   - ipalter.com
   - ipcc-wg3.ac.uk
+  - ipdefenseforum.com
   - ipem.ac.uk
   - ipfire.org
   - ipforesightforum.ac.uk
@@ -19747,6 +19750,7 @@ domain_suffix_set:
   - nocs.ac.uk
   - nodejs.org
   - nodes.ac.uk
+  - nodeseek.com
   - nodesnoop.com
   - nodesource.com
   - nofile.io
@@ -20740,6 +20744,7 @@ domain_suffix_set:
   - packer.io
   - packetix.net
   - pacloudflare.com
+  - pacom.mil
   - pacopacomama.com
   - pact.ac.uk
   - paddle.com
