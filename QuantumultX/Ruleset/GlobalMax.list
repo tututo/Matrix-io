@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31123
+# 规则统计: 31122
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -1195,7 +1195,6 @@ HOST-SUFFIX,ahvideosexe.com,GlobalMax
 HOST-SUFFIX,ahxxx.club,GlobalMax
 HOST-SUFFIX,ai-kan.net,GlobalMax
 HOST-SUFFIX,ai-wen.net,GlobalMax
-HOST-SUFFIX,ai.com,GlobalMax
 HOST-SUFFIX,ai3sd.ac.uk,GlobalMax
 HOST-SUFFIX,ai7995.site,GlobalMax
 HOST-SUFFIX,ai91porn.cc,GlobalMax
