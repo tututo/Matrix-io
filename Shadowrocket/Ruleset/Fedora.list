@@ -1,8 +1,0 @@
-# 规则名称: Fedora
-# 规则统计: 5
-
-DOMAIN-SUFFIX,fedoraforum.org
-DOMAIN-SUFFIX,fedoramagazine.org
-DOMAIN-SUFFIX,fedorapeople.org
-DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,getfedora.org
