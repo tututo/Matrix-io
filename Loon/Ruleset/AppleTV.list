@@ -1,6 +1,0 @@
-# 规则名称: AppleTV
-# 规则统计: 3
-
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
