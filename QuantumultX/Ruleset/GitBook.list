@@ -1,6 +1,0 @@
-# 规则名称: GitBook
-# 规则统计: 3
-
-HOST-SUFFIX,gitbook.com,GitBook
-HOST-SUFFIX,gitbook.io,GitBook
-HOST-SUFFIX,gitbook.zendesk.com,GitBook
