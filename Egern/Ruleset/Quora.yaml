@@ -1,9 +1,0 @@
-# 规则名称: Quora
-# 规则统计: 5
-
-domain_suffix_set:
-  - poe.com
-  - poecdn.net
-  - qr.ae
-  - quora.com
-  - quoracdn.net

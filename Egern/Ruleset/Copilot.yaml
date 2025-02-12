@@ -1,6 +1,0 @@
-# 规则名称: Copilot
-# 规则统计: 2
-
-domain_suffix_set:
-  - bing.com
-  - copilot.microsoft.com
