@@ -1,5 +1,0 @@
-# 规则名称: Copilot
-# 规则统计: 2
-
-HOST-SUFFIX,bing.com,Copilot
-HOST-SUFFIX,copilot.microsoft.com,Copilot

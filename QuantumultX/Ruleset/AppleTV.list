@@ -1,6 +1,0 @@
-# 规则名称: AppleTV
-# 规则统计: 3
-
-HOST,np-edge.itunes.apple.com,AppleTV
-HOST,play-edge.itunes.apple.com,AppleTV
-HOST-SUFFIX,tv.apple.com,AppleTV
