@@ -1,6 +1,0 @@
-# 规则名称: V2ray
-# 规则统计: 3
-
-DOMAIN-SUFFIX,v2fly.org
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
