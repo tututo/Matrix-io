@@ -1,9 +1,10 @@
 # 规则名称: Hetzner
-# 规则统计: 5
+# 规则统计: 6
 
 payload:
   - payload:
-  -   - DOMAIN-SUFFIX,hetzner.cloud
-  -   - DOMAIN-SUFFIX,hetzner.com
-  -   - DOMAIN-SUFFIX,hetzner.de
-  -   - DOMAIN-SUFFIX,your-server.de
+  -   - payload:
+  -   -   - DOMAIN-SUFFIX,hetzner.cloud
+  -   -   - DOMAIN-SUFFIX,hetzner.com
+  -   -   - DOMAIN-SUFFIX,hetzner.de
+  -   -   - DOMAIN-SUFFIX,your-server.de
