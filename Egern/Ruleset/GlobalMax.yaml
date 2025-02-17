@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31126
+# 规则统计: 31129
 
 no_resolve: true
 domain_set:
@@ -917,6 +917,7 @@ domain_suffix_set:
   - adas.ac.uk
   - adbecrsl.com
   - adbkm.com
+  - adblockcdn.com
   - adblockplus.org
   - adcex.com
   - adcommerce.tv
@@ -30454,6 +30455,8 @@ domain_suffix_set:
   - your-freedom.net
   - your-objectstorage.com
   - your-server.de
+  - your-storagebox.de
+  - your-storageshare.de
   - youramateurporn.com
   - yourassbig.com
   - yourbrain.com
