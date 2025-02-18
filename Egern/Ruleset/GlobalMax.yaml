@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31129
+# 规则统计: 31134
 
 no_resolve: true
 domain_set:
@@ -18593,7 +18593,12 @@ domain_suffix_set:
   - mwrc.ac.uk
   - mx.hao123.com
   - mx981.com
+  - mxlogin.com
   - mxmcdn.net
+  - mxroute.com
+  - mxroutedocs.com
+  - mxroutehelp.com
+  - mxrouting.net
   - mxshm.site
   - my-enema.com
   - my-formosa.com
