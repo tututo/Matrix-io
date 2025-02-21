@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117636
+# 规则统计: 117645
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -1172,7 +1172,6 @@ HOST-SUFFIX,0cname.com,ChinaMax
 HOST-SUFFIX,0d.work,ChinaMax
 HOST-SUFFIX,0daily.com,ChinaMax
 HOST-SUFFIX,0dkanshu.net,ChinaMax
-HOST-SUFFIX,0du520.com,ChinaMax
 HOST-SUFFIX,0duw.com,ChinaMax
 HOST-SUFFIX,0duxs.com,ChinaMax
 HOST-SUFFIX,0e91wut86c.com,ChinaMax
@@ -4531,6 +4530,7 @@ HOST-SUFFIX,4399wanju.com,ChinaMax
 HOST-SUFFIX,4399youpai.com,ChinaMax
 HOST-SUFFIX,4399youxi.com,ChinaMax
 HOST-SUFFIX,4399yyy.com,ChinaMax
+HOST-SUFFIX,43cv.com,ChinaMax
 HOST-SUFFIX,43ns.com,ChinaMax
 HOST-SUFFIX,43zhubao.com,ChinaMax
 HOST-SUFFIX,4417.com,ChinaMax
@@ -4812,7 +4812,6 @@ HOST-SUFFIX,5158wan.com,ChinaMax
 HOST-SUFFIX,515app.com,ChinaMax
 HOST-SUFFIX,515car.com,ChinaMax
 HOST-SUFFIX,515fa.com,ChinaMax
-HOST-SUFFIX,515ha.com,ChinaMax
 HOST-SUFFIX,515ppt.com,ChinaMax
 HOST-SUFFIX,5163.com,ChinaMax
 HOST-SUFFIX,51656582.com,ChinaMax
@@ -5989,7 +5988,6 @@ HOST-SUFFIX,57go.com,ChinaMax
 HOST-SUFFIX,57mail.com,ChinaMax
 HOST-SUFFIX,57px.com,ChinaMax
 HOST-SUFFIX,57qy.com,ChinaMax
-HOST-SUFFIX,57sc.com,ChinaMax
 HOST-SUFFIX,57sh.com,ChinaMax
 HOST-SUFFIX,57tc.net,ChinaMax
 HOST-SUFFIX,57tibet.com,ChinaMax
@@ -6472,7 +6470,6 @@ HOST-SUFFIX,61ic.com,ChinaMax
 HOST-SUFFIX,61info.com,ChinaMax
 HOST-SUFFIX,61k.com,ChinaMax
 HOST-SUFFIX,61kezhan.com,ChinaMax
-HOST-SUFFIX,61lz.com,ChinaMax
 HOST-SUFFIX,61mami.com,ChinaMax
 HOST-SUFFIX,61mc.com,ChinaMax
 HOST-SUFFIX,61n1le.com,ChinaMax
@@ -9605,7 +9602,6 @@ HOST-SUFFIX,ahalei.com,ChinaMax
 HOST-SUFFIX,ahanxun.com,ChinaMax
 HOST-SUFFIX,ahao.moe,ChinaMax
 HOST-SUFFIX,ahaohao.com,ChinaMax
-HOST-SUFFIX,ahaojiaedu.com,ChinaMax
 HOST-SUFFIX,ahaoyw.com,ChinaMax
 HOST-SUFFIX,ahauto.com,ChinaMax
 HOST-SUFFIX,ahbagy.org,ChinaMax
@@ -9613,6 +9609,7 @@ HOST-SUFFIX,ahbb.cc,ChinaMax
 HOST-SUFFIX,ahbbsun.com,ChinaMax
 HOST-SUFFIX,ahbhyb.com,ChinaMax
 HOST-SUFFIX,ahbys.com,ChinaMax
+HOST-SUFFIX,ahbzgs.com,ChinaMax
 HOST-SUFFIX,ahbztv.com,ChinaMax
 HOST-SUFFIX,ahbzxnykj.com,ChinaMax
 HOST-SUFFIX,ahbzyy.com,ChinaMax
@@ -11567,7 +11564,6 @@ HOST-SUFFIX,appointen.lol,ChinaMax
 HOST-SUFFIX,appol.com,ChinaMax
 HOST-SUFFIX,appotronics.com,ChinaMax
 HOST-SUFFIX,apppoo.com,ChinaMax
-HOST-SUFFIX,appproduce-platform.cc,ChinaMax
 HOST-SUFFIX,appresource.net,ChinaMax
 HOST-SUFFIX,apps121.com,ChinaMax
 HOST-SUFFIX,appscan.io,ChinaMax
@@ -13437,6 +13433,7 @@ HOST-SUFFIX,bbxtd.com,ChinaMax
 HOST-SUFFIX,bbyyw.com,ChinaMax
 HOST-SUFFIX,bbzhh.com,ChinaMax
 HOST-SUFFIX,bbzhi.com,ChinaMax
+HOST-SUFFIX,bbzhsw.com,ChinaMax
 HOST-SUFFIX,bbzxky.fun,ChinaMax
 HOST-SUFFIX,bc966.com,ChinaMax
 HOST-SUFFIX,bcactc.com,ChinaMax
@@ -15037,6 +15034,7 @@ HOST-SUFFIX,bjwenyu.com,ChinaMax
 HOST-SUFFIX,bjwftd.com,ChinaMax
 HOST-SUFFIX,bjwfz.com,ChinaMax
 HOST-SUFFIX,bjwhds.com,ChinaMax
+HOST-SUFFIX,bjwig.com,ChinaMax
 HOST-SUFFIX,bjwkhotel.com,ChinaMax
 HOST-SUFFIX,bjwkzl.com,ChinaMax
 HOST-SUFFIX,bjwlapp.com,ChinaMax
@@ -15947,7 +15945,6 @@ HOST-SUFFIX,btc17.com,ChinaMax
 HOST-SUFFIX,btc789.com,ChinaMax
 HOST-SUFFIX,btcbbs.com,ChinaMax
 HOST-SUFFIX,btcbca.com,ChinaMax
-HOST-SUFFIX,btcbl.com,ChinaMax
 HOST-SUFFIX,btcbtc.tech,ChinaMax
 HOST-SUFFIX,btcc886.com,ChinaMax
 HOST-SUFFIX,btccjt.com,ChinaMax
@@ -16137,7 +16134,6 @@ HOST-SUFFIX,buydeem.com,ChinaMax
 HOST-SUFFIX,buydouke.com,ChinaMax
 HOST-SUFFIX,buyfine.net,ChinaMax
 HOST-SUFFIX,buyhaogu.com,ChinaMax
-HOST-SUFFIX,buyhosue.com,ChinaMax
 HOST-SUFFIX,buyhot.vip,ChinaMax
 HOST-SUFFIX,buyi9.com,ChinaMax
 HOST-SUFFIX,buyigang.com,ChinaMax
@@ -16882,7 +16878,6 @@ HOST-SUFFIX,cankaoshouce.com,ChinaMax
 HOST-SUFFIX,cankaoxiaoxi.com,ChinaMax
 HOST-SUFFIX,cankaoxx.com,ChinaMax
 HOST-SUFFIX,canlanjy.com,ChinaMax
-HOST-SUFFIX,cannabidiolnow.com,ChinaMax
 HOST-SUFFIX,canpdu.com,ChinaMax
 HOST-SUFFIX,canpoint.net,ChinaMax
 HOST-SUFFIX,canrill.com,ChinaMax
@@ -18691,7 +18686,6 @@ HOST-SUFFIX,chenksoft.com,ChinaMax
 HOST-SUFFIX,chenlb.com,ChinaMax
 HOST-SUFFIX,chenlianfu.com,ChinaMax
 HOST-SUFFIX,chenliangroup.com,ChinaMax
-HOST-SUFFIX,chenlimy.com,ChinaMax
 HOST-SUFFIX,chenlinux.com,ChinaMax
 HOST-SUFFIX,chenlinzuwu.com,ChinaMax
 HOST-SUFFIX,chenmomo.com,ChinaMax
@@ -20075,6 +20069,7 @@ HOST-SUFFIX,chyw.pub,ChinaMax
 HOST-SUFFIX,chyxx.com,ChinaMax
 HOST-SUFFIX,chzhkeji.com,ChinaMax
 HOST-SUFFIX,chzhw.com,ChinaMax
+HOST-SUFFIX,chzwater.com,ChinaMax
 HOST-SUFFIX,chzybj.com,ChinaMax
 HOST-SUFFIX,ci123.com,ChinaMax
 HOST-SUFFIX,ci2.lat,ChinaMax
@@ -21063,6 +21058,7 @@ HOST-SUFFIX,cncotton.com,ChinaMax
 HOST-SUFFIX,cncourt.org,ChinaMax
 HOST-SUFFIX,cncovs.com,ChinaMax
 HOST-SUFFIX,cncqcloud.com,ChinaMax
+HOST-SUFFIX,cncqsw.com,ChinaMax
 HOST-SUFFIX,cncrk.com,ChinaMax
 HOST-SUFFIX,cncrony.com,ChinaMax
 HOST-SUFFIX,cncrypt.com,ChinaMax
@@ -23234,6 +23230,7 @@ HOST-SUFFIX,czbtv.com,ChinaMax
 HOST-SUFFIX,czbx18.com,ChinaMax
 HOST-SUFFIX,czcarbon.com,ChinaMax
 HOST-SUFFIX,czcdt.com,ChinaMax
+HOST-SUFFIX,czcgewater.com,ChinaMax
 HOST-SUFFIX,czchuanlin.com,ChinaMax
 HOST-SUFFIX,czchyz.com,ChinaMax
 HOST-SUFFIX,czcid.com,ChinaMax
@@ -23325,6 +23322,7 @@ HOST-SUFFIX,cztvcloud.com,ChinaMax
 HOST-SUFFIX,czur.com,ChinaMax
 HOST-SUFFIX,czvv.net,ChinaMax
 HOST-SUFFIX,czwgpt.com,ChinaMax
+HOST-SUFFIX,czws.com,ChinaMax
 HOST-SUFFIX,czwsg5.com,ChinaMax
 HOST-SUFFIX,czwxbyq.com,ChinaMax
 HOST-SUFFIX,czwxtz.com,ChinaMax
@@ -26463,7 +26461,6 @@ HOST-SUFFIX,dsxliuxue.com,ChinaMax
 HOST-SUFFIX,dsxys.pro,ChinaMax
 HOST-SUFFIX,dsyun.com,ChinaMax
 HOST-SUFFIX,dsz.cc,ChinaMax
-HOST-SUFFIX,dszw.net,ChinaMax
 HOST-SUFFIX,dt-stor.com,ChinaMax
 HOST-SUFFIX,dt123.net,ChinaMax
 HOST-SUFFIX,dt830.com,ChinaMax
@@ -30734,6 +30731,7 @@ HOST-SUFFIX,fpoll.net,ChinaMax
 HOST-SUFFIX,fpplskc.com,ChinaMax
 HOST-SUFFIX,fps7.com,ChinaMax
 HOST-SUFFIX,fpsace.com,ChinaMax
+HOST-SUFFIX,fpshelper.com,ChinaMax
 HOST-SUFFIX,fpwap.com,ChinaMax
 HOST-SUFFIX,fpwjq.com,ChinaMax
 HOST-SUFFIX,fpxz.net,ChinaMax
@@ -32164,7 +32162,6 @@ HOST-SUFFIX,gebinlong.com,ChinaMax
 HOST-SUFFIX,gebinwang666.com,ChinaMax
 HOST-SUFFIX,gebiqu.com,ChinaMax
 HOST-SUFFIX,gec123.com,ChinaMax
-HOST-SUFFIX,geci345.com,ChinaMax
 HOST-SUFFIX,gecimi.com,ChinaMax
 HOST-SUFFIX,gedi2099.com,ChinaMax
 HOST-SUFFIX,gedou8.com,ChinaMax
@@ -33515,6 +33512,7 @@ HOST-SUFFIX,gn168.com,ChinaMax
 HOST-SUFFIX,gn301.xyz,ChinaMax
 HOST-SUFFIX,gnber.com,ChinaMax
 HOST-SUFFIX,gndaily.com,ChinaMax
+HOST-SUFFIX,gndown.com,ChinaMax
 HOST-SUFFIX,gneec.com,ChinaMax
 HOST-SUFFIX,gneec3.com,ChinaMax
 HOST-SUFFIX,gneec4.com,ChinaMax
@@ -37753,6 +37751,7 @@ HOST-SUFFIX,haitaibrowser.com,ChinaMax
 HOST-SUFFIX,haitaichina.com,ChinaMax
 HOST-SUFFIX,haitakuajing.com,ChinaMax
 HOST-SUFFIX,haitangmm.com,ChinaMax
+HOST-SUFFIX,haitangw.cc,ChinaMax
 HOST-SUFFIX,haitao.co,ChinaMax
 HOST-SUFFIX,haitao.com,ChinaMax
 HOST-SUFFIX,haitao369.com,ChinaMax
@@ -38439,6 +38438,7 @@ HOST-SUFFIX,hb-ecloud.com,ChinaMax
 HOST-SUFFIX,hb-green.com,ChinaMax
 HOST-SUFFIX,hb-hengda.com,ChinaMax
 HOST-SUFFIX,hb-ly.com,ChinaMax
+HOST-SUFFIX,hb-water.com,ChinaMax
 HOST-SUFFIX,hb-ws.com,ChinaMax
 HOST-SUFFIX,hb0561.com,ChinaMax
 HOST-SUFFIX,hb0771.com,ChinaMax
@@ -38873,6 +38873,7 @@ HOST-SUFFIX,hdb.com,ChinaMax
 HOST-SUFFIX,hdbaichuan.com,ChinaMax
 HOST-SUFFIX,hdbgjt.com,ChinaMax
 HOST-SUFFIX,hdbits.org,ChinaMax
+HOST-SUFFIX,hdchd.cc,ChinaMax
 HOST-SUFFIX,hdchina.org,ChinaMax
 HOST-SUFFIX,hdcmct.org,ChinaMax
 HOST-SUFFIX,hdcms.net,ChinaMax
@@ -39657,7 +39658,6 @@ HOST-SUFFIX,hhhppp.com,ChinaMax
 HOST-SUFFIX,hhhstz.com,ChinaMax
 HOST-SUFFIX,hhhtfdj.com,ChinaMax
 HOST-SUFFIX,hhhtfin.com,ChinaMax
-HOST-SUFFIX,hhhtnews.com,ChinaMax
 HOST-SUFFIX,hhhtscf.com,ChinaMax
 HOST-SUFFIX,hhhtyg.com,ChinaMax
 HOST-SUFFIX,hhjctest.com,ChinaMax
@@ -39670,6 +39670,7 @@ HOST-SUFFIX,hhking.com,ChinaMax
 HOST-SUFFIX,hhl1916.com,ChinaMax
 HOST-SUFFIX,hhmage.com,ChinaMax
 HOST-SUFFIX,hhmajiang.com,ChinaMax
+HOST-SUFFIX,hho-hawater.com,ChinaMax
 HOST-SUFFIX,hhpcbs.com,ChinaMax
 HOST-SUFFIX,hhpj.net,ChinaMax
 HOST-SUFFIX,hhpmzp.com,ChinaMax
@@ -42484,6 +42485,7 @@ HOST-SUFFIX,huzhongxin.com,ChinaMax
 HOST-SUFFIX,huzhoumj.com,ChinaMax
 HOST-SUFFIX,huzhoumuseum.com,ChinaMax
 HOST-SUFFIX,huzicaotang.com,ChinaMax
+HOST-SUFFIX,huzwater.com,ChinaMax
 HOST-SUFFIX,hvacstar.com,ChinaMax
 HOST-SUFFIX,hvcnitl.com,ChinaMax
 HOST-SUFFIX,hvcxo.com,ChinaMax
@@ -43000,6 +43002,7 @@ HOST-SUFFIX,hzwarp.com,ChinaMax
 HOST-SUFFIX,hzwaye.com,ChinaMax
 HOST-SUFFIX,hzwer.com,ChinaMax
 HOST-SUFFIX,hzwf.link,ChinaMax
+HOST-SUFFIX,hzwgc.com,ChinaMax
 HOST-SUFFIX,hzwhbcyxh.com,ChinaMax
 HOST-SUFFIX,hzwindpower.com,ChinaMax
 HOST-SUFFIX,hzwluo.com,ChinaMax
@@ -43563,6 +43566,7 @@ HOST-SUFFIX,icswb.com,ChinaMax
 HOST-SUFFIX,ict18.com,ChinaMax
 HOST-SUFFIX,ict361.com,ChinaMax
 HOST-SUFFIX,ict88.com,ChinaMax
+HOST-SUFFIX,ictbda.com,ChinaMax
 HOST-SUFFIX,ictcsr.org,ChinaMax
 HOST-SUFFIX,ictdns.cloud,ChinaMax
 HOST-SUFFIX,ictdns.fun,ChinaMax
@@ -44850,7 +44854,6 @@ HOST-SUFFIX,ionewu.com,ChinaMax
 HOST-SUFFIX,iooeoo.com,ChinaMax
 HOST-SUFFIX,iooiooi.com,ChinaMax
 HOST-SUFFIX,iooqoo.com,ChinaMax
-HOST-SUFFIX,iooyfeaq.sbs,ChinaMax
 HOST-SUFFIX,iop.org,ChinaMax
 HOST-SUFFIX,iopenhec.com,ChinaMax
 HOST-SUFFIX,iophthalmology.net,ChinaMax
@@ -45423,6 +45426,7 @@ HOST-SUFFIX,itjoy.net,ChinaMax
 HOST-SUFFIX,itjspx.com,ChinaMax
 HOST-SUFFIX,itjuzi.com,ChinaMax
 HOST-SUFFIX,itkoudai.com,ChinaMax
+HOST-SUFFIX,itlog.vip,ChinaMax
 HOST-SUFFIX,itlu.org,ChinaMax
 HOST-SUFFIX,itlz.net,ChinaMax
 HOST-SUFFIX,itmakes.com,ChinaMax
@@ -47624,6 +47628,7 @@ HOST-SUFFIX,jituotech.com,ChinaMax
 HOST-SUFFIX,jituwang.com,ChinaMax
 HOST-SUFFIX,jitwd.com,ChinaMax
 HOST-SUFFIX,jiu-b.com,ChinaMax
+HOST-SUFFIX,jiuaidu.com,ChinaMax
 HOST-SUFFIX,jiuaizhihe.com,ChinaMax
 HOST-SUFFIX,jiubaju.com,ChinaMax
 HOST-SUFFIX,jiubawan.com,ChinaMax
@@ -48045,6 +48050,7 @@ HOST-SUFFIX,jlszykj.com,ChinaMax
 HOST-SUFFIX,jltchina.com,ChinaMax
 HOST-SUFFIX,jltrq.com,ChinaMax
 HOST-SUFFIX,jltyjxzz.com,ChinaMax
+HOST-SUFFIX,jlwater.com,ChinaMax
 HOST-SUFFIX,jlxfw.com,ChinaMax
 HOST-SUFFIX,jlxtxny.com,ChinaMax
 HOST-SUFFIX,jlytzk.com,ChinaMax
@@ -48530,7 +48536,6 @@ HOST-SUFFIX,jsbgj.com,ChinaMax
 HOST-SUFFIX,jsboxbbs.com,ChinaMax
 HOST-SUFFIX,jsbzwh.com,ChinaMax
 HOST-SUFFIX,jscdn.ink,ChinaMax
-HOST-SUFFIX,jscdn9.com,ChinaMax
 HOST-SUFFIX,jscdwlw.com,ChinaMax
 HOST-SUFFIX,jsceou.com,ChinaMax
 HOST-SUFFIX,jschanglong.com,ChinaMax
@@ -48777,6 +48782,7 @@ HOST-SUFFIX,jsxy.biz,ChinaMax
 HOST-SUFFIX,jsxzty.com,ChinaMax
 HOST-SUFFIX,jsybjz.com,ChinaMax
 HOST-SUFFIX,jsycsy.com,ChinaMax
+HOST-SUFFIX,jsyczls.com,ChinaMax
 HOST-SUFFIX,jsyf88.com,ChinaMax
 HOST-SUFFIX,jsyghw.com,ChinaMax
 HOST-SUFFIX,jsyhxl.com,ChinaMax
@@ -55219,6 +55225,7 @@ HOST-SUFFIX,lvping.com,ChinaMax
 HOST-SUFFIX,lvqingqichangjia.com,ChinaMax
 HOST-SUFFIX,lvrdn.com,ChinaMax
 HOST-SUFFIX,lvren.com,ChinaMax
+HOST-SUFFIX,lvruanhome.com,ChinaMax
 HOST-SUFFIX,lvsanxia.com,ChinaMax
 HOST-SUFFIX,lvse.com,ChinaMax
 HOST-SUFFIX,lvsenbao.com,ChinaMax
@@ -57224,7 +57231,6 @@ HOST-SUFFIX,mhrooz.xyz,ChinaMax
 HOST-SUFFIX,mht.la,ChinaMax
 HOST-SUFFIX,mhtclub.com,ChinaMax
 HOST-SUFFIX,mhtes.com,ChinaMax
-HOST-SUFFIX,mhtml5.com,ChinaMax
 HOST-SUFFIX,mhtyd.com,ChinaMax
 HOST-SUFFIX,mhtzjt.com,ChinaMax
 HOST-SUFFIX,mhukasx.com,ChinaMax
@@ -58562,7 +58568,6 @@ HOST-SUFFIX,mpoa.vip,ChinaMax
 HOST-SUFFIX,mpopkart.com,ChinaMax
 HOST-SUFFIX,mpronnn.com,ChinaMax
 HOST-SUFFIX,mpserverless.com,ChinaMax
-HOST-SUFFIX,mpweixin.net,ChinaMax
 HOST-SUFFIX,mpxiaomi.net,ChinaMax
 HOST-SUFFIX,mpxx.net,ChinaMax
 HOST-SUFFIX,mqant.com,ChinaMax
@@ -60332,6 +60337,7 @@ HOST-SUFFIX,ningbofy.com,ChinaMax
 HOST-SUFFIX,ningborunner.com,ChinaMax
 HOST-SUFFIX,ningbotianxia.com,ChinaMax
 HOST-SUFFIX,ningbotm.net,ChinaMax
+HOST-SUFFIX,ningbowater.com,ChinaMax
 HOST-SUFFIX,ningdo.com,ChinaMax
 HOST-SUFFIX,ningdong.com,ChinaMax
 HOST-SUFFIX,ningfoo.com,ChinaMax
@@ -61282,6 +61288,7 @@ HOST-SUFFIX,nsforce.net,ChinaMax
 HOST-SUFFIX,nshen.net,ChinaMax
 HOST-SUFFIX,nshzpks.com,ChinaMax
 HOST-SUFFIX,nsini.com,ChinaMax
+HOST-SUFFIX,nsisfans.com,ChinaMax
 HOST-SUFFIX,nskfagcn.com,ChinaMax
 HOST-SUFFIX,nsknsk.com,ChinaMax
 HOST-SUFFIX,nskwj.com,ChinaMax
@@ -65811,6 +65818,7 @@ HOST-SUFFIX,qiumibao.com,ChinaMax
 HOST-SUFFIX,qiumijia.com,ChinaMax
 HOST-SUFFIX,qiumiwu.com,ChinaMax
 HOST-SUFFIX,qiuqiusd.com,ChinaMax
+HOST-SUFFIX,qiuquan.cc,ChinaMax
 HOST-SUFFIX,qiushi.com,ChinaMax
 HOST-SUFFIX,qiushibaike.com,ChinaMax
 HOST-SUFFIX,qiushile.com,ChinaMax
@@ -72478,6 +72486,7 @@ HOST-SUFFIX,sjzrbapp.com,ChinaMax
 HOST-SUFFIX,sjzshunbang.com,ChinaMax
 HOST-SUFFIX,sjzsidadianji.com,ChinaMax
 HOST-SUFFIX,sjzslnyhy.com,ChinaMax
+HOST-SUFFIX,sjzswtz.com,ChinaMax
 HOST-SUFFIX,sjztd.com,ChinaMax
 HOST-SUFFIX,sjzxfy.com,ChinaMax
 HOST-SUFFIX,sjzxtsh.com,ChinaMax
@@ -73545,6 +73554,7 @@ HOST-SUFFIX,sqrtthree.com,ChinaMax
 HOST-SUFFIX,sqrush.com,ChinaMax
 HOST-SUFFIX,sqsjt.net,ChinaMax
 HOST-SUFFIX,sqstudio.com,ChinaMax
+HOST-SUFFIX,sqswjt.com,ChinaMax
 HOST-SUFFIX,squarecn.com,ChinaMax
 HOST-SUFFIX,squarefong.com,ChinaMax
 HOST-SUFFIX,squirtle-skfjkdl.com,ChinaMax
@@ -74420,6 +74430,7 @@ HOST-SUFFIX,sustech.online,ChinaMax
 HOST-SUFFIX,susudm.com,ChinaMax
 HOST-SUFFIX,suteidc.com,ChinaMax
 HOST-SUFFIX,sutune.me,ChinaMax
+HOST-SUFFIX,suujee.com,ChinaMax
 HOST-SUFFIX,suuny0826.com,ChinaMax
 HOST-SUFFIX,suv666.com,ChinaMax
 HOST-SUFFIX,suxiazai.com,ChinaMax
@@ -75872,7 +75883,6 @@ HOST-SUFFIX,taotao.com,ChinaMax
 HOST-SUFFIX,taotaocar.com,ChinaMax
 HOST-SUFFIX,taotaoit.com,ChinaMax
 HOST-SUFFIX,taotaosports.com,ChinaMax
-HOST-SUFFIX,taotaoxz.com,ChinaMax
 HOST-SUFFIX,taotian.com,ChinaMax
 HOST-SUFFIX,taotieren.com,ChinaMax
 HOST-SUFFIX,taotiwang.com,ChinaMax
@@ -76563,6 +76573,7 @@ HOST-SUFFIX,tgtianshanga.com,ChinaMax
 HOST-SUFFIX,tgxuwgdi.com,ChinaMax
 HOST-SUFFIX,tgy365.com,ChinaMax
 HOST-SUFFIX,tgzwmk.xyz,ChinaMax
+HOST-SUFFIX,th-sjy.com,ChinaMax
 HOST-SUFFIX,th-water.net,ChinaMax
 HOST-SUFFIX,th.app,ChinaMax
 HOST-SUFFIX,th.bing.com,ChinaMax
@@ -78997,6 +79008,7 @@ HOST-SUFFIX,tzjtjx.com,ChinaMax
 HOST-SUFFIX,tzjufeng.com,ChinaMax
 HOST-SUFFIX,tzjwrml.com,ChinaMax
 HOST-SUFFIX,tzjxl.com,ChinaMax
+HOST-SUFFIX,tzjzsw.com,ChinaMax
 HOST-SUFFIX,tzkameng.com,ChinaMax
 HOST-SUFFIX,tzkciz.com,ChinaMax
 HOST-SUFFIX,tzlib.net,ChinaMax
@@ -81109,6 +81121,7 @@ HOST-SUFFIX,w3cschool.cc,ChinaMax
 HOST-SUFFIX,w3ctalk.com,ChinaMax
 HOST-SUFFIX,w3ctech.com,ChinaMax
 HOST-SUFFIX,w3cways.com,ChinaMax
+HOST-SUFFIX,w3h5.com,ChinaMax
 HOST-SUFFIX,w3pop.com,ChinaMax
 HOST-SUFFIX,w3techservices.com,ChinaMax
 HOST-SUFFIX,w3tool.com,ChinaMax
@@ -85079,6 +85092,7 @@ HOST-SUFFIX,xcjytz.com,ChinaMax
 HOST-SUFFIX,xckfsq.com,ChinaMax
 HOST-SUFFIX,xckgq.com,ChinaMax
 HOST-SUFFIX,xckj688.com,ChinaMax
+HOST-SUFFIX,xckpjs.com,ChinaMax
 HOST-SUFFIX,xckszx.com,ChinaMax
 HOST-SUFFIX,xcloudbase.com,ChinaMax
 HOST-SUFFIX,xcmad.com,ChinaMax
@@ -85250,7 +85264,6 @@ HOST-SUFFIX,xewl.xyz,ChinaMax
 HOST-SUFFIX,xeylon.com,ChinaMax
 HOST-SUFFIX,xeys.net,ChinaMax
 HOST-SUFFIX,xf-fund.com,ChinaMax
-HOST-SUFFIX,xf-rv.com,ChinaMax
 HOST-SUFFIX,xf-world.org,ChinaMax
 HOST-SUFFIX,xf-yun.com,ChinaMax
 HOST-SUFFIX,xf.com,ChinaMax
@@ -86011,7 +86024,6 @@ HOST-SUFFIX,xiaoshuxiong.com,ChinaMax
 HOST-SUFFIX,xiaoshyu.com,ChinaMax
 HOST-SUFFIX,xiaositv.com,ChinaMax
 HOST-SUFFIX,xiaoss.net,ChinaMax
-HOST-SUFFIX,xiaosuiyin.com,ChinaMax
 HOST-SUFFIX,xiaot.com,ChinaMax
 HOST-SUFFIX,xiaota.com,ChinaMax
 HOST-SUFFIX,xiaotangketang.com,ChinaMax
@@ -87670,7 +87682,6 @@ HOST-SUFFIX,xoyq.net,ChinaMax
 HOST-SUFFIX,xp6000.com,ChinaMax
 HOST-SUFFIX,xp85.com,ChinaMax
 HOST-SUFFIX,xp868.com,ChinaMax
-HOST-SUFFIX,xp88.shop,ChinaMax
 HOST-SUFFIX,xp9365.com,ChinaMax
 HOST-SUFFIX,xpaoshu88.com,ChinaMax
 HOST-SUFFIX,xpaozww.com,ChinaMax
@@ -88320,6 +88331,7 @@ HOST-SUFFIX,xuzhoudeyu.com,ChinaMax
 HOST-SUFFIX,xuzhoujob.com,ChinaMax
 HOST-SUFFIX,xuzhoumuseum.com,ChinaMax
 HOST-SUFFIX,xuzhousports.com,ChinaMax
+HOST-SUFFIX,xuzhouwater.com,ChinaMax
 HOST-SUFFIX,xuzpazms.com,ChinaMax
 HOST-SUFFIX,xv5.com,ChinaMax
 HOST-SUFFIX,xvcdmo.com,ChinaMax
@@ -91690,6 +91702,7 @@ HOST-SUFFIX,yrucd.com,ChinaMax
 HOST-SUFFIX,yrw.cc,ChinaMax
 HOST-SUFFIX,yrw.com,ChinaMax
 HOST-SUFFIX,yrwy.com,ChinaMax
+HOST-SUFFIX,yrxitong.com,ChinaMax
 HOST-SUFFIX,yrxsw.com,ChinaMax
 HOST-SUFFIX,yryz.com,ChinaMax
 HOST-SUFFIX,yryz.net,ChinaMax
@@ -93055,6 +93068,7 @@ HOST-SUFFIX,yzbo.tv,ChinaMax
 HOST-SUFFIX,yzbpro.com,ChinaMax
 HOST-SUFFIX,yzbqzx.net,ChinaMax
 HOST-SUFFIX,yzbsytl.com,ChinaMax
+HOST-SUFFIX,yzckjt.com,ChinaMax
 HOST-SUFFIX,yzcnet.com,ChinaMax
 HOST-SUFFIX,yzcxtz.com,ChinaMax
 HOST-SUFFIX,yzcxx.com,ChinaMax
@@ -94382,6 +94396,7 @@ HOST-SUFFIX,zhentan.la,ChinaMax
 HOST-SUFFIX,zhenwu.com,ChinaMax
 HOST-SUFFIX,zhenxiad.com,ChinaMax
 HOST-SUFFIX,zhenxian.fm,ChinaMax
+HOST-SUFFIX,zhenxiaoshan.com,ChinaMax
 HOST-SUFFIX,zhenxiliangshi.com,ChinaMax
 HOST-SUFFIX,zhenxin2014.com,ChinaMax
 HOST-SUFFIX,zhenxinfu.com,ChinaMax
@@ -94474,6 +94489,7 @@ HOST-SUFFIX,zhienkeji.com,ChinaMax
 HOST-SUFFIX,zhierjie.com,ChinaMax
 HOST-SUFFIX,zhieruav.com,ChinaMax
 HOST-SUFFIX,zhifa.cc,ChinaMax
+HOST-SUFFIX,zhifa315.com,ChinaMax
 HOST-SUFFIX,zhifang.com,ChinaMax
 HOST-SUFFIX,zhifashengfa.com,ChinaMax
 HOST-SUFFIX,zhifayangfa.com,ChinaMax
@@ -95636,6 +95652,7 @@ HOST-SUFFIX,zjhaitian.com,ChinaMax
 HOST-SUFFIX,zjhangyin.com,ChinaMax
 HOST-SUFFIX,zjhbdlkj.com,ChinaMax
 HOST-SUFFIX,zjhcbank.com,ChinaMax
+HOST-SUFFIX,zjhdcs.com,ChinaMax
 HOST-SUFFIX,zjhejiang.com,ChinaMax
 HOST-SUFFIX,zjhi.net,ChinaMax
 HOST-SUFFIX,zjhkele.com,ChinaMax
@@ -95735,6 +95752,7 @@ HOST-SUFFIX,zjqichuang.com,ChinaMax
 HOST-SUFFIX,zjqinzijianding.com,ChinaMax
 HOST-SUFFIX,zjqjs.com,ChinaMax
 HOST-SUFFIX,zjqqmy.com,ChinaMax
+HOST-SUFFIX,zjqzsy.com,ChinaMax
 HOST-SUFFIX,zjrc.com,ChinaMax
 HOST-SUFFIX,zjrc.net,ChinaMax
 HOST-SUFFIX,zjrcu.com,ChinaMax
@@ -95776,6 +95794,7 @@ HOST-SUFFIX,zjtntd.com,ChinaMax
 HOST-SUFFIX,zjtree.com,ChinaMax
 HOST-SUFFIX,zjtxedu.org,ChinaMax
 HOST-SUFFIX,zjtzcx.com,ChinaMax
+HOST-SUFFIX,zjtzwater.com,ChinaMax
 HOST-SUFFIX,zju88.org,ChinaMax
 HOST-SUFFIX,zjugis.com,ChinaMax
 HOST-SUFFIX,zjujournals.com,ChinaMax
@@ -96388,6 +96407,7 @@ HOST-SUFFIX,zsquant.com,ChinaMax
 HOST-SUFFIX,zsr.cc,ChinaMax
 HOST-SUFFIX,zssl.net,ChinaMax
 HOST-SUFFIX,zssph.com,ChinaMax
+HOST-SUFFIX,zsswjt.com,ChinaMax
 HOST-SUFFIX,zsszyy.com,ChinaMax
 HOST-SUFFIX,zstack.io,ChinaMax
 HOST-SUFFIX,zstack.org,ChinaMax
@@ -97718,7 +97738,7 @@ IP-CIDR,103.144.66.0/23,ChinaMax
 IP-CIDR,103.144.70.0/23,ChinaMax
 IP-CIDR,103.144.72.0/23,ChinaMax
 IP-CIDR,103.144.88.0/24,ChinaMax
-IP-CIDR,103.145.104.0/22,ChinaMax
+IP-CIDR,103.145.106.0/23,ChinaMax
 IP-CIDR,103.145.122.0/23,ChinaMax
 IP-CIDR,103.145.188.0/22,ChinaMax
 IP-CIDR,103.145.38.0/23,ChinaMax
@@ -99489,7 +99509,7 @@ IP-CIDR,104.167.20.0/22,ChinaMax
 IP-CIDR,104.167.24.0/21,ChinaMax
 IP-CIDR,104.192.108.0/23,ChinaMax
 IP-CIDR,104.192.110.0/24,ChinaMax
-IP-CIDR,104.192.80.0/21,ChinaMax
+IP-CIDR,104.192.83.64/32,ChinaMax
 IP-CIDR,104.192.94.0/24,ChinaMax
 IP-CIDR,104.193.8.0/22,ChinaMax
 IP-CIDR,104.193.88.244/32,ChinaMax
@@ -99510,13 +99530,6 @@ IP-CIDR,104.212.68.152/32,ChinaMax
 IP-CIDR,104.212.68.57/32,ChinaMax
 IP-CIDR,104.212.68.58/32,ChinaMax
 IP-CIDR,104.227.65.96/28,ChinaMax
-IP-CIDR,104.233.128.0/20,ChinaMax
-IP-CIDR,104.233.144.0/21,ChinaMax
-IP-CIDR,104.233.157.0/24,ChinaMax
-IP-CIDR,104.233.159.0/24,ChinaMax
-IP-CIDR,104.233.184.0/21,ChinaMax
-IP-CIDR,104.233.224.0/20,ChinaMax
-IP-CIDR,104.233.240.0/21,ChinaMax
 IP-CIDR,104.237.80.0/21,ChinaMax
 IP-CIDR,104.245.96.0/21,ChinaMax
 IP-CIDR,104.27.168.0/24,ChinaMax
@@ -99835,14 +99848,8 @@ IP-CIDR,106.56.0.0/13,ChinaMax
 IP-CIDR,106.74.0.0/15,ChinaMax
 IP-CIDR,106.8.0.0/15,ChinaMax
 IP-CIDR,106.80.0.0/12,ChinaMax
-IP-CIDR,107.148.150.0/23,ChinaMax
-IP-CIDR,107.148.152.0/21,ChinaMax
 IP-CIDR,107.148.160.0/22,ChinaMax
-IP-CIDR,107.148.208.0/20,ChinaMax
-IP-CIDR,107.148.240.0/20,ChinaMax
-IP-CIDR,107.148.84.0/23,ChinaMax
 IP-CIDR,107.148.92.0/23,ChinaMax
-IP-CIDR,107.149.198.0/23,ChinaMax
 IP-CIDR,107.149.208.0/23,ChinaMax
 IP-CIDR,107.150.125.199/32,ChinaMax
 IP-CIDR,107.151.208.0/20,ChinaMax
@@ -103512,7 +103519,6 @@ IP-CIDR,225.1.8.84/31,ChinaMax
 IP-CIDR,225.1.8.88/31,ChinaMax
 IP-CIDR,225.1.8.9/32,ChinaMax
 IP-CIDR,23.0.0.0/24,ChinaMax
-IP-CIDR,23.132.132.0/24,ChinaMax
 IP-CIDR,23.158.104.0/25,ChinaMax
 IP-CIDR,23.158.104.128/26,ChinaMax
 IP-CIDR,23.158.104.192/27,ChinaMax
@@ -104344,12 +104350,9 @@ IP-CIDR,38.103.64.26/32,ChinaMax
 IP-CIDR,38.105.26.0/23,ChinaMax
 IP-CIDR,38.105.28.0/22,ChinaMax
 IP-CIDR,38.111.220.0/23,ChinaMax
-IP-CIDR,38.12.0.0/19,ChinaMax
-IP-CIDR,38.12.255.0/24,ChinaMax
-IP-CIDR,38.12.32.0/21,ChinaMax
-IP-CIDR,38.12.48.0/21,ChinaMax
+IP-CIDR,38.12.36.0/23,ChinaMax
+IP-CIDR,38.12.39.0/24,ChinaMax
 IP-CIDR,38.134.56.0/23,ChinaMax
-IP-CIDR,38.14.232.0/21,ChinaMax
 IP-CIDR,38.147.168.0/23,ChinaMax
 IP-CIDR,38.147.174.0/23,ChinaMax
 IP-CIDR,38.181.0.0/19,ChinaMax
@@ -104402,7 +104405,7 @@ IP-CIDR,38.47.228.0/22,ChinaMax
 IP-CIDR,38.47.232.0/21,ChinaMax
 IP-CIDR,38.47.240.0/20,ChinaMax
 IP-CIDR,38.54.10.0/32,ChinaMax
-IP-CIDR,38.55.128.0/18,ChinaMax
+IP-CIDR,38.55.135.0/24,ChinaMax
 IP-CIDR,38.60.143.0/24,ChinaMax
 IP-CIDR,38.60.144.0/23,ChinaMax
 IP-CIDR,38.60.214.0/32,ChinaMax
@@ -105150,6 +105153,7 @@ IP-CIDR,45.85.76.0/22,ChinaMax
 IP-CIDR,45.87.53.0/24,ChinaMax
 IP-CIDR,45.87.54.0/24,ChinaMax
 IP-CIDR,45.9.11.0/24,ChinaMax
+IP-CIDR,45.91.83.0/24,ChinaMax
 IP-CIDR,45.92.158.0/23,ChinaMax
 IP-CIDR,46.102.251.0/25,ChinaMax
 IP-CIDR,46.151.180.0/23,ChinaMax
@@ -113816,6 +113820,11 @@ IP6-CIDR,2402:e0c0::/32,ChinaMax
 IP6-CIDR,2402:e140::/32,ChinaMax
 IP6-CIDR,2402:e2c0::/32,ChinaMax
 IP6-CIDR,2402:e380:100::/40,ChinaMax
+IP6-CIDR,2402:e380:302::/48,ChinaMax
+IP6-CIDR,2402:e380:306::/48,ChinaMax
+IP6-CIDR,2402:e380:308::/48,ChinaMax
+IP6-CIDR,2402:e380:30c::/48,ChinaMax
+IP6-CIDR,2402:e380:312::/48,ChinaMax
 IP6-CIDR,2402:e3c0::/32,ChinaMax
 IP6-CIDR,2402:e480::/32,ChinaMax
 IP6-CIDR,2402:e540::/32,ChinaMax
@@ -117378,7 +117387,7 @@ IP6-CIDR,2a0f:7802:e140::/46,ChinaMax
 IP6-CIDR,2a0f:7803:dd00::/42,ChinaMax
 IP6-CIDR,2a0f:7803:e300::/40,ChinaMax
 IP6-CIDR,2a0f:7803:f5d0::/44,ChinaMax
-IP6-CIDR,2a0f:7803:f5e0::/43,ChinaMax
+IP6-CIDR,2a0f:7803:f5f0::/44,ChinaMax
 IP6-CIDR,2a0f:7803:f680::/43,ChinaMax
 IP6-CIDR,2a0f:7803:f6a0::/44,ChinaMax
 IP6-CIDR,2a0f:7803:f7a0::/44,ChinaMax
