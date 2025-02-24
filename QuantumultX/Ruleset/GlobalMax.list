@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31146
+# 规则统计: 31147
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -6579,6 +6579,7 @@ HOST-SUFFIX,cods-nursing.ac.uk,GlobalMax
 HOST-SUFFIX,coedcherry.com,GlobalMax
 HOST-SUFFIX,coem.ac.uk,GlobalMax
 HOST-SUFFIX,cof.ac.uk,GlobalMax
+HOST-SUFFIX,cofacts.tw,GlobalMax
 HOST-SUFFIX,cogc.ac.uk,GlobalMax
 HOST-SUFFIX,coin2co.in,GlobalMax
 HOST-SUFFIX,coinalyze.net,GlobalMax
