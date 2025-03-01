@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 6917
+# 规则统计: 6918
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -838,6 +838,7 @@ HOST-SUFFIX,brookings.edu,Global
 HOST-SUFFIX,brucewang.net,Global
 HOST-SUFFIX,brutaltgp.com,Global
 HOST-SUFFIX,bsky.app,Global
+HOST-SUFFIX,bsky.network,Global
 HOST-SUFFIX,bsky.social,Global
 HOST-SUFFIX,bt2mag.com,Global
 HOST-SUFFIX,bt95.com,Global
