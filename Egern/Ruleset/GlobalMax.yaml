@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31285
+# 规则统计: 31318
 
 no_resolve: true
 domain_set:
@@ -1852,6 +1852,7 @@ domain_suffix_set:
   - ankarazirvesi2018.com
   - anm.co.uk
   - annamilk.com
+  - annas-archive.org
   - annas-archive.se
   - annatam.com
   - anniesland-fe.ac.uk
@@ -6446,6 +6447,7 @@ domain_suffix_set:
   - clinicalskillscentre.ac.uk
   - clip16.com
   - clipcake.com
+  - clipconverter.cc
   - clipdrop.co
   - clipfish.de
   - cliphayho.com
@@ -6640,6 +6642,7 @@ domain_suffix_set:
   - coitustube.com
   - col-westanglia.ac.uk
   - col.ac.uk
+  - colacloud.net
   - colc.ac.uk
   - colcc.ac.uk
   - colch-inst.ac.uk
@@ -7516,6 +7519,7 @@ domain_suffix_set:
   - dementianet.ac.uk
   - dementiaresearchinstitute.ac.uk
   - demfhz.xyz
+  - demo.unlock-music.dev
   - democracy.earth
   - democrats.org
   - demonoid.is
@@ -8985,6 +8989,7 @@ domain_suffix_set:
   - elasticbeanstalk.com
   - elatt.ac.uk
   - elc.ac.uk
+  - elconfidencial.com
   - elder-cove.ac.uk
   - elderscrolls.com
   - elearning.ac.uk
@@ -10061,6 +10066,7 @@ domain_suffix_set:
   - fast.com
   - fastech.ac.uk
   - fastestvpn.com
+  - fastgpt.run
   - fastindianporn.com
   - fastlane.ci
   - fastlane.tools
@@ -10181,6 +10187,7 @@ domain_suffix_set:
   - feeder.co
   - feedherfuckher.com
   - feedly.com
+  - feedly.comfastgpt.run
   - feedsportal.com
   - feedx.net
   - feelssh.com
@@ -10790,6 +10797,7 @@ domain_suffix_set:
   - free-wap-tube.com
   - free-xxx-porn.org
   - free.bg
+  - free.com.tw
   - free.fr
   - free00.com
   - free18.net
@@ -10949,6 +10957,7 @@ domain_suffix_set:
   - froogle.com
   - frootvpn.com
   - frostbite.com
+  - froth.zone
   - frprn.com
   - fruitycams.com
   - fsacebok.com
@@ -11716,6 +11725,7 @@ domain_suffix_set:
   - go-lang.net
   - go-lang.org
   - go-pki.com
+  - go-to-zlibrary.se
   - go.com
   - go.dev
   - go.jp
@@ -13138,6 +13148,7 @@ domain_suffix_set:
   - home-made-videos.com
   - home-sex-tapes.com
   - home-song.com
+  - home.saxo
   - home.sina.com
   - homealonemilfs.com
   - homedepot-static.com
@@ -14140,6 +14151,7 @@ domain_suffix_set:
   - ilife.eu
   - ilife.gr
   - ilife.wang
+  - illawarramercury.com.au
   - illianacomputerrecycling.com
   - illusion.co.jp
   - illusion.jp
@@ -14203,6 +14215,7 @@ domain_suffix_set:
   - imaginationsengine.com
   - imaginecup.pl
   - imagineecommerce.com
+  - imago-images.com
   - imaypb.com
   - imb.org
   - imdb.com
@@ -15327,6 +15340,7 @@ domain_suffix_set:
   - jiehua.tv
   - jiepang.com
   - jieshibaobao.com
+  - jifangge.com
   - jigglegifs.com
   - jigong1024.com
   - jigsy.com
@@ -16419,6 +16433,7 @@ domain_suffix_set:
   - linksalpha.com
   - linkshit.com
   - linksintolanguages.ac.uk
+  - linktr.ee
   - linkuswell.com
   - linode.com
   - linotype.com
@@ -16992,6 +17007,7 @@ domain_suffix_set:
   - magnacartacollege.ac.uk
   - mahabodhi.org
   - mahajantech.com
+  - mahjongsoul.com
   - mahsc.ac.uk
   - maiio.net
   - mail-archive.com
@@ -18185,6 +18201,7 @@ domain_suffix_set:
   - mitbbsau.com
   - mitnaka.com
   - mitpressjournals.org
+  - miuipolska.pl
   - mixasiansex.com
   - mixero.com
   - mixi.jp
@@ -21391,6 +21408,7 @@ domain_suffix_set:
   - physiology.org
   - pi-project.ac.uk
   - pi-vr.com
+  - piaotia.com
   - piaotian.net
   - piapp.com.tw
   - piapro.net
@@ -22373,6 +22391,7 @@ domain_suffix_set:
   - ptt3.cc
   - pttgame.com
   - pttvan.org
+  - ptwxz.com
   - ptzwx.com
   - pu82.vip
   - pub.dev
@@ -24473,6 +24492,7 @@ domain_suffix_set:
   - singlelogin.app
   - singlelogin.me
   - singlelogin.re
+  - singlelogin.se
   - singlelogin.site
   - singpao.com.hk
   - singtao.ca
@@ -24618,6 +24638,7 @@ domain_suffix_set:
   - slheng.com
   - sli-institute.ac.uk
   - slickvpn.com
+  - slides.com
   - slides.new
   - slideshare.com
   - slideshare.net
@@ -25642,6 +25663,8 @@ domain_suffix_set:
   - sunglassessale2014.com
   - sunitec.ac.uk
   - sunmedia.ca
+  - suno.ai
+  - suno.com
   - sunporno.com
   - sunskyforum.com
   - sunta.com.tw
@@ -26194,6 +26217,7 @@ domain_suffix_set:
   - test-ipv6.belwue.net
   - test-ipv6.carnet.hr
   - test-ipv6.cl
+  - test-ipv6.com
   - test-ipv6.cs.umd.edu
   - test-ipv6.csclub.uwaterloo.ca
   - test-ipv6.cz
@@ -26434,6 +26458,7 @@ domain_suffix_set:
   - thesun.co.uk
   - thesun.ie
   - thesundaytimes.co.uk
+  - thetatoken.org
   - theteenhome.com
   - thethothub.com
   - thetibetcenter.org
@@ -26757,6 +26782,7 @@ domain_suffix_set:
   - tombola.ac.uk
   - tomonews.net
   - tomovie.net
+  - tomp3.cc
   - tomsguide.com
   - tomshardware.com
   - tonec.com
@@ -27145,6 +27171,7 @@ domain_suffix_set:
   - tuidang.se
   - tuitui.info
   - tuitwit.com
+  - tukaani.org
   - tukif.com
   - tumbex.com
   - tumblr.co
@@ -27371,6 +27398,7 @@ domain_suffix_set:
   - typekit.net
   - typenetwork.com
   - typepad.com
+  - typeset.io
   - typesquare.com
   - typography.com
   - typora.io
@@ -28124,6 +28152,7 @@ domain_suffix_set:
   - verizonmedia.com
   - verizonwireless.com
   - vermonttibet.org
+  - vern.cc
   - verpeliculasporno.gratis
   - versavpn.com
   - versly.com
@@ -29329,6 +29358,7 @@ domain_suffix_set:
   - wikileaks.lu
   - wikileaks.org
   - wikileaks.pl
+  - wikiless.funami.tech
   - wikilivres.info
   - wikimapia.org
   - wikimedia.org
@@ -29621,6 +29651,7 @@ domain_suffix_set:
   - wulfrun.ac.uk
   - wumashe.com
   - wun.ac.uk
+  - wunderground.com
   - wunvb.com
   - wuso.me
   - wuw.red
@@ -29644,6 +29675,7 @@ domain_suffix_set:
   - www-paypal.us
   - www-sms-apple.com
   - www.destinationurl.com
+  - www.lorenzetti.com.br
   - www.pxcc.com
   - www.sb
   - www1.biz
@@ -30994,6 +31026,7 @@ domain_suffix_set:
   - zfreet.com
   - zgsddh.com
   - zgzcjj.net
+  - zh-hans.cfsh99.com
   - zh99.net
   - zhaimankan.com
   - zhainanjidi.xyz
