@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7098
+# 规则统计: 7100
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -3985,6 +3985,7 @@ HOST-SUFFIX,multiupload.com,Global
 HOST-SUFFIX,mummysgold.com,Global
 HOST-SUFFIX,murmur.tw,Global
 HOST-SUFFIX,musicade.net,Global
+HOST-SUFFIX,musixmatch.com,Global
 HOST-SUFFIX,muslimvideo.com,Global
 HOST-SUFFIX,muzi.com,Global
 HOST-SUFFIX,muzi.net,Global
@@ -6089,6 +6090,7 @@ HOST-SUFFIX,twitturly.com,Global
 HOST-SUFFIX,twitvid.com,Global
 HOST-SUFFIX,twitzap.com,Global
 HOST-SUFFIX,twiyia.com,Global
+HOST-SUFFIX,twkan.com,Global
 HOST-SUFFIX,twnorth.org.tw,Global
 HOST-SUFFIX,twreporter.org,Global
 HOST-SUFFIX,twskype.com,Global

@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117152
+# 规则统计: 117153
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -66489,6 +66489,8 @@ HOST-SUFFIX,qwbk.cc,ChinaMax
 HOST-SUFFIX,qwe1e.com,ChinaMax
 HOST-SUFFIX,qweather.com,ChinaMax
 HOST-SUFFIX,qweather.net,ChinaMax
+HOST-SUFFIX,qwen.ai,ChinaMax
+HOST-SUFFIX,qwenlm.ai,ChinaMax
 HOST-SUFFIX,qwerhost.com,ChinaMax
 HOST-SUFFIX,qwfync.com,ChinaMax
 HOST-SUFFIX,qwgg.com,ChinaMax
@@ -100427,7 +100429,7 @@ IP-CIDR,156.224.224.0/24,ChinaMax
 IP-CIDR,156.224.232.0/24,ChinaMax
 IP-CIDR,156.230.11.0/24,ChinaMax
 IP-CIDR,156.230.12.0/23,ChinaMax
-IP-CIDR,156.232.10.0/24,ChinaMax
+IP-CIDR,156.232.10.0/23,ChinaMax
 IP-CIDR,156.232.9.0/24,ChinaMax
 IP-CIDR,156.236.96.0/23,ChinaMax
 IP-CIDR,156.237.104.0/23,ChinaMax
@@ -102784,7 +102786,6 @@ IP-CIDR,213.255.231.0/24,ChinaMax
 IP-CIDR,216.246.39.189/32,ChinaMax
 IP-CIDR,217.146.9.192/28,ChinaMax
 IP-CIDR,217.194.133.0/24,ChinaMax
-IP-CIDR,217.194.135.0/24,ChinaMax
 IP-CIDR,217.20.164.181/32,ChinaMax
 IP-CIDR,217.7.142.0/32,ChinaMax
 IP-CIDR,218.0.0.0/11,ChinaMax
