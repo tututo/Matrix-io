@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31445
+# 规则统计: 31446
 
 payload:
   - DOMAIN,adobeereg.com
@@ -27465,6 +27465,7 @@ payload:
   - DOMAIN-SUFFIX,twitvid.com
   - DOMAIN-SUFFIX,twitzap.com
   - DOMAIN-SUFFIX,twiyia.com
+  - DOMAIN-SUFFIX,twkan.com
   - DOMAIN-SUFFIX,twlegs.com
   - DOMAIN-SUFFIX,twline5.com
   - DOMAIN-SUFFIX,twnextdigital.com
