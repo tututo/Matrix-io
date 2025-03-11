@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7100
+# 规则统计: 7101
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -4401,6 +4401,7 @@ HOST-SUFFIX,ontrac.com,Global
 HOST-SUFFIX,oopsforum.com,Global
 HOST-SUFFIX,open.com.hk,Global
 HOST-SUFFIX,open.firstory.me,Global
+HOST-SUFFIX,open.spotify.com,Global
 HOST-SUFFIX,openai.com,Global
 HOST-SUFFIX,openallweb.com,Global
 HOST-SUFFIX,opendemocracy.net,Global
