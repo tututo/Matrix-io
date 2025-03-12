@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31446
+# 规则统计: 31445
 
 no_resolve: true
 domain_set:
@@ -22609,7 +22609,6 @@ domain_suffix_set:
   - qiangwaikan.com
   - qiangyou.org
   - qianmo.tw
-  - qiao-cn.com
   - qidian.ca
   - qienkuen.org
   - qinav.com

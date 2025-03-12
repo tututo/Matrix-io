@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31446
+# 规则统计: 31445
 
 payload:
   - DOMAIN,adobeereg.com
@@ -22607,7 +22607,6 @@ payload:
   - DOMAIN-SUFFIX,qiangwaikan.com
   - DOMAIN-SUFFIX,qiangyou.org
   - DOMAIN-SUFFIX,qianmo.tw
-  - DOMAIN-SUFFIX,qiao-cn.com
   - DOMAIN-SUFFIX,qidian.ca
   - DOMAIN-SUFFIX,qienkuen.org
   - DOMAIN-SUFFIX,qinav.com

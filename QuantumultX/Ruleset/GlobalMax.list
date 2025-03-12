@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31446
+# 规则统计: 31445
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -22606,7 +22606,6 @@ HOST-SUFFIX,qianglie.com,GlobalMax
 HOST-SUFFIX,qiangwaikan.com,GlobalMax
 HOST-SUFFIX,qiangyou.org,GlobalMax
 HOST-SUFFIX,qianmo.tw,GlobalMax
-HOST-SUFFIX,qiao-cn.com,GlobalMax
 HOST-SUFFIX,qidian.ca,GlobalMax
 HOST-SUFFIX,qienkuen.org,GlobalMax
 HOST-SUFFIX,qinav.com,GlobalMax
