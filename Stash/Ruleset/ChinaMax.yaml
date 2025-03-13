@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 116905
+# 规则统计: 116910
 
 payload:
   - DOMAIN,1-fss24-s0.streamhoster.com
@@ -39147,6 +39147,7 @@ payload:
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytapugc.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heytea.com
   - DOMAIN-SUFFIX,heythings-iot.com
   - DOMAIN-SUFFIX,heytime.com
@@ -54495,6 +54496,7 @@ payload:
   - DOMAIN-SUFFIX,luckeeinc.com
   - DOMAIN-SUFFIX,luckforcalendar.com
   - DOMAIN-SUFFIX,luckincalendar.com
+  - DOMAIN-SUFFIX,luckincdn.com
   - DOMAIN-SUFFIX,luckincoffee.co
   - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
@@ -104399,7 +104401,6 @@ payload:
   - IP-CIDR,45.87.53.0/24,no-resolve
   - IP-CIDR,45.87.54.0/24,no-resolve
   - IP-CIDR,45.9.11.0/24,no-resolve
-  - IP-CIDR,45.91.83.0/24,no-resolve
   - IP-CIDR,45.92.158.0/23,no-resolve
   - IP-CIDR,46.102.251.0/25,no-resolve
   - IP-CIDR,46.151.180.0/23,no-resolve
@@ -116555,7 +116556,8 @@ payload:
   - IP-CIDR6,2a0a:6040:d740::/48,no-resolve
   - IP-CIDR6,2a0a:6040:ec00::/40,no-resolve
   - IP-CIDR6,2a0a:6042:4100::/40,no-resolve
-  - IP-CIDR6,2a0a:6044:6600::/40,no-resolve
+  - IP-CIDR6,2a0a:6044:6600::/39,no-resolve
+  - IP-CIDR6,2a0a:6044:7a00::/40,no-resolve
   - IP-CIDR6,2a0a:79c0:2b0::/44,no-resolve
   - IP-CIDR6,2a0a:79c0:f2b0::/44,no-resolve
   - IP-CIDR6,2a0a:8e00:6000::/47,no-resolve
@@ -116851,11 +116853,13 @@ payload:
   - IP-CIDR6,2a14:7580:9204::/46,no-resolve
   - IP-CIDR6,2a14:7580:9400::/39,no-resolve
   - IP-CIDR6,2a14:7580:9600::/47,no-resolve
+  - IP-CIDR6,2a14:7580:9603::/48,no-resolve
   - IP-CIDR6,2a14:7580:9604::/47,no-resolve
   - IP-CIDR6,2a14:7580:d000::/36,no-resolve
   - IP-CIDR6,2a14:7580:e200::/40,no-resolve
   - IP-CIDR6,2a14:7580:e484::/48,no-resolve
   - IP-CIDR6,2a14:7580:fa00::/40,no-resolve
+  - IP-CIDR6,2a14:7580:fe00::/40,no-resolve
   - IP-CIDR6,2a14:7581:9010::/44,no-resolve
   - IP-CIDR6,2a14:7581:b20::/48,no-resolve
   - IP-CIDR6,2a14:7581:b30::/48,no-resolve
@@ -116864,6 +116868,7 @@ payload:
   - IP-CIDR6,2a14:7581:bbb::/48,no-resolve
   - IP-CIDR6,2a14:7581:ffc::/48,no-resolve
   - IP-CIDR6,2a14:7584:9000::/36,no-resolve
+  - IP-CIDR6,2a14:7584::/36,no-resolve
   - IP-CIDR6,2a14:7c0:4a01::/48,no-resolve
   - IP-CIDR6,2a14:7c0:5208::/48,no-resolve
   - IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve

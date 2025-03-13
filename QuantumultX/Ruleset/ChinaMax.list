@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 116905
+# 规则统计: 116910
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -39146,6 +39146,7 @@ HOST-SUFFIX,heytapdownload.com,ChinaMax
 HOST-SUFFIX,heytapimage.com,ChinaMax
 HOST-SUFFIX,heytapmobi.com,ChinaMax
 HOST-SUFFIX,heytapugc.com,ChinaMax
+HOST-SUFFIX,heytea-co.com,ChinaMax
 HOST-SUFFIX,heytea.com,ChinaMax
 HOST-SUFFIX,heythings-iot.com,ChinaMax
 HOST-SUFFIX,heytime.com,ChinaMax
@@ -54494,6 +54495,7 @@ HOST-SUFFIX,luck-number.com,ChinaMax
 HOST-SUFFIX,luckeeinc.com,ChinaMax
 HOST-SUFFIX,luckforcalendar.com,ChinaMax
 HOST-SUFFIX,luckincalendar.com,ChinaMax
+HOST-SUFFIX,luckincdn.com,ChinaMax
 HOST-SUFFIX,luckincoffee.co,ChinaMax
 HOST-SUFFIX,luckincoffee.com,ChinaMax
 HOST-SUFFIX,luckincoffeecdn.com,ChinaMax
@@ -104398,7 +104400,6 @@ IP-CIDR,45.85.76.0/22,ChinaMax
 IP-CIDR,45.87.53.0/24,ChinaMax
 IP-CIDR,45.87.54.0/24,ChinaMax
 IP-CIDR,45.9.11.0/24,ChinaMax
-IP-CIDR,45.91.83.0/24,ChinaMax
 IP-CIDR,45.92.158.0/23,ChinaMax
 IP-CIDR,46.102.251.0/25,ChinaMax
 IP-CIDR,46.151.180.0/23,ChinaMax
@@ -116554,7 +116555,8 @@ IP6-CIDR,2a0a:2846::/31,ChinaMax
 IP6-CIDR,2a0a:6040:d740::/48,ChinaMax
 IP6-CIDR,2a0a:6040:ec00::/40,ChinaMax
 IP6-CIDR,2a0a:6042:4100::/40,ChinaMax
-IP6-CIDR,2a0a:6044:6600::/40,ChinaMax
+IP6-CIDR,2a0a:6044:6600::/39,ChinaMax
+IP6-CIDR,2a0a:6044:7a00::/40,ChinaMax
 IP6-CIDR,2a0a:79c0:2b0::/44,ChinaMax
 IP6-CIDR,2a0a:79c0:f2b0::/44,ChinaMax
 IP6-CIDR,2a0a:8e00:6000::/47,ChinaMax
@@ -116850,11 +116852,13 @@ IP6-CIDR,2a14:7580:9202::/47,ChinaMax
 IP6-CIDR,2a14:7580:9204::/46,ChinaMax
 IP6-CIDR,2a14:7580:9400::/39,ChinaMax
 IP6-CIDR,2a14:7580:9600::/47,ChinaMax
+IP6-CIDR,2a14:7580:9603::/48,ChinaMax
 IP6-CIDR,2a14:7580:9604::/47,ChinaMax
 IP6-CIDR,2a14:7580:d000::/36,ChinaMax
 IP6-CIDR,2a14:7580:e200::/40,ChinaMax
 IP6-CIDR,2a14:7580:e484::/48,ChinaMax
 IP6-CIDR,2a14:7580:fa00::/40,ChinaMax
+IP6-CIDR,2a14:7580:fe00::/40,ChinaMax
 IP6-CIDR,2a14:7581:9010::/44,ChinaMax
 IP6-CIDR,2a14:7581:b20::/48,ChinaMax
 IP6-CIDR,2a14:7581:b30::/48,ChinaMax
@@ -116863,6 +116867,7 @@ IP6-CIDR,2a14:7581:b50::/48,ChinaMax
 IP6-CIDR,2a14:7581:bbb::/48,ChinaMax
 IP6-CIDR,2a14:7581:ffc::/48,ChinaMax
 IP6-CIDR,2a14:7584:9000::/36,ChinaMax
+IP6-CIDR,2a14:7584::/36,ChinaMax
 IP6-CIDR,2a14:7c0:4a01::/48,ChinaMax
 IP6-CIDR,2a14:7c0:5208::/48,ChinaMax
 IP6-CIDR,2c0f:f7a8:8011::/48,ChinaMax
