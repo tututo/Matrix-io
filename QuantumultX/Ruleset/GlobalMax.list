@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31446
+# 规则统计: 31454
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -316,6 +316,7 @@ HOST-SUFFIX,2021hkcharter.com,GlobalMax
 HOST-SUFFIX,2022.dev,GlobalMax
 HOST-SUFFIX,2023aga.oen.tw,GlobalMax
 HOST-SUFFIX,2047.name,GlobalMax
+HOST-SUFFIX,2047.one,GlobalMax
 HOST-SUFFIX,2049bbs.xyz,GlobalMax
 HOST-SUFFIX,20thcenturystudios.com.au,GlobalMax
 HOST-SUFFIX,20thcenturystudios.com.br,GlobalMax
@@ -3320,6 +3321,7 @@ HOST-SUFFIX,bdsmtv.cc,GlobalMax
 HOST-SUFFIX,bdsmvideos.net,GlobalMax
 HOST-SUFFIX,beaa.ac.uk,GlobalMax
 HOST-SUFFIX,beaconevents.com,GlobalMax
+HOST-SUFFIX,bearteach.com,GlobalMax
 HOST-SUFFIX,beascoremodel.com,GlobalMax
 HOST-SUFFIX,beastiegals.com,GlobalMax
 HOST-SUFFIX,beastysexlinks.com,GlobalMax
@@ -5340,6 +5342,7 @@ HOST-SUFFIX,cablegatesearch.net,GlobalMax
 HOST-SUFFIX,cabletv.com.hk,GlobalMax
 HOST-SUFFIX,cabletvdirectv.com,GlobalMax
 HOST-SUFFIX,cabot.ac.uk,GlobalMax
+HOST-SUFFIX,cachefly.com,GlobalMax
 HOST-SUFFIX,cachefly.net,GlobalMax
 HOST-SUFFIX,cachinese.com,GlobalMax
 HOST-SUFFIX,cacnw.com,GlobalMax
@@ -7218,6 +7221,7 @@ HOST-SUFFIX,customizedbeatsdre.com,GlobalMax
 HOST-SUFFIX,customnikeshoes.com,GlobalMax
 HOST-SUFFIX,cusu.hk,GlobalMax
 HOST-SUFFIX,cutg.ac.uk,GlobalMax
+HOST-SUFFIX,cutout.pro,GlobalMax
 HOST-SUFFIX,cutscenes.net,GlobalMax
 HOST-SUFFIX,cutt.ly,GlobalMax
 HOST-SUFFIX,cuv.ac.uk,GlobalMax
@@ -9902,6 +9906,7 @@ HOST-SUFFIX,faclair.ac.uk,GlobalMax
 HOST-SUFFIX,facnbook.com,GlobalMax
 HOST-SUFFIX,facoccmed.ac.uk,GlobalMax
 HOST-SUFFIX,facrbook.com,GlobalMax
+HOST-SUFFIX,factchecklab.org,GlobalMax
 HOST-SUFFIX,factograph.info,GlobalMax
 HOST-SUFFIX,factpedia.org,GlobalMax
 HOST-SUFFIX,factwire.org,GlobalMax
@@ -10224,7 +10229,6 @@ HOST-SUFFIX,feedburner.com,GlobalMax
 HOST-SUFFIX,feeder.co,GlobalMax
 HOST-SUFFIX,feedherfuckher.com,GlobalMax
 HOST-SUFFIX,feedly.com,GlobalMax
-HOST-SUFFIX,feedly.comfastgpt.run,GlobalMax
 HOST-SUFFIX,feedsportal.com,GlobalMax
 HOST-SUFFIX,feedx.net,GlobalMax
 HOST-SUFFIX,feelssh.com,GlobalMax
@@ -11360,6 +11364,7 @@ HOST-SUFFIX,gcsp.ac.uk,GlobalMax
 HOST-SUFFIX,gcu.ac.uk,GlobalMax
 HOST-SUFFIX,gculondon.ac.uk,GlobalMax
 HOST-SUFFIX,gda.ac.uk,GlobalMax
+HOST-SUFFIX,gdaily.org,GlobalMax
 HOST-SUFFIX,gdansk-amazon.com,GlobalMax
 HOST-SUFFIX,gdbt.net,GlobalMax
 HOST-SUFFIX,gdian-dh.mom,GlobalMax
@@ -11487,6 +11492,7 @@ HOST-SUFFIX,getporn.tv,GlobalMax
 HOST-SUFFIX,getpricetag.com,GlobalMax
 HOST-SUFFIX,getprintersupports.com,GlobalMax
 HOST-SUFFIX,getscorecash.com,GlobalMax
+HOST-SUFFIX,getsession.org,GlobalMax
 HOST-SUFFIX,getsexgames.com,GlobalMax
 HOST-SUFFIX,getsocialscope.com,GlobalMax
 HOST-SUFFIX,getsync.com,GlobalMax
@@ -25067,6 +25073,7 @@ HOST-SUFFIX,soundcloud.com,GlobalMax
 HOST-SUFFIX,soundofhope.eu,GlobalMax
 HOST-SUFFIX,soundofhope.kr,GlobalMax
 HOST-SUFFIX,soundofhope.org,GlobalMax
+HOST-SUFFIX,soundon.fm,GlobalMax
 HOST-SUFFIX,soundsoftware.ac.uk,GlobalMax
 HOST-SUFFIX,soundwell.ac.uk,GlobalMax
 HOST-SUFFIX,soup.io,GlobalMax
@@ -26354,6 +26361,7 @@ HOST-SUFFIX,tferwq.com,GlobalMax
 HOST-SUFFIX,tfhub.dev,GlobalMax
 HOST-SUFFIX,tfiflve.com,GlobalMax
 HOST-SUFFIX,tfsallin.net,GlobalMax
+HOST-SUFFIX,tg-me.com,GlobalMax
 HOST-SUFFIX,tg.dev,GlobalMax
 HOST-SUFFIX,tgac.ac.uk,GlobalMax
 HOST-SUFFIX,tgirlcentral.com,GlobalMax

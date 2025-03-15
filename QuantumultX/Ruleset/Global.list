@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7113
+# 规则统计: 7112
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1953,7 +1953,6 @@ HOST-SUFFIX,fartit.com,Global
 HOST-SUFFIX,farwestchina.com,Global
 HOST-SUFFIX,fast.wistia.com,Global
 HOST-SUFFIX,fastestvpn.com,Global
-HOST-SUFFIX,fastgpt.run,Global
 HOST-SUFFIX,fastpic.ru,Global
 HOST-SUFFIX,fastssh.com,Global
 HOST-SUFFIX,faststone.org,Global
