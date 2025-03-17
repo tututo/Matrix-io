@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7112
+# 规则统计: 7114
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -359,6 +359,7 @@ HOST-SUFFIX,aol.co.uk,Global
 HOST-SUFFIX,aol.com,Global
 HOST-SUFFIX,aolchannels.aol.com,Global
 HOST-SUFFIX,aolnews.com,Global
+HOST-SUFFIX,aomedia.org,Global
 HOST-SUFFIX,aomiwang.com,Global
 HOST-SUFFIX,ap.org,Global
 HOST-SUFFIX,apache.org,Global
@@ -4711,6 +4712,7 @@ HOST-SUFFIX,powerpointninja.com,Global
 HOST-SUFFIX,pp.ru,Global
 HOST-SUFFIX,ppy.sh,Global
 HOST-SUFFIX,prayforchina.net,Global
+HOST-SUFFIX,prcleader.org,Global
 HOST-SUFFIX,premeforwindows7.com,Global
 HOST-SUFFIX,premproxy.com,Global
 HOST-SUFFIX,presentation.new,Global
