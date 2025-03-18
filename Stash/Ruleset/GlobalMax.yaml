@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31391
+# 规则统计: 31392
 
 payload:
   - DOMAIN,adobeereg.com
@@ -22231,6 +22231,7 @@ payload:
   - DOMAIN-SUFFIX,pramu.ac.uk
   - DOMAIN-SUFFIX,prastitutki.ru
   - DOMAIN-SUFFIX,prayforchina.net
+  - DOMAIN-SUFFIX,prcleader.org
   - DOMAIN-SUFFIX,pre-bmwgroup.jobs
   - DOMAIN-SUFFIX,predictivetechnologies.com
   - DOMAIN-SUFFIX,premeforwindows7.com

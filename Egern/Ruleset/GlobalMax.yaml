@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31391
+# 规则统计: 31392
 
 no_resolve: true
 domain_set:
@@ -22233,6 +22233,7 @@ domain_suffix_set:
   - pramu.ac.uk
   - prastitutki.ru
   - prayforchina.net
+  - prcleader.org
   - pre-bmwgroup.jobs
   - predictivetechnologies.com
   - premeforwindows7.com

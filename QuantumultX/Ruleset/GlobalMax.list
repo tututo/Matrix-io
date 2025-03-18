@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31391
+# 规则统计: 31392
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -22230,6 +22230,7 @@ HOST-SUFFIX,practicum.ac.uk,GlobalMax
 HOST-SUFFIX,pramu.ac.uk,GlobalMax
 HOST-SUFFIX,prastitutki.ru,GlobalMax
 HOST-SUFFIX,prayforchina.net,GlobalMax
+HOST-SUFFIX,prcleader.org,GlobalMax
 HOST-SUFFIX,pre-bmwgroup.jobs,GlobalMax
 HOST-SUFFIX,predictivetechnologies.com,GlobalMax
 HOST-SUFFIX,premeforwindows7.com,GlobalMax

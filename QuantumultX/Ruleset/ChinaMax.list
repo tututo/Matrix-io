@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117349
+# 规则统计: 117343
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -22149,7 +22149,6 @@ HOST-SUFFIX,cqrc.net,ChinaMax
 HOST-SUFFIX,cqrcb.com,ChinaMax
 HOST-SUFFIX,cqrcdsc.com,ChinaMax
 HOST-SUFFIX,cqrfym.com,ChinaMax
-HOST-SUFFIX,cqrjx.com,ChinaMax
 HOST-SUFFIX,cqrm.com,ChinaMax
 HOST-SUFFIX,cqrmb.com,ChinaMax
 HOST-SUFFIX,cqsckj02.com,ChinaMax
@@ -47621,7 +47620,6 @@ HOST-SUFFIX,jjj.ee,ChinaMax
 HOST-SUFFIX,jjjaaa.com,ChinaMax
 HOST-SUFFIX,jjjllk.com,ChinaMax
 HOST-SUFFIX,jjjpv.com,ChinaMax
-HOST-SUFFIX,jjjx9.com,ChinaMax
 HOST-SUFFIX,jjkeq.com,ChinaMax
 HOST-SUFFIX,jjkjnet.com,ChinaMax
 HOST-SUFFIX,jjkk.org,ChinaMax
@@ -48516,6 +48514,7 @@ HOST-SUFFIX,jswb.com,ChinaMax
 HOST-SUFFIX,jswebcall.com,ChinaMax
 HOST-SUFFIX,jsweixiu.com,ChinaMax
 HOST-SUFFIX,jswel.com,ChinaMax
+HOST-SUFFIX,jswenjin.com,ChinaMax
 HOST-SUFFIX,jswjkj.net,ChinaMax
 HOST-SUFFIX,jswmw.com,ChinaMax
 HOST-SUFFIX,jswonderful.com,ChinaMax
@@ -51529,7 +51528,6 @@ HOST-SUFFIX,labzj.com,ChinaMax
 HOST-SUFFIX,lacaoshi.com,ChinaMax
 HOST-SUFFIX,lacesar.com,ChinaMax
 HOST-SUFFIX,lacocrea.com,ChinaMax
-HOST-SUFFIX,lacyw.com,ChinaMax
 HOST-SUFFIX,ladiyoga.com,ChinaMax
 HOST-SUFFIX,ladjzs.com,ChinaMax
 HOST-SUFFIX,lady75.com,ChinaMax
@@ -78689,7 +78687,6 @@ HOST-SUFFIX,tzsports.com,ChinaMax
 HOST-SUFFIX,tzsti.com,ChinaMax
 HOST-SUFFIX,tzsucai.com,ChinaMax
 HOST-SUFFIX,tzswatch.com,ChinaMax
-HOST-SUFFIX,tzswll.com,ChinaMax
 HOST-SUFFIX,tztrzjt.com,ChinaMax
 HOST-SUFFIX,tztusi.com,ChinaMax
 HOST-SUFFIX,tzujian.com,ChinaMax
@@ -80080,6 +80077,7 @@ HOST-SUFFIX,vietnambesthotel.com,ChinaMax
 HOST-SUFFIX,viewstock.com,ChinaMax
 HOST-SUFFIX,viewtool.com,ChinaMax
 HOST-SUFFIX,viewtrans.com,ChinaMax
+HOST-SUFFIX,vifaka.com,ChinaMax
 HOST-SUFFIX,vigtm-meeting-tencent.com,ChinaMax
 HOST-SUFFIX,viigee.com,ChinaMax
 HOST-SUFFIX,viisan.com,ChinaMax
@@ -96955,7 +96953,6 @@ IP-CIDR,101.96.8.0/22,ChinaMax
 IP-CIDR,101.99.96.0/19,ChinaMax
 IP-CIDR,102.134.32.0/22,ChinaMax
 IP-CIDR,102.134.56.0/22,ChinaMax
-IP-CIDR,102.141.200.0/22,ChinaMax
 IP-CIDR,102.220.88.0/22,ChinaMax
 IP-CIDR,102.32.0.0/15,ChinaMax
 IP-CIDR,102.38.229.0/24,ChinaMax
@@ -100560,7 +100557,6 @@ IP-CIDR,154.208.140.0/22,ChinaMax
 IP-CIDR,154.208.144.0/20,ChinaMax
 IP-CIDR,154.208.160.0/21,ChinaMax
 IP-CIDR,154.208.172.0/23,ChinaMax
-IP-CIDR,154.209.2.0/24,ChinaMax
 IP-CIDR,154.209.251.0/24,ChinaMax
 IP-CIDR,154.213.4.0/23,ChinaMax
 IP-CIDR,154.23.188.0/22,ChinaMax
@@ -101241,7 +101237,6 @@ IP-CIDR,185.239.84.0/22,ChinaMax
 IP-CIDR,185.242.232.0/22,ChinaMax
 IP-CIDR,185.242.244.0/22,ChinaMax
 IP-CIDR,185.243.240.0/22,ChinaMax
-IP-CIDR,185.243.43.0/24,ChinaMax
 IP-CIDR,185.245.40.0/23,ChinaMax
 IP-CIDR,185.248.86.0/24,ChinaMax
 IP-CIDR,185.255.152.0/24,ChinaMax
@@ -104721,7 +104716,6 @@ IP-CIDR,45.152.24.0/22,ChinaMax
 IP-CIDR,45.153.128.0/22,ChinaMax
 IP-CIDR,45.154.244.0/24,ChinaMax
 IP-CIDR,45.157.88.0/24,ChinaMax
-IP-CIDR,45.195.198.0/24,ChinaMax
 IP-CIDR,45.195.6.0/24,ChinaMax
 IP-CIDR,45.199.167.0/24,ChinaMax
 IP-CIDR,45.202.209.0/24,ChinaMax

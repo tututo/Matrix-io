@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 117349
+# 规则统计: 117343
 
 no_resolve: true
 domain_set:
@@ -22152,7 +22152,6 @@ domain_suffix_set:
   - cqrcb.com
   - cqrcdsc.com
   - cqrfym.com
-  - cqrjx.com
   - cqrm.com
   - cqrmb.com
   - cqsckj02.com
@@ -47624,7 +47623,6 @@ domain_suffix_set:
   - jjjaaa.com
   - jjjllk.com
   - jjjpv.com
-  - jjjx9.com
   - jjkeq.com
   - jjkjnet.com
   - jjkk.org
@@ -48519,6 +48517,7 @@ domain_suffix_set:
   - jswebcall.com
   - jsweixiu.com
   - jswel.com
+  - jswenjin.com
   - jswjkj.net
   - jswmw.com
   - jswonderful.com
@@ -51532,7 +51531,6 @@ domain_suffix_set:
   - lacaoshi.com
   - lacesar.com
   - lacocrea.com
-  - lacyw.com
   - ladiyoga.com
   - ladjzs.com
   - lady75.com
@@ -78692,7 +78690,6 @@ domain_suffix_set:
   - tzsti.com
   - tzsucai.com
   - tzswatch.com
-  - tzswll.com
   - tztrzjt.com
   - tztusi.com
   - tzujian.com
@@ -80083,6 +80080,7 @@ domain_suffix_set:
   - viewstock.com
   - viewtool.com
   - viewtrans.com
+  - vifaka.com
   - vigtm-meeting-tencent.com
   - viigee.com
   - viisan.com
@@ -96960,7 +96958,6 @@ ip_cidr_set:
   - 101.99.96.0/19
   - 102.134.32.0/22
   - 102.134.56.0/22
-  - 102.141.200.0/22
   - 102.220.88.0/22
   - 102.32.0.0/15
   - 102.38.229.0/24
@@ -100565,7 +100562,6 @@ ip_cidr_set:
   - 154.208.144.0/20
   - 154.208.160.0/21
   - 154.208.172.0/23
-  - 154.209.2.0/24
   - 154.209.251.0/24
   - 154.213.4.0/23
   - 154.23.188.0/22
@@ -101246,7 +101242,6 @@ ip_cidr_set:
   - 185.242.232.0/22
   - 185.242.244.0/22
   - 185.243.240.0/22
-  - 185.243.43.0/24
   - 185.245.40.0/23
   - 185.248.86.0/24
   - 185.255.152.0/24
@@ -104726,7 +104721,6 @@ ip_cidr_set:
   - 45.153.128.0/22
   - 45.154.244.0/24
   - 45.157.88.0/24
-  - 45.195.198.0/24
   - 45.195.6.0/24
   - 45.199.167.0/24
   - 45.202.209.0/24
