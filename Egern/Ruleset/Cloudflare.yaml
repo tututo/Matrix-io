@@ -1,9 +1,8 @@
 # 规则名称: Cloudflare
-# 规则统计: 68
+# 规则统计: 65
 
 no_resolve: true
 domain_suffix_set:
-  - argotunnel.com
   - cf-ipfs.com
   - cf-ns.com
   - cf-ns.net
@@ -15,8 +14,6 @@ domain_suffix_set:
   - cftest8.com
   - cloudflare-cn.com
   - cloudflare-dns.com
-  - cloudflare-ech.com
-  - cloudflare-gateway.com
   - cloudflare-ipfs.com
   - cloudflare-quic.com
   - cloudflare.com
@@ -30,7 +27,6 @@ domain_suffix_set:
   - cloudflareinsights-cn.com
   - cloudflareinsights.com
   - cloudflareok.com
-  - cloudflareportal.com
   - cloudflarepreview.com
   - cloudflareprod.com
   - cloudflareresolve.com
@@ -54,7 +50,8 @@ ip_cidr_set:
   - 103.21.244.0/22
   - 103.22.200.0/22
   - 103.31.4.0/22
-  - 104.16.0.0/12
+  - 104.16.0.0/13
+  - 104.24.0.0/14
   - 108.162.192.0/18
   - 131.0.72.0/22
   - 141.101.64.0/18
