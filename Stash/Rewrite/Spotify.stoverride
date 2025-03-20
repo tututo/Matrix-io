@@ -9,8 +9,13 @@ http:
       type: request
       timeout: 30
 
-    - match: ^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$
+    - match: ^https:\/\/spclient\.wg\.spotify\.com\/user-customization-service\/v1\/customize$
       name: Spotify.B
+      type: request
+      timeout: 30
+
+    - match: ^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$
+      name: Spotify.C
       type: response
       require-body: true
       binary-mode: true
@@ -25,5 +30,9 @@ script-providers:
     interval: 86400
 
   Spotify.B:
+    url: https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-qx-header.js
+    interval: 86400
+
+  Spotify.C:
     url: https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js
     interval: 86400
