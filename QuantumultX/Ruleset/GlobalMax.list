@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31386
+# 规则统计: 31385
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -30136,7 +30136,6 @@ HOST-SUFFIX,xtracloud.net,GlobalMax
 HOST-SUFFIX,xtube.com,GlobalMax
 HOST-SUFFIX,xtubebdsm.com,GlobalMax
 HOST-SUFFIX,xtubezoo.com,GlobalMax
-HOST-SUFFIX,xu97.vip,GlobalMax
 HOST-SUFFIX,xuchao.net,GlobalMax
 HOST-SUFFIX,xuchao.org,GlobalMax
 HOST-SUFFIX,xuehua.us,GlobalMax
