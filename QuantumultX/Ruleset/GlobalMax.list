@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31385
+# 规则统计: 31377
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -2524,7 +2524,6 @@ HOST-SUFFIX,askubuntu.com,GlobalMax
 HOST-SUFFIX,askynz.net,GlobalMax
 HOST-SUFFIX,asmhentai.com,GlobalMax
 HOST-SUFFIX,asminternational.org,GlobalMax
-HOST-SUFFIX,asmr.gay,GlobalMax
 HOST-SUFFIX,asmrbuluo.com,GlobalMax
 HOST-SUFFIX,asn-online.org,GlobalMax
 HOST-SUFFIX,asp-cc.com,GlobalMax
@@ -3015,7 +3014,6 @@ HOST-SUFFIX,b-ok.org,GlobalMax
 HOST-SUFFIX,b.hatena.ne.jp,GlobalMax
 HOST-SUFFIX,b0ne.com,GlobalMax
 HOST-SUFFIX,b3boos.com,GlobalMax
-HOST-SUFFIX,b3bos.com,GlobalMax
 HOST-SUFFIX,b6b33.com,GlobalMax
 HOST-SUFFIX,b6fc.ac.uk,GlobalMax
 HOST-SUFFIX,baa.ac.uk,GlobalMax
@@ -5155,7 +5153,6 @@ HOST-SUFFIX,bukkake.link,GlobalMax
 HOST-SUFFIX,bullguard.com,GlobalMax
 HOST-SUFFIX,bullog.org,GlobalMax
 HOST-SUFFIX,bullogger.com,GlobalMax
-HOST-SUFFIX,bululusexdoll.com,GlobalMax
 HOST-SUFFIX,bumingbai.net,GlobalMax
 HOST-SUFFIX,bumpshare.com,GlobalMax
 HOST-SUFFIX,bumptop.ca,GlobalMax
@@ -7109,7 +7106,6 @@ HOST-SUFFIX,cts.com.tw,GlobalMax
 HOST-SUFFIX,cttoolkit.ac.uk,GlobalMax
 HOST-SUFFIX,ctv.com.tw,GlobalMax
 HOST-SUFFIX,ctwant.com,GlobalMax
-HOST-SUFFIX,ctyun.online,GlobalMax
 HOST-SUFFIX,cubo.ac.uk,GlobalMax
 HOST-SUFFIX,cuc.ac.uk,GlobalMax
 HOST-SUFFIX,cuckfilmswifefuck.com,GlobalMax
@@ -9985,6 +9981,7 @@ HOST-SUFFIX,fandom.com,GlobalMax
 HOST-SUFFIX,fanfox.net,GlobalMax
 HOST-SUFFIX,fangbinxing.com,GlobalMax
 HOST-SUFFIX,fangeming.com,GlobalMax
+HOST-SUFFIX,fangeming.comffvpn.com,GlobalMax
 HOST-SUFFIX,fangeqiang.com,GlobalMax
 HOST-SUFFIX,fanglizhi.info,GlobalMax
 HOST-SUFFIX,fangmincn.org,GlobalMax
@@ -10274,7 +10271,6 @@ HOST-SUFFIX,fgls.ac.uk,GlobalMax
 HOST-SUFFIX,fgmtv.net,GlobalMax
 HOST-SUFFIX,fgmtv.org,GlobalMax
 HOST-SUFFIX,fhreports.net,GlobalMax
-HOST-SUFFIX,fi11.com,GlobalMax
 HOST-SUFFIX,fi11av1.com,GlobalMax
 HOST-SUFFIX,fi11tv1.com,GlobalMax
 HOST-SUFFIX,fibre-diffraction.ac.uk,GlobalMax
@@ -11731,7 +11727,6 @@ HOST-SUFFIX,gmiddle.net,GlobalMax
 HOST-SUFFIX,gmims.ac.uk,GlobalMax
 HOST-SUFFIX,gmll.org,GlobalMax
 HOST-SUFFIX,gmms.ac.uk,GlobalMax
-HOST-SUFFIX,gmnetworks.net,GlobalMax
 HOST-SUFFIX,gmocloud.com,GlobalMax
 HOST-SUFFIX,gmodules.com,GlobalMax
 HOST-SUFFIX,gmoney.org,GlobalMax
@@ -24779,7 +24774,6 @@ HOST-SUFFIX,sneaker666.com,GlobalMax
 HOST-SUFFIX,sneakerpage.net,GlobalMax
 HOST-SUFFIX,sneakerskick.com,GlobalMax
 HOST-SUFFIX,sneakme.net,GlobalMax
-HOST-SUFFIX,snjulebu.com,GlobalMax
 HOST-SUFFIX,snk-corp.co.jp,GlobalMax
 HOST-SUFFIX,snkplaymore.info,GlobalMax
 HOST-SUFFIX,snow.me,GlobalMax
@@ -27914,7 +27908,6 @@ HOST-SUFFIX,usw.ac.uk,GlobalMax
 HOST-SUFFIX,utcreading.ac.uk,GlobalMax
 HOST-SUFFIX,utopianpal.com,GlobalMax
 HOST-SUFFIX,uu-gg.com,GlobalMax
-HOST-SUFFIX,uug22.com,GlobalMax
 HOST-SUFFIX,uug23.com,GlobalMax
 HOST-SUFFIX,uug25.com,GlobalMax
 HOST-SUFFIX,uug26.com,GlobalMax
@@ -28969,7 +28962,6 @@ HOST-SUFFIX,w-mt.co,GlobalMax
 HOST-SUFFIX,w-pool.com,GlobalMax
 HOST-SUFFIX,w.org,GlobalMax
 HOST-SUFFIX,w.wiki,GlobalMax
-HOST-SUFFIX,w0512.com,GlobalMax
 HOST-SUFFIX,w3.org,GlobalMax
 HOST-SUFFIX,w3schools.com,GlobalMax
 HOST-SUFFIX,w6un.com,GlobalMax
