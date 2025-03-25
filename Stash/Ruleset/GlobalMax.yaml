@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31377
+# 规则统计: 31378
 
 payload:
   - DOMAIN,adobeereg.com
@@ -6632,6 +6632,7 @@ payload:
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
+  - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coincheck.com
   - DOMAIN-SUFFIX,coindesk.com
   - DOMAIN-SUFFIX,coinegg.com
