@@ -1,5 +1,5 @@
 # 规则名称: China
-# 规则统计: 610
+# 规则统计: 612
 
 no_resolve: true
 domain_set:
@@ -52,6 +52,7 @@ domain_suffix_set:
   - 71edge.com
   - 8686c.com
   - 88cdn.com
+  - 95516.com
   - abchina.com
   - abercrombie.com
   - acfun.tv
@@ -149,6 +150,7 @@ domain_suffix_set:
   - clouddn.com
   - cloudxns.net
   - cm.steampowered.com
+  - cmbchina.com
   - cn
   - cn163.net
   - cnblogs.com

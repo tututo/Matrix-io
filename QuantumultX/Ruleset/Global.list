@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7115
+# 规则统计: 7057
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -62,8 +62,6 @@ HOST-SUFFIX,2047.name,Global
 HOST-SUFFIX,2047.one,Global
 HOST-SUFFIX,2049bbs.xyz,Global
 HOST-SUFFIX,21andy.com,Global
-HOST-SUFFIX,21join.com,Global
-HOST-SUFFIX,21pron.com,Global
 HOST-SUFFIX,21sextury.com,Global
 HOST-SUFFIX,228.net.tw,Global
 HOST-SUFFIX,233abc.com,Global
@@ -454,7 +452,6 @@ HOST-SUFFIX,assimp.org,Global
 HOST-SUFFIX,astrill.com,Global
 HOST-SUFFIX,atc.org.au,Global
 HOST-SUFFIX,atchinese.com,Global
-HOST-SUFFIX,atdmt.com,Global
 HOST-SUFFIX,atgfw.org,Global
 HOST-SUFFIX,athenaeizou.com,Global
 HOST-SUFFIX,atlanta168.com,Global
@@ -627,6 +624,7 @@ HOST-SUFFIX,bianlei.com,Global
 HOST-SUFFIX,biantailajiao.com,Global
 HOST-SUFFIX,biantailajiao.in,Global
 HOST-SUFFIX,biblesforamerica.org,Global
+HOST-SUFFIX,bibliocommons.com,Global
 HOST-SUFFIX,bibox.com,Global
 HOST-SUFFIX,bic2011.org,Global
 HOST-SUFFIX,biedian.me,Global
@@ -867,7 +865,6 @@ HOST-SUFFIX,brutaltgp.com,Global
 HOST-SUFFIX,bsky.app,Global
 HOST-SUFFIX,bsky.network,Global
 HOST-SUFFIX,bsky.social,Global
-HOST-SUFFIX,bt2mag.com,Global
 HOST-SUFFIX,bt95.com,Global
 HOST-SUFFIX,btaia.com,Global
 HOST-SUFFIX,btbit.net,Global
@@ -1052,6 +1049,7 @@ HOST-SUFFIX,certificate.revocationcheck.com,Global
 HOST-SUFFIX,cfhks.org.hk,Global
 HOST-SUFFIX,cfos.de,Global
 HOST-SUFFIX,cfr.org,Global
+HOST-SUFFIX,cfsh99.com,Global
 HOST-SUFFIX,cftfc.com,Global
 HOST-SUFFIX,cgdepot.org,Global
 HOST-SUFFIX,cgst.edu,Global
@@ -1132,7 +1130,6 @@ HOST-SUFFIX,chinasmile.net,Global
 HOST-SUFFIX,chinasocialdemocraticparty.com,Global
 HOST-SUFFIX,chinasoul.org,Global
 HOST-SUFFIX,chinasucks.net,Global
-HOST-SUFFIX,chinatimes.com,Global
 HOST-SUFFIX,chinatopsex.com,Global
 HOST-SUFFIX,chinatown.com.au,Global
 HOST-SUFFIX,chinatweeps.com,Global
@@ -1305,6 +1302,7 @@ HOST-SUFFIX,com.google,Global
 HOST-SUFFIX,com.uk,Global
 HOST-SUFFIX,comedycentral.com,Global
 HOST-SUFFIX,comefromchina.com,Global
+HOST-SUFFIX,comffvpn.com,Global
 HOST-SUFFIX,comic-mega.me,Global
 HOST-SUFFIX,comico.tw,Global
 HOST-SUFFIX,commandarms.com,Global
@@ -1401,12 +1399,8 @@ HOST-SUFFIX,d-fukyu.com,Global
 HOST-SUFFIX,d.cash,Global
 HOST-SUFFIX,d0z.net,Global
 HOST-SUFFIX,d100.net,Global
-HOST-SUFFIX,d1b183sg0nvnuh.cloudfront.net,Global
-HOST-SUFFIX,d1c37gjwa26taa.cloudfront.net,Global
 HOST-SUFFIX,d2bay.com,Global
 HOST-SUFFIX,d2pass.com,Global
-HOST-SUFFIX,d3c33hcgiwev3.cloudfront.net,Global
-HOST-SUFFIX,d3rhr7kgmtrq1v.cloudfront.net,Global
 HOST-SUFFIX,dabr.co.uk,Global
 HOST-SUFFIX,dabr.eu,Global
 HOST-SUFFIX,dabr.me,Global
@@ -1462,14 +1456,13 @@ HOST-SUFFIX,dashlane.com,Global
 HOST-SUFFIX,dastrassi.org,Global
 HOST-SUFFIX,data-vocabulary.org,Global
 HOST-SUFFIX,data.gov.tw,Global
+HOST-SUFFIX,datalabour.com,Global
 HOST-SUFFIX,daum.net,Global
 HOST-SUFFIX,david-kilgour.com,Global
 HOST-SUFFIX,dawangidc.com,Global
 HOST-SUFFIX,daxa.cn,Global
-HOST-SUFFIX,dayabook.com,Global
 HOST-SUFFIX,daylife.com,Global
 HOST-SUFFIX,db.tt,Global
-HOST-SUFFIX,dbc.hk,Global
 HOST-SUFFIX,dbgjd.com,Global
 HOST-SUFFIX,dcard.tw,Global
 HOST-SUFFIX,dcmilitary.com,Global
@@ -1525,6 +1518,7 @@ HOST-SUFFIX,dharmakara.net,Global
 HOST-SUFFIX,dhcp.biz,Global
 HOST-SUFFIX,diaoyuislands.org,Global
 HOST-SUFFIX,difangwenge.org,Global
+HOST-SUFFIX,dify.ai,Global
 HOST-SUFFIX,digiland.tw,Global
 HOST-SUFFIX,digisfera.com,Global
 HOST-SUFFIX,digitalnomadsproject.org,Global
@@ -1818,8 +1812,6 @@ HOST-SUFFIX,eroticsaloon.net,Global
 HOST-SUFFIX,esg.t91y.com,Global
 HOST-SUFFIX,eslite.com,Global
 HOST-SUFFIX,esmtp.biz,Global
-HOST-SUFFIX,esu.dog,Global
-HOST-SUFFIX,esu.im,Global
 HOST-SUFFIX,esurance.com,Global
 HOST-SUFFIX,etaa.org.au,Global
 HOST-SUFFIX,etadult.com,Global
@@ -1837,7 +1829,6 @@ HOST-SUFFIX,etsy.com,Global
 HOST-SUFFIX,ettoday.net,Global
 HOST-SUFFIX,etvonline.hk,Global
 HOST-SUFFIX,eu,Global
-HOST-SUFFIX,eu.org,Global
 HOST-SUFFIX,eucasino.com,Global
 HOST-SUFFIX,eulam.com,Global
 HOST-SUFFIX,eurekavpt.com,Global
@@ -1958,8 +1949,6 @@ HOST-SUFFIX,fastpic.ru,Global
 HOST-SUFFIX,fastssh.com,Global
 HOST-SUFFIX,faststone.org,Global
 HOST-SUFFIX,fatbtc.com,Global
-HOST-SUFFIX,favotter.net,Global
-HOST-SUFFIX,favstar.fm,Global
 HOST-SUFFIX,fawanghuihui.org,Global
 HOST-SUFFIX,faydao.com,Global
 HOST-SUFFIX,faz.net,Global
@@ -1971,19 +1960,13 @@ HOST-SUFFIX,fbcdn.com,Global
 HOST-SUFFIX,fbcdn.net,Global
 HOST-SUFFIX,fbsbx.com,Global
 HOST-SUFFIX,fbworkmail.com,Global
-HOST-SUFFIX,fc2.com,Global
-HOST-SUFFIX,fc2blog.net,Global
-HOST-SUFFIX,fc2china.com,Global
 HOST-SUFFIX,fc2cn.com,Global
 HOST-SUFFIX,fc2web.com,Global
 HOST-SUFFIX,fda.gov.tw,Global
-HOST-SUFFIX,fdbox.com,Global
 HOST-SUFFIX,fdc64.de,Global
 HOST-SUFFIX,fdc64.org,Global
-HOST-SUFFIX,fdc89.jp,Global
 HOST-SUFFIX,feedburner.com,Global
 HOST-SUFFIX,feeder.co,Global
-HOST-SUFFIX,feedly.com,Global
 HOST-SUFFIX,feeds.fileforum.com,Global
 HOST-SUFFIX,feedx.net,Global
 HOST-SUFFIX,feelssh.com,Global
@@ -1997,8 +1980,6 @@ HOST-SUFFIX,fengzhenghu.com,Global
 HOST-SUFFIX,fengzhenghu.net,Global
 HOST-SUFFIX,fevernet.com,Global
 HOST-SUFFIX,ff.im,Global
-HOST-SUFFIX,fffff.at,Global
-HOST-SUFFIX,fflick.com,Global
 HOST-SUFFIX,ffvpn.com,Global
 HOST-SUFFIX,fgmtv.net,Global
 HOST-SUFFIX,fgmtv.org,Global
@@ -2028,6 +2009,7 @@ HOST-SUFFIX,fireofliberty.info,Global
 HOST-SUFFIX,fireofliberty.org,Global
 HOST-SUFFIX,firetweet.io,Global
 HOST-SUFFIX,firstfivefollowers.com,Global
+HOST-SUFFIX,firstory.me,Global
 HOST-SUFFIX,firstpost.com,Global
 HOST-SUFFIX,firstrade.com,Global
 HOST-SUFFIX,fish.audio,Global
@@ -2049,7 +2031,6 @@ HOST-SUFFIX,flitto.com,Global
 HOST-SUFFIX,flnet.org,Global
 HOST-SUFFIX,flog.tw,Global
 HOST-SUFFIX,flowhongkong.net,Global
-HOST-SUFFIX,flurry.com,Global
 HOST-SUFFIX,flypool.org,Global
 HOST-SUFFIX,flyvpn.com,Global
 HOST-SUFFIX,flyzy2005.com,Global
@@ -2170,7 +2151,6 @@ HOST-SUFFIX,freeyellow.com,Global
 HOST-SUFFIX,freeyoutubeproxy.net,Global
 HOST-SUFFIX,freezhihu.org,Global
 HOST-SUFFIX,frienddy.com,Global
-HOST-SUFFIX,friendfeed-media.com,Global
 HOST-SUFFIX,friendfeed.com,Global
 HOST-SUFFIX,friendfinder.com,Global
 HOST-SUFFIX,friends-of-tibet.org,Global
@@ -2203,6 +2183,7 @@ HOST-SUFFIX,fulione.com,Global
 HOST-SUFFIX,fullerconsideration.com,Global
 HOST-SUFFIX,fullservicegame.com,Global
 HOST-SUFFIX,fulue.com,Global
+HOST-SUFFIX,funami.tech,Global
 HOST-SUFFIX,funf.tw,Global
 HOST-SUFFIX,funkyimg.com,Global
 HOST-SUFFIX,funp.com,Global
@@ -2315,7 +2296,6 @@ HOST-SUFFIX,getsocialscope.com,Global
 HOST-SUFFIX,getsync.com,Global
 HOST-SUFFIX,gettr.com,Global
 HOST-SUFFIX,gettrials.com,Global
-HOST-SUFFIX,gettyimages.com,Global
 HOST-SUFFIX,getuploader.com,Global
 HOST-SUFFIX,gfbv.de,Global
 HOST-SUFFIX,gfgold.com.hk,Global
@@ -2389,7 +2369,6 @@ HOST-SUFFIX,go5.dev,Global
 HOST-SUFFIX,goagent.biz,Global
 HOST-SUFFIX,goagent.codeplex.com,Global
 HOST-SUFFIX,goagentplus.com,Global
-HOST-SUFFIX,gobet.cc,Global
 HOST-SUFFIX,godaddy.com,Global
 HOST-SUFFIX,godfootsteps.org,Global
 HOST-SUFFIX,godns.work,Global
@@ -2409,13 +2388,11 @@ HOST-SUFFIX,goldbetsports.com,Global
 HOST-SUFFIX,golden-ages.org,Global
 HOST-SUFFIX,goldeneyevault.com,Global
 HOST-SUFFIX,goldenfrog.com,Global
-HOST-SUFFIX,goldjizz.com,Global
 HOST-SUFFIX,goldstep.net,Global
 HOST-SUFFIX,goldwave.com,Global
 HOST-SUFFIX,gongm.in,Global
 HOST-SUFFIX,gongmeng.info,Global
 HOST-SUFFIX,gongminliliang.com,Global
-HOST-SUFFIX,gongwt.com,Global
 HOST-SUFFIX,goo.gl,Global
 HOST-SUFFIX,goo.gle,Global
 HOST-SUFFIX,goo.ne.jp,Global
@@ -2753,11 +2730,6 @@ HOST-SUFFIX,h1n1china.org,Global
 HOST-SUFFIX,h528.com,Global
 HOST-SUFFIX,h5dm.com,Global
 HOST-SUFFIX,h5galgame.me,Global
-HOST-SUFFIX,hacg.club,Global
-HOST-SUFFIX,hacg.in,Global
-HOST-SUFFIX,hacg.li,Global
-HOST-SUFFIX,hacg.me,Global
-HOST-SUFFIX,hacg.red,Global
 HOST-SUFFIX,hacken.cc,Global
 HOST-SUFFIX,hacker.org,Global
 HOST-SUFFIX,hackmd.io,Global
@@ -2776,7 +2748,7 @@ HOST-SUFFIX,happy-vpn.com,Global
 HOST-SUFFIX,haproxy.org,Global
 HOST-SUFFIX,hardsextube.com,Global
 HOST-SUFFIX,harunyahya.com,Global
-HOST-SUFFIX,hasi.wang,Global
+HOST-SUFFIX,hatena.ne.jp,Global
 HOST-SUFFIX,hautelook.com,Global
 HOST-SUFFIX,hautelookcdn.com,Global
 HOST-SUFFIX,have8.com,Global
@@ -3294,7 +3266,6 @@ HOST-SUFFIX,japanhdv.com,Global
 HOST-SUFFIX,japantimes.co.jp,Global
 HOST-SUFFIX,jav.com,Global
 HOST-SUFFIX,jav101.com,Global
-HOST-SUFFIX,jav2be.com,Global
 HOST-SUFFIX,jav321.com,Global
 HOST-SUFFIX,jav68.tv,Global
 HOST-SUFFIX,javakiba.org,Global
@@ -3344,10 +3315,8 @@ HOST-SUFFIX,jingsim.org,Global
 HOST-SUFFIX,jinhai.de,Global
 HOST-SUFFIX,jinpianwang.com,Global
 HOST-SUFFIX,jinrizhiyi.news,Global
-HOST-SUFFIX,jinroukong.com,Global
 HOST-SUFFIX,jintian.net,Global
 HOST-SUFFIX,jinx.com,Global
-HOST-SUFFIX,jiruan.net,Global
 HOST-SUFFIX,jitouch.com,Global
 HOST-SUFFIX,jitpack.io,Global
 HOST-SUFFIX,jizzthis.com,Global
@@ -3360,7 +3329,6 @@ HOST-SUFFIX,jmsc.hku.hk,Global
 HOST-SUFFIX,jmscult.com,Global
 HOST-SUFFIX,joachims.org,Global
 HOST-SUFFIX,jobnewera.wordpress.com,Global
-HOST-SUFFIX,jobso.tv,Global
 HOST-SUFFIX,joinbbs.net,Global
 HOST-SUFFIX,joinclubhouse.com,Global
 HOST-SUFFIX,joinmastodon.org,Global
@@ -3666,6 +3634,7 @@ HOST-SUFFIX,longtermly.net,Global
 HOST-SUFFIX,longtoes.com,Global
 HOST-SUFFIX,lookpic.com,Global
 HOST-SUFFIX,looktoronto.com,Global
+HOST-SUFFIX,lorenzetti.com.br,Global
 HOST-SUFFIX,lotsawahouse.org,Global
 HOST-SUFFIX,lotuslight.org.hk,Global
 HOST-SUFFIX,lotuslight.org.tw,Global
@@ -3809,7 +3778,6 @@ HOST-SUFFIX,meizhong.report,Global
 HOST-SUFFIX,meltoday.com,Global
 HOST-SUFFIX,memehk.com,Global
 HOST-SUFFIX,memes.tw,Global
-HOST-SUFFIX,memorybbs.com,Global
 HOST-SUFFIX,memri.org,Global
 HOST-SUFFIX,memrijttm.org,Global
 HOST-SUFFIX,mercari.com,Global
@@ -3828,6 +3796,7 @@ HOST-SUFFIX,mesotw.com,Global
 HOST-SUFFIX,messenger.com,Global
 HOST-SUFFIX,meta.com,Global
 HOST-SUFFIX,metacafe.com,Global
+HOST-SUFFIX,metacubex.one,Global
 HOST-SUFFIX,metafilter.com,Global
 HOST-SUFFIX,metart.com,Global
 HOST-SUFFIX,metarthunter.com,Global
@@ -3837,15 +3806,13 @@ HOST-SUFFIX,metrohk.com.hk,Global
 HOST-SUFFIX,metrolife.ca,Global
 HOST-SUFFIX,metroradio.com.hk,Global
 HOST-SUFFIX,mewe.com,Global
-HOST-SUFFIX,meyou.jp,Global
-HOST-SUFFIX,meyul.com,Global
 HOST-SUFFIX,mfxmedia.com,Global
 HOST-SUFFIX,mgoon.com,Global
 HOST-SUFFIX,mgstage.com,Global
 HOST-SUFFIX,mh4u.org,Global
 HOST-SUFFIX,mhradio.org,Global
-HOST-SUFFIX,michaelanti.com,Global
 HOST-SUFFIX,michaelmarketl.com,Global
+HOST-SUFFIX,microsoft.com,Global
 HOST-SUFFIX,microvpn.com,Global
 HOST-SUFFIX,middle-way.net,Global
 HOST-SUFFIX,mihk.hk,Global
@@ -3964,6 +3931,7 @@ HOST-SUFFIX,motor4ik.ru,Global
 HOST-SUFFIX,mousebreaker.com,Global
 HOST-SUFFIX,movements.org,Global
 HOST-SUFFIX,moviefap.com,Global
+HOST-SUFFIX,mozilla.org,Global
 HOST-SUFFIX,moztw.org,Global
 HOST-SUFFIX,mp3buscador.com,Global
 HOST-SUFFIX,mpettis.com,Global
@@ -4176,7 +4144,6 @@ HOST-SUFFIX,newsdetox.ca,Global
 HOST-SUFFIX,newsdh.com,Global
 HOST-SUFFIX,newsmagazine.asia,Global
 HOST-SUFFIX,newsmax.com,Global
-HOST-SUFFIX,newspeak.cc,Global
 HOST-SUFFIX,newstamago.com,Global
 HOST-SUFFIX,newstapa.org,Global
 HOST-SUFFIX,newstarnet.com,Global
@@ -4266,10 +4233,10 @@ HOST-SUFFIX,npa.go.jp,Global
 HOST-SUFFIX,npa.gov.tw,Global
 HOST-SUFFIX,npm.gov.tw,Global
 HOST-SUFFIX,npnt.me,Global
-HOST-SUFFIX,nps.gov,Global
 HOST-SUFFIX,npsboost.com,Global
 HOST-SUFFIX,nradio.me,Global
 HOST-SUFFIX,nrk.no,Global
+HOST-SUFFIX,ns.ci,Global
 HOST-SUFFIX,ns01.biz,Global
 HOST-SUFFIX,ns01.info,Global
 HOST-SUFFIX,ns01.us,Global
@@ -4317,6 +4284,7 @@ HOST-SUFFIX,nyaa.eu,Global
 HOST-SUFFIX,nyaa.si,Global
 HOST-SUFFIX,nybooks.com,Global
 HOST-SUFFIX,nydus.ca,Global
+HOST-SUFFIX,nyinfor.com,Global
 HOST-SUFFIX,nylon-angel.com,Global
 HOST-SUFFIX,nylonstockingsonline.com,Global
 HOST-SUFFIX,nypost.com,Global
@@ -4386,6 +4354,7 @@ HOST-SUFFIX,omy.sg,Global
 HOST-SUFFIX,on.cc,Global
 HOST-SUFFIX,on2.com,Global
 HOST-SUFFIX,onapp.com,Global
+HOST-SUFFIX,one.one,Global
 HOST-SUFFIX,one.one.one.one,Global
 HOST-SUFFIX,oneclient.sfx.ms,Global
 HOST-SUFFIX,onedrive.com,Global
@@ -4600,18 +4569,6 @@ HOST-SUFFIX,ping.pe,Global
 HOST-SUFFIX,pinimg.com,Global
 HOST-SUFFIX,pinkrod.com,Global
 HOST-SUFFIX,pinoy-n.com,Global
-HOST-SUFFIX,pinterest.at,Global
-HOST-SUFFIX,pinterest.ca,Global
-HOST-SUFFIX,pinterest.co.kr,Global
-HOST-SUFFIX,pinterest.co.uk,Global
-HOST-SUFFIX,pinterest.com,Global
-HOST-SUFFIX,pinterest.com.mx,Global
-HOST-SUFFIX,pinterest.de,Global
-HOST-SUFFIX,pinterest.dk,Global
-HOST-SUFFIX,pinterest.fr,Global
-HOST-SUFFIX,pinterest.jp,Global
-HOST-SUFFIX,pinterest.nl,Global
-HOST-SUFFIX,pinterest.se,Global
 HOST-SUFFIX,pioneer-worker.forums-free.com,Global
 HOST-SUFFIX,pipii.tv,Global
 HOST-SUFFIX,piposay.com,Global
@@ -4715,7 +4672,6 @@ HOST-SUFFIX,pp.ru,Global
 HOST-SUFFIX,ppy.sh,Global
 HOST-SUFFIX,prayforchina.net,Global
 HOST-SUFFIX,prcleader.org,Global
-HOST-SUFFIX,premeforwindows7.com,Global
 HOST-SUFFIX,premproxy.com,Global
 HOST-SUFFIX,presentation.new,Global
 HOST-SUFFIX,presentationzen.com,Global
@@ -4763,7 +4719,6 @@ HOST-SUFFIX,psiphon3.com,Global
 HOST-SUFFIX,psiphontoday.com,Global
 HOST-SUFFIX,pstatic.net,Global
 HOST-SUFFIX,pt.im,Global
-HOST-SUFFIX,pts.org.tw,Global
 HOST-SUFFIX,ptt.cc,Global
 HOST-SUFFIX,pttgame.com,Global
 HOST-SUFFIX,pttvan.org,Global
@@ -4771,6 +4726,7 @@ HOST-SUFFIX,ptwxz.com,Global
 HOST-SUFFIX,pubu.com.tw,Global
 HOST-SUFFIX,puffinbrowser.com,Global
 HOST-SUFFIX,puffstore.com,Global
+HOST-SUFFIX,pugpig.com,Global
 HOST-SUFFIX,pullfolio.com,Global
 HOST-SUFFIX,punyu.com,Global
 HOST-SUFFIX,pure18.com,Global
@@ -4788,7 +4744,6 @@ HOST-SUFFIX,pussyspace.com,Global
 HOST-SUFFIX,putihome.org,Global
 HOST-SUFFIX,putlocker.com,Global
 HOST-SUFFIX,putty.org,Global
-HOST-SUFFIX,puuko.com,Global
 HOST-SUFFIX,pwned.com,Global
 HOST-SUFFIX,pximg.net,Global
 HOST-SUFFIX,python.com,Global
@@ -4868,15 +4823,12 @@ HOST-SUFFIX,rapbull.net,Global
 HOST-SUFFIX,rapidmoviez.com,Global
 HOST-SUFFIX,rapidvpn.com,Global
 HOST-SUFFIX,rarbgprx.org,Global
-HOST-SUFFIX,raremovie.cc,Global
-HOST-SUFFIX,raremovie.net,Global
 HOST-SUFFIX,rateyourmusic.com,Global
 HOST-SUFFIX,rationalwiki.org,Global
 HOST-SUFFIX,raw.githack.com,Global
 HOST-SUFFIX,rawgit.com,Global
 HOST-SUFFIX,rawgithub.com,Global
 HOST-SUFFIX,raxcdn.com,Global
-HOST-SUFFIX,razyboard.com,Global
 HOST-SUFFIX,rcam.target.com,Global
 HOST-SUFFIX,rcinet.ca,Global
 HOST-SUFFIX,rconversation.blogs.com,Global
@@ -4919,6 +4871,7 @@ HOST-SUFFIX,redtube.com,Global
 HOST-SUFFIX,referer.us,Global
 HOST-SUFFIX,reflectivecode.com,Global
 HOST-SUFFIX,registry.google,Global
+HOST-SUFFIX,reimu.net,Global
 HOST-SUFFIX,relaxbbs.com,Global
 HOST-SUFFIX,relay.com.tw,Global
 HOST-SUFFIX,relay.firefox.com,Global
@@ -5009,7 +4962,7 @@ HOST-SUFFIX,s.yimg.com,Global
 HOST-SUFFIX,s1.nudezz.com,Global
 HOST-SUFFIX,s1heng.com,Global
 HOST-SUFFIX,s1s1s1.com,Global
-HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,Global
+HOST-SUFFIX,s3-ap-*.amazonaws.com,Global
 HOST-SUFFIX,s3-ap-southeast-1.amazonaws.com,Global
 HOST-SUFFIX,s3-ap-southeast-2.amazonaws.com,Global
 HOST-SUFFIX,s3.amazonaws.com,Global
@@ -5099,7 +5052,6 @@ HOST-SUFFIX,sellclassics.com,Global
 HOST-SUFFIX,sendsmtp.com,Global
 HOST-SUFFIX,sendspace.com,Global
 HOST-SUFFIX,sensortower.com,Global
-HOST-SUFFIX,seraph.me,Global
 HOST-SUFFIX,servehttp.com,Global
 HOST-SUFFIX,serveuser.com,Global
 HOST-SUFFIX,serveusers.com,Global
@@ -5136,6 +5088,7 @@ HOST-SUFFIX,shadowsocks.asia,Global
 HOST-SUFFIX,shadowsocks.be,Global
 HOST-SUFFIX,shadowsocks.com,Global
 HOST-SUFFIX,shadowsocks.com.hk,Global
+HOST-SUFFIX,shadowsocks.nu,Global
 HOST-SUFFIX,shadowsocks.org,Global
 HOST-SUFFIX,shadowsocks9.com,Global
 HOST-SUFFIX,shafaqna.com,Global
@@ -5240,7 +5193,6 @@ HOST-SUFFIX,sites.new,Global
 HOST-SUFFIX,six-degrees.io,Global
 HOST-SUFFIX,sixth.biz,Global
 HOST-SUFFIX,sjrt.org,Global
-HOST-SUFFIX,sjum.cn,Global
 HOST-SUFFIX,sketchappsources.com,Global
 HOST-SUFFIX,skimtube.com,Global
 HOST-SUFFIX,skk.moe,Global
@@ -5279,7 +5231,6 @@ HOST-SUFFIX,smhric.org,Global
 HOST-SUFFIX,smith.edu,Global
 HOST-SUFFIX,smn.news,Global
 HOST-SUFFIX,smyxy.org,Global
-HOST-SUFFIX,snapchat.com,Global
 HOST-SUFFIX,snapseed.com,Global
 HOST-SUFFIX,snaptu.com,Global
 HOST-SUFFIX,sndcdn.com,Global
@@ -5424,11 +5375,11 @@ HOST-SUFFIX,starp2p.com,Global
 HOST-SUFFIX,startpage.com,Global
 HOST-SUFFIX,startuplivingchina.com,Global
 HOST-SUFFIX,stat.gov.tw,Global
-HOST-SUFFIX,state.gov,Global
 HOST-SUFFIX,static-economist.com,Global
 HOST-SUFFIX,static.comico.tw,Global
 HOST-SUFFIX,static.shemalez.com,Global
 HOST-SUFFIX,static01.nyt.com,Global
+HOST-SUFFIX,statically.io,Global
 HOST-SUFFIX,staticflickr.com,Global
 HOST-SUFFIX,statueofdemocracy.org,Global
 HOST-SUFFIX,stboy.net,Global
@@ -5472,13 +5423,13 @@ HOST-SUFFIX,stranabg.com,Global
 HOST-SUFFIX,straplessdildo.com,Global
 HOST-SUFFIX,streamable.com,Global
 HOST-SUFFIX,streamate.com,Global
+HOST-SUFFIX,streamguys1.com,Global
 HOST-SUFFIX,streamingthe.net,Global
 HOST-SUFFIX,streema.com,Global
 HOST-SUFFIX,streetvoice.com,Global
 HOST-SUFFIX,strikingly.com,Global
 HOST-SUFFIX,strongvpn.com,Global
 HOST-SUFFIX,strongwindpress.com,Global
-HOST-SUFFIX,student.tw,Global
 HOST-SUFFIX,studentsforafreetibet.org,Global
 HOST-SUFFIX,stumbleupon.com,Global
 HOST-SUFFIX,stupidvideos.com,Global
@@ -5697,11 +5648,8 @@ HOST-SUFFIX,thegioitinhoc.vn,Global
 HOST-SUFFIX,thegly.com,Global
 HOST-SUFFIX,theguardian.com,Global
 HOST-SUFFIX,thehindu.com,Global
-HOST-SUFFIX,thehots.info,Global
-HOST-SUFFIX,thehousenews.com,Global
 HOST-SUFFIX,thehun.net,Global
 HOST-SUFFIX,theinitium.com,Global
-HOST-SUFFIX,themoviedb.org,Global
 HOST-SUFFIX,thenewslens.com,Global
 HOST-SUFFIX,thepiratebay.org,Global
 HOST-SUFFIX,theporndude.com,Global
@@ -5716,7 +5664,6 @@ HOST-SUFFIX,thetibetcenter.org,Global
 HOST-SUFFIX,thetibetconnection.org,Global
 HOST-SUFFIX,thetibetmuseum.org,Global
 HOST-SUFFIX,thetibetpost.com,Global
-HOST-SUFFIX,thetinhat.com,Global
 HOST-SUFFIX,thetrotskymovie.com,Global
 HOST-SUFFIX,thetvdb.com,Global
 HOST-SUFFIX,thevivekspot.com,Global
@@ -5735,6 +5682,7 @@ HOST-SUFFIX,threadreaderapp.com,Global
 HOST-SUFFIX,threads.net,Global
 HOST-SUFFIX,threatchaos.com,Global
 HOST-SUFFIX,throughnightsfire.com,Global
+HOST-SUFFIX,thu.monster,Global
 HOST-SUFFIX,thuhole.com,Global
 HOST-SUFFIX,thumbzilla.com,Global
 HOST-SUFFIX,thywords.com,Global
@@ -6119,6 +6067,7 @@ HOST-SUFFIX,twurl.nl,Global
 HOST-SUFFIX,twyac.org,Global
 HOST-SUFFIX,txxx.com,Global
 HOST-SUFFIX,tycool.com,Global
+HOST-SUFFIX,typekit.net,Global
 HOST-SUFFIX,typepad.com,Global
 HOST-SUFFIX,typeset.io,Global
 HOST-SUFFIX,typora.io,Global
@@ -6176,6 +6125,7 @@ HOST-SUFFIX,unirule.cloud,Global
 HOST-SUFFIX,unitedsocialpress.com,Global
 HOST-SUFFIX,unix100.com,Global
 HOST-SUFFIX,unknownspace.org,Global
+HOST-SUFFIX,unlock-music.dev,Global
 HOST-SUFFIX,unmineable.com,Global
 HOST-SUFFIX,unodedos.com,Global
 HOST-SUFFIX,unpo.org,Global
@@ -6416,7 +6366,6 @@ HOST-SUFFIX,vzw.com,Global
 HOST-SUFFIX,w-pool.com,Global
 HOST-SUFFIX,w.idaiwan.com,Global
 HOST-SUFFIX,w3.org,Global
-HOST-SUFFIX,w3schools.com,Global
 HOST-SUFFIX,waffle1999.com,Global
 HOST-SUFFIX,wahas.com,Global
 HOST-SUFFIX,waigaobu.com,Global
@@ -6446,7 +6395,6 @@ HOST-SUFFIX,warbler.iconfactory.net,Global
 HOST-SUFFIX,warehouse333.com,Global
 HOST-SUFFIX,warroom.org,Global
 HOST-SUFFIX,waselpro.com,Global
-HOST-SUFFIX,washeng.net,Global
 HOST-SUFFIX,washingtonpost.com,Global
 HOST-SUFFIX,watch8x.com,Global
 HOST-SUFFIX,watchinese.com,Global
@@ -6566,7 +6514,6 @@ HOST-SUFFIX,wikisource.org,Global
 HOST-SUFFIX,wikiversity.org,Global
 HOST-SUFFIX,wikivoyage.org,Global
 HOST-SUFFIX,wikiwand.com,Global
-HOST-SUFFIX,wikiwiki.jp,Global
 HOST-SUFFIX,wiktionary.org,Global
 HOST-SUFFIX,wildammo.com,Global
 HOST-SUFFIX,williamhill.com,Global
@@ -6578,7 +6525,6 @@ HOST-SUFFIX,windy.com,Global
 HOST-SUFFIX,wingamestore.com,Global
 HOST-SUFFIX,wingy.site,Global
 HOST-SUFFIX,winning11.com,Global
-HOST-SUFFIX,winwhispers.info,Global
 HOST-SUFFIX,wionews.com,Global
 HOST-SUFFIX,wire.com,Global
 HOST-SUFFIX,wiredbytes.com,Global
@@ -6586,7 +6532,6 @@ HOST-SUFFIX,wiredpen.com,Global
 HOST-SUFFIX,wireguard.com,Global
 HOST-SUFFIX,wisdompubs.org,Global
 HOST-SUFFIX,wisevid.com,Global
-HOST-SUFFIX,wistia.com,Global
 HOST-SUFFIX,withgoogle.com,Global
 HOST-SUFFIX,withyoutube.com,Global
 HOST-SUFFIX,witnessleeteaching.com,Global
@@ -6709,9 +6654,7 @@ HOST-SUFFIX,x.ai,Global
 HOST-SUFFIX,x.co,Global
 HOST-SUFFIX,x.com,Global
 HOST-SUFFIX,x.company,Global
-HOST-SUFFIX,x1949x.com,Global
 HOST-SUFFIX,x24hr.com,Global
-HOST-SUFFIX,x365x.com,Global
 HOST-SUFFIX,x3guide.com,Global
 HOST-SUFFIX,xa.yimg.com,Global
 HOST-SUFFIX,xanga.com,Global
@@ -6721,7 +6664,6 @@ HOST-SUFFIX,xbtce.com,Global
 HOST-SUFFIX,xcafe.in,Global
 HOST-SUFFIX,xcity.jp,Global
 HOST-SUFFIX,xcritic.com,Global
-HOST-SUFFIX,xda-developers.com,Global
 HOST-SUFFIX,xerotica.com,Global
 HOST-SUFFIX,xfiles.to,Global
 HOST-SUFFIX,xfinity.com,Global
@@ -6824,6 +6766,7 @@ HOST-SUFFIX,yam.com,Global
 HOST-SUFFIX,yam.org.tw,Global
 HOST-SUFFIX,yande.re,Global
 HOST-SUFFIX,yandex.com,Global
+HOST-SUFFIX,yandex.net,Global
 HOST-SUFFIX,yandex.ru,Global
 HOST-SUFFIX,yanghengjun.com,Global
 HOST-SUFFIX,yangjianli.com,Global
@@ -6919,7 +6862,6 @@ HOST-SUFFIX,zacebook.com,Global
 HOST-SUFFIX,zalmos.com,Global
 HOST-SUFFIX,zamimg.com,Global
 HOST-SUFFIX,zannel.com,Global
-HOST-SUFFIX,zaobao.com,Global
 HOST-SUFFIX,zaobao.com.sg,Global
 HOST-SUFFIX,zaozon.com,Global
 HOST-SUFFIX,zapto.org,Global

@@ -1,5 +1,5 @@
 # 规则名称: China
-# 规则统计: 610
+# 规则统计: 612
 
 payload:
   - DOMAIN,csgo.wmsj.cn
@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,71edge.com
   - DOMAIN-SUFFIX,8686c.com
   - DOMAIN-SUFFIX,88cdn.com
+  - DOMAIN-SUFFIX,95516.com
   - DOMAIN-SUFFIX,abchina.com
   - DOMAIN-SUFFIX,abercrombie.com
   - DOMAIN-SUFFIX,acfun.tv
@@ -147,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,clouddn.com
   - DOMAIN-SUFFIX,cloudxns.net
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,cn163.net
   - DOMAIN-SUFFIX,cnblogs.com
