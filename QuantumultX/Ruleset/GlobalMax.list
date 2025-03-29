@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31386
+# 规则统计: 31402
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -276,7 +276,9 @@ HOST-SUFFIX,1lib.tw,GlobalMax
 HOST-SUFFIX,1mobile.com,GlobalMax
 HOST-SUFFIX,1mobile.tw,GlobalMax
 HOST-SUFFIX,1monsterbeatsbydreus.com,GlobalMax
+HOST-SUFFIX,1password.ca,GlobalMax
 HOST-SUFFIX,1password.com,GlobalMax
+HOST-SUFFIX,1password.eu,GlobalMax
 HOST-SUFFIX,1point3acres.com,GlobalMax
 HOST-SUFFIX,1pondo.tv,GlobalMax
 HOST-SUFFIX,1pornlist.com,GlobalMax
@@ -726,6 +728,7 @@ HOST-SUFFIX,aabb1802.com,GlobalMax
 HOST-SUFFIX,aabb1803.com,GlobalMax
 HOST-SUFFIX,aacrjournals.org,GlobalMax
 HOST-SUFFIX,aadmv.com,GlobalMax
+HOST-SUFFIX,aadrm.com,GlobalMax
 HOST-SUFFIX,aaex.uk,GlobalMax
 HOST-SUFFIX,aalah.me,GlobalMax
 HOST-SUFFIX,aamacau.com,GlobalMax
@@ -1158,6 +1161,7 @@ HOST-SUFFIX,agedm.tv,GlobalMax
 HOST-SUFFIX,agemys.org,GlobalMax
 HOST-SUFFIX,agendaweek.com,GlobalMax
 HOST-SUFFIX,agenet.ac.uk,GlobalMax
+HOST-SUFFIX,agilebits.com,GlobalMax
 HOST-SUFFIX,agnesb.fr,GlobalMax
 HOST-SUFFIX,agocg.ac.uk,GlobalMax
 HOST-SUFFIX,agoogleaday.com,GlobalMax
@@ -7694,7 +7698,9 @@ HOST-SUFFIX,difangwenge.org,GlobalMax
 HOST-SUFFIX,dify.ai,GlobalMax
 HOST-SUFFIX,digicert-cn.com,GlobalMax
 HOST-SUFFIX,digicert-validation.com,GlobalMax
+HOST-SUFFIX,digicert.co.jp,GlobalMax
 HOST-SUFFIX,digicert.com,GlobalMax
+HOST-SUFFIX,digicert.eu,GlobalMax
 HOST-SUFFIX,digiland.tw,GlobalMax
 HOST-SUFFIX,digimap.ac.uk,GlobalMax
 HOST-SUFFIX,digisfera.com,GlobalMax
@@ -9198,6 +9204,7 @@ HOST-SUFFIX,enterprisebydesign.ac.uk,GlobalMax
 HOST-SUFFIX,enterprisepaging.com,GlobalMax
 HOST-SUFFIX,enterpriseresearch.ac.uk,GlobalMax
 HOST-SUFFIX,enterprisessl.com,GlobalMax
+HOST-SUFFIX,entrust.com,GlobalMax
 HOST-SUFFIX,entrust.net,GlobalMax
 HOST-SUFFIX,entrustdatacard.com,GlobalMax
 HOST-SUFFIX,enveast.ac.uk,GlobalMax
@@ -15068,6 +15075,7 @@ HOST-SUFFIX,iwork.wang,GlobalMax
 HOST-SUFFIX,iwyn138.com,GlobalMax
 HOST-SUFFIX,ixnxx.tv,GlobalMax
 HOST-SUFFIX,ixquick.com,GlobalMax
+HOST-SUFFIX,ixsystems.com,GlobalMax
 HOST-SUFFIX,ixxx.com,GlobalMax
 HOST-SUFFIX,iyalc.com,GlobalMax
 HOST-SUFFIX,iyf.tv,GlobalMax
@@ -17777,6 +17785,7 @@ HOST-SUFFIX,microsoftadvertising.com,GlobalMax
 HOST-SUFFIX,microsoftadvertisingregionalawards.com,GlobalMax
 HOST-SUFFIX,microsoftaffiliates.com,GlobalMax
 HOST-SUFFIX,microsoftapp.net,GlobalMax
+HOST-SUFFIX,microsoftazuread-sso.com,GlobalMax
 HOST-SUFFIX,microsoftazuresponsorships.com,GlobalMax
 HOST-SUFFIX,microsoftcloud.com,GlobalMax
 HOST-SUFFIX,microsoftcloudsummit.com,GlobalMax
@@ -20892,6 +20901,9 @@ HOST-SUFFIX,ozchinese.com,GlobalMax
 HOST-SUFFIX,ozeex.com,GlobalMax
 HOST-SUFFIX,ozodi.org,GlobalMax
 HOST-SUFFIX,ozodlik.org,GlobalMax
+HOST-SUFFIX,ozon.ru,GlobalMax
+HOST-SUFFIX,ozone.ru,GlobalMax
+HOST-SUFFIX,ozonusercontent.com,GlobalMax
 HOST-SUFFIX,ozvoice.org,GlobalMax
 HOST-SUFFIX,ozxw.com,GlobalMax
 HOST-SUFFIX,ozyoyo.com,GlobalMax
@@ -21636,6 +21648,8 @@ HOST-SUFFIX,playbydurex.com,GlobalMax
 HOST-SUFFIX,playcover.io,GlobalMax
 HOST-SUFFIX,player.fm,GlobalMax
 HOST-SUFFIX,playerjs.io,GlobalMax
+HOST-SUFFIX,playfab.com,GlobalMax
+HOST-SUFFIX,playfabapi.com,GlobalMax
 HOST-SUFFIX,playforceone.com,GlobalMax
 HOST-SUFFIX,playhearthstone.com,GlobalMax
 HOST-SUFFIX,playmation.com,GlobalMax
@@ -27080,6 +27094,7 @@ HOST-SUFFIX,truebuddha-md.org,GlobalMax
 HOST-SUFFIX,truedepth3d.com,GlobalMax
 HOST-SUFFIX,truedwg.com,GlobalMax
 HOST-SUFFIX,truefi.io,GlobalMax
+HOST-SUFFIX,truenas.com,GlobalMax
 HOST-SUFFIX,trulyergonomic.com,GlobalMax
 HOST-SUFFIX,trunest.com,GlobalMax
 HOST-SUFFIX,truro-penwith.ac.uk,GlobalMax
@@ -28500,6 +28515,7 @@ HOST-SUFFIX,visa.tc,GlobalMax
 HOST-SUFFIX,visabank.org,GlobalMax
 HOST-SUFFIX,visabg.com,GlobalMax
 HOST-SUFFIX,visabusinessinsights.com,GlobalMax
+HOST-SUFFIX,visaca.com,GlobalMax
 HOST-SUFFIX,visacarddesignlab.com,GlobalMax
 HOST-SUFFIX,visacards.com,GlobalMax
 HOST-SUFFIX,visacheckout.net,GlobalMax
