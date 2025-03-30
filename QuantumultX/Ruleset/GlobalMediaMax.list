@@ -1,18 +1,25 @@
 # 规则名称: GlobalMediaMax
-# 规则统计: 2231
+# 规则统计: 2255
 
+HOST,ai.google.dev,GlobalMediaMax
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,GlobalMediaMax
+HOST,api.githubcopilot.com,GlobalMediaMax
+HOST,api.groq.com,GlobalMediaMax
 HOST,api.okzy.tv,GlobalMediaMax
+HOST,api.together.xyz,GlobalMediaMax
 HOST,apm-misaka.biliapi.net,GlobalMediaMax
 HOST,apple.comscoreresearch.com,GlobalMediaMax
 HOST,bcbolt446c5271-a.akamaihd.net,GlobalMediaMax
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,GlobalMediaMax
+HOST,console.groq.com,GlobalMediaMax
+HOST,copilot-proxy.githubusercontent.com,GlobalMediaMax
 HOST,cs428.wpc.edgecastcdn.net,GlobalMediaMax
 HOST,dashasiafox.akamaized.netflix,GlobalMediaMax
 HOST,daznfeeds.com.edgekey.net,GlobalMediaMax
 HOST,dca-lm-livedazn.secure.footprint.net,GlobalMediaMax
 HOST,e13252.dscg.akamaiedge.net,GlobalMediaMax
 HOST,edge.cwtv-vod-ext.top.comcast.net,GlobalMediaMax
+HOST,generativelanguage.googleapis.com,GlobalMediaMax
 HOST,gspe1-ssl.ls.apple.com,GlobalMediaMax
 HOST,h-dazn.online-metrix.net,GlobalMediaMax
 HOST,h-netflix.online-metrix.net,GlobalMediaMax
@@ -28,6 +35,7 @@ HOST,news-events.apple.com,GlobalMediaMax
 HOST,ocvideo.apple.com,GlobalMediaMax
 HOST,rpg.pic-imges.com,GlobalMediaMax
 HOST,rthklive2-lh.akamaihd.net,GlobalMediaMax
+HOST,sydney.bing.com,GlobalMediaMax
 HOST-SUFFIX,112263.com,GlobalMediaMax
 HOST-SUFFIX,20thcenturystudios.com.au,GlobalMediaMax
 HOST-SUFFIX,20thcenturystudios.com.br,GlobalMediaMax
@@ -46,6 +54,7 @@ HOST-SUFFIX,adx.promo,GlobalMediaMax
 HOST-SUFFIX,afewmomentswith.com,GlobalMediaMax
 HOST-SUFFIX,afp.com,GlobalMediaMax
 HOST-SUFFIX,afpforum.com,GlobalMediaMax
+HOST-SUFFIX,ai.azure.com,GlobalMediaMax
 HOST-SUFFIX,aiv-cdn.net,GlobalMediaMax
 HOST-SUFFIX,aiv-delivery.net,GlobalMediaMax
 HOST-SUFFIX,akamaized.net,GlobalMediaMax
@@ -72,6 +81,7 @@ HOST-SUFFIX,amerikayidzayn.com,GlobalMediaMax
 HOST-SUFFIX,amerikiskhma.com,GlobalMediaMax
 HOST-SUFFIX,amlg.io,GlobalMediaMax
 HOST-SUFFIX,anidom.com,GlobalMediaMax
+HOST-SUFFIX,anthropic.com,GlobalMediaMax
 HOST-SUFFIX,api.tv.colnv.com,GlobalMediaMax
 HOST-SUFFIX,apple.news,GlobalMediaMax
 HOST-SUFFIX,applemusic.com,GlobalMediaMax
@@ -94,6 +104,7 @@ HOST-SUFFIX,bahamut.com.tw,GlobalMediaMax
 HOST-SUFFIX,bam.nr-data.net,GlobalMediaMax
 HOST-SUFFIX,bam.nr-date.net,GlobalMediaMax
 HOST-SUFFIX,bamgrid.com,GlobalMediaMax
+HOST-SUFFIX,bard.google.com,GlobalMediaMax
 HOST-SUFFIX,bbc.co,GlobalMediaMax
 HOST-SUFFIX,bbc.co.uk,GlobalMediaMax
 HOST-SUFFIX,bbc.com,GlobalMediaMax
@@ -159,6 +170,7 @@ HOST-SUFFIX,channel4.com,GlobalMediaMax
 HOST-SUFFIX,channel5.com,GlobalMediaMax
 HOST-SUFFIX,chocotv.com.tw,GlobalMediaMax
 HOST-SUFFIX,cinemax.com,GlobalMediaMax
+HOST-SUFFIX,claude.ai,GlobalMediaMax
 HOST-SUFFIX,cloudfront.net,GlobalMediaMax
 HOST-SUFFIX,cnbc.com,GlobalMediaMax
 HOST-SUFFIX,cnbcfm.com,GlobalMediaMax
@@ -175,6 +187,8 @@ HOST-SUFFIX,content.jwplatform.com,GlobalMediaMax
 HOST-SUFFIX,control.kochava.com,GlobalMediaMax
 HOST-SUFFIX,conviva.com,GlobalMediaMax
 HOST-SUFFIX,cookielaw.org,GlobalMediaMax
+HOST-SUFFIX,copilot.cloud.microsoft,GlobalMediaMax
+HOST-SUFFIX,copilot.microsoft.com,GlobalMediaMax
 HOST-SUFFIX,coronavirusnow.com,GlobalMediaMax
 HOST-SUFFIX,cstatic.net,GlobalMediaMax
 HOST-SUFFIX,curbed.com,GlobalMediaMax
@@ -533,6 +547,7 @@ HOST-SUFFIX,fxn.ws,GlobalMediaMax
 HOST-SUFFIX,fxnetwork.com,GlobalMediaMax
 HOST-SUFFIX,fxnetworks.com,GlobalMediaMax
 HOST-SUFFIX,gamer.com.tw,GlobalMediaMax
+HOST-SUFFIX,gemini.google.com,GlobalMediaMax
 HOST-SUFFIX,geraldoatlarge.com,GlobalMediaMax
 HOST-SUFFIX,getblueshift.com,GlobalMediaMax
 HOST-SUFFIX,ggpht.cn,GlobalMediaMax
@@ -545,6 +560,8 @@ HOST-SUFFIX,golosameriki.com,GlobalMediaMax
 HOST-SUFFIX,gooddaychicago.com,GlobalMediaMax
 HOST-SUFFIX,googlevideo.com,GlobalMediaMax
 HOST-SUFFIX,gorin.jp,GlobalMediaMax
+HOST-SUFFIX,grazie.ai,GlobalMediaMax
+HOST-SUFFIX,grazie.aws.intellij.net,GlobalMediaMax
 HOST-SUFFIX,gvt1.com,GlobalMediaMax
 HOST-SUFFIX,gvt2.com,GlobalMediaMax
 HOST-SUFFIX,haiwaikan.com,GlobalMediaMax
@@ -697,6 +714,7 @@ HOST-SUFFIX,llnwd.net,GlobalMediaMax
 HOST-SUFFIX,logx.optimizely.com,GlobalMediaMax
 HOST-SUFFIX,londonreal.tv,GlobalMediaMax
 HOST-SUFFIX,m-content-viki.s.llnwi.net,GlobalMediaMax
+HOST-SUFFIX,makersuite.google.com,GlobalMediaMax
 HOST-SUFFIX,manifest.prod.boltdns.net,GlobalMediaMax
 HOST-SUFFIX,marvel.com,GlobalMediaMax
 HOST-SUFFIX,marvel10thanniversary.com,GlobalMediaMax
@@ -712,8 +730,10 @@ HOST-SUFFIX,max.com,GlobalMediaMax
 HOST-SUFFIX,maxgo.com,GlobalMediaMax
 HOST-SUFFIX,media-amazon.com,GlobalMediaMax
 HOST-SUFFIX,meridian.net,GlobalMediaMax
+HOST-SUFFIX,meta.ai,GlobalMediaMax
 HOST-SUFFIX,mewatch.sg,GlobalMediaMax
 HOST-SUFFIX,mickey.tv,GlobalMediaMax
+HOST-SUFFIX,mistral.ai,GlobalMediaMax
 HOST-SUFFIX,mobile-collector.newrelic.com,GlobalMediaMax
 HOST-SUFFIX,moov.hk,GlobalMediaMax
 HOST-SUFFIX,moviesanywhere.com,GlobalMediaMax
@@ -857,6 +877,7 @@ HOST-SUFFIX,pashtovoa.com,GlobalMediaMax
 HOST-SUFFIX,payhulu.com,GlobalMediaMax
 HOST-SUFFIX,pbs.org,GlobalMediaMax
 HOST-SUFFIX,peacocktv.com,GlobalMediaMax
+HOST-SUFFIX,perplexity.ai,GlobalMediaMax
 HOST-SUFFIX,persagg.com,GlobalMediaMax
 HOST-SUFFIX,phncdn.com,GlobalMediaMax
 HOST-SUFFIX,phprcdn.com,GlobalMediaMax
@@ -940,6 +961,7 @@ HOST-SUFFIX,sndcdn.com,GlobalMediaMax
 HOST-SUFFIX,snssdk.com,GlobalMediaMax
 HOST-SUFFIX,soccermatchpass.com,GlobalMediaMax
 HOST-SUFFIX,socdm.com,GlobalMediaMax
+HOST-SUFFIX,sora.com,GlobalMediaMax
 HOST-SUFFIX,sorcerersarena.com,GlobalMediaMax
 HOST-SUFFIX,soundcloud.app.goo.gl,GlobalMediaMax
 HOST-SUFFIX,soundcloud.com,GlobalMediaMax
@@ -1285,9 +1307,11 @@ HOST-SUFFIX,zeeuk.com,GlobalMediaMax
 HOST-SUFFIX,zeriamerikes.com,GlobalMediaMax
 HOST-SUFFIX,zype.com,GlobalMediaMax
 HOST-KEYWORD,abematv.akamaized.net,GlobalMediaMax
+HOST-KEYWORD,anthropic,GlobalMediaMax
 HOST-KEYWORD,apiproxy-device-prod-nlb-,GlobalMediaMax
 HOST-KEYWORD,avoddashs,GlobalMediaMax
 HOST-KEYWORD,bbcfmt,GlobalMediaMax
+HOST-KEYWORD,claude,GlobalMediaMax
 HOST-KEYWORD,discovery.uplynk.com,GlobalMediaMax
 HOST-KEYWORD,dualstack.apiproxy-,GlobalMediaMax
 HOST-KEYWORD,dualstack.ichnaea-web-,GlobalMediaMax
