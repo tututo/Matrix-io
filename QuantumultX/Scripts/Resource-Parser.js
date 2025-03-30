@@ -1,7 +1,7 @@
 /**
 ----------------------------------------------------------
 author = KOP-XIAO
-update = 2024.09.11 18:00
+update = 2025.03.30 22:30
 ----------------------------------------------------------
 [general]
 resource_parser_url = https://github.com/Centralmatrix3/Matrix-io/raw/master/QuantumultX/Scripts/Resource-Parser.js
@@ -2683,10 +2683,11 @@ function SCT2QX(content) {
 // surge3 中的 SS 类型
 function SSS2QX(content) {
     var cnt = content;
+    var cnts=cnt.replace(" ","").replace("\"","")
     var tag = "tag=" + cnt.split("=")[0].trim();
     var ipport = cnt.split(",")[1].trim() + ":" + cnt.split(",")[2].trim();
     var pmtd = "method=" + cnt.split("encrypt-method")[1].split(",")[0].split("=")[1];
-    var pwd = "password=" + cnt.split("password")[1].split(",")[0].split("=")[1];
+    var pwd = "password=" + cnts.split("password=")[1].split(",")[0].replace("\"","")//.split("\"")[0];
     if (cnt.indexOf("obfs") != -1) {
         pobfs = "obfs=" + cnt.replace(/obfs-host/, "").split("obfs")[1].split(",")[0].split("=")[1]
     } else { pobfs = "" }
