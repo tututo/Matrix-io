@@ -220,7 +220,7 @@ jobs:
               echo '  ]' >> "$temp_file"
               echo '}' >> "$temp_file"
               mv "$temp_file" "$file"
-              # 编译 JSON 规则并清理不需要的内容
+              # 编译 Rule-set
               sing-box rule-set compile "$file" -o "${file%.json}.srs"
               rm -rf sing-box sing-box-${SING_BOX_VERSION}-linux-amd64 sing-box.tar.gz
             else
