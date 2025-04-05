@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7057
+# 规则统计: 7059
 
 payload:
   - DOMAIN,cloud.oracle.com
@@ -462,6 +462,7 @@ payload:
   - DOMAIN-SUFFIX,audacy.com
   - DOMAIN-SUFFIX,audionow.com
   - DOMAIN-SUFFIX,auntology.fandom.com
+  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,authorizeddns.net
   - DOMAIN-SUFFIX,authorizeddns.org
   - DOMAIN-SUFFIX,authorizeddns.us
@@ -4386,6 +4387,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,opendemocracy.net
+  - DOMAIN-SUFFIX,opendesktop.org
   - DOMAIN-SUFFIX,opendn.xyz
   - DOMAIN-SUFFIX,openervpn.in
   - DOMAIN-SUFFIX,openid.net
