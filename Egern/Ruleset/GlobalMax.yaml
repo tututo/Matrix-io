@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31408
+# 规则统计: 31409
 
 no_resolve: true
 domain_set:
@@ -20670,6 +20670,7 @@ domain_suffix_set:
   - opencollective.com
   - opencreate.org
   - opendemocracy.net
+  - opendesktop.org
   - opendn.xyz
   - opendns.com
   - opendroneid.org

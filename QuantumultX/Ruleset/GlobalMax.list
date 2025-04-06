@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31408
+# 规则统计: 31409
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -20667,6 +20667,7 @@ HOST-SUFFIX,openart.ai,GlobalMax
 HOST-SUFFIX,opencollective.com,GlobalMax
 HOST-SUFFIX,opencreate.org,GlobalMax
 HOST-SUFFIX,opendemocracy.net,GlobalMax
+HOST-SUFFIX,opendesktop.org,GlobalMax
 HOST-SUFFIX,opendn.xyz,GlobalMax
 HOST-SUFFIX,opendns.com,GlobalMax
 HOST-SUFFIX,opendroneid.org,GlobalMax
