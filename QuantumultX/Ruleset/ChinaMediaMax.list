@@ -1,5 +1,5 @@
 # 规则名称: ChinaMediaMax
-# 规则统计: 388
+# 规则统计: 405
 
 HOST,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net,ChinaMediaMax
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,ChinaMediaMax
@@ -61,12 +61,8 @@ HOST,ins-eeww7kom.ias.tencent-cloud.net,ChinaMediaMax
 HOST,ios.video.mpush.qq.com,ChinaMediaMax
 HOST,mam.netease.com,ChinaMediaMax
 HOST,moo.qq.com,ChinaMediaMax
-HOST,p-bstarstatic.akamaized.net,ChinaMediaMax
-HOST,p.bstarstatic.com,ChinaMediaMax
 HOST,rdelivery.qq.com,ChinaMediaMax
 HOST,ts.qq.com,ChinaMediaMax
-HOST,upos-bstar-mirrorakam.akamaized.net,ChinaMediaMax
-HOST,upos-bstar1-mirrorakam.akamaized.net,ChinaMediaMax
 HOST,v.streaming.qq.com,ChinaMediaMax
 HOST,video-public-1258344701.shiply-cdn.qq.com,ChinaMediaMax
 HOST,video-search-1258344701.shiply-cdn.qq.com,ChinaMediaMax
@@ -167,6 +163,17 @@ HOST-SUFFIX,cntv.com.cn,ChinaMediaMax
 HOST-SUFFIX,cntvwb.cn,ChinaMediaMax
 HOST-SUFFIX,corari.com,ChinaMediaMax
 HOST-SUFFIX,dmhmusic.com,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.cc,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.cn,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.co,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.com,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.net,ChinaMediaMax
+HOST-SUFFIX,domesticmedia.tv,ChinaMediaMax
+HOST-SUFFIX,domesticmediagame.cn,ChinaMediaMax
+HOST-SUFFIX,domesticmediagame.co,ChinaMediaMax
+HOST-SUFFIX,domesticmediagame.net,ChinaMediaMax
+HOST-SUFFIX,domesticmediapay.cn,ChinaMediaMax
+HOST-SUFFIX,domesticmediapay.com,ChinaMediaMax
 HOST-SUFFIX,dreamcast.hk,ChinaMediaMax
 HOST-SUFFIX,dyhgames.com,ChinaMediaMax
 HOST-SUFFIX,e8h2ty.tdum.alibaba.com,ChinaMediaMax
@@ -231,6 +238,8 @@ HOST-SUFFIX,music.xiaomi.com,ChinaMediaMax
 HOST-SUFFIX,noxagile.duapp.com,ChinaMediaMax
 HOST-SUFFIX,ns6mitkxo.cn,ChinaMediaMax
 HOST-SUFFIX,olympicchannelchina.cn,ChinaMediaMax
+HOST-SUFFIX,p-bstarstatic.akamaized.net,ChinaMediaMax
+HOST-SUFFIX,p.bstarstatic.com,ChinaMediaMax
 HOST-SUFFIX,pgdt.gtimg.cn,ChinaMediaMax
 HOST-SUFFIX,pplive.cn,ChinaMediaMax
 HOST-SUFFIX,pps.tv,ChinaMediaMax
@@ -267,11 +276,14 @@ HOST-SUFFIX,tudou.com,ChinaMediaMax
 HOST-SUFFIX,tvcc.cn,ChinaMediaMax
 HOST-SUFFIX,tvcc.com.cn,ChinaMediaMax
 HOST-SUFFIX,ukoo.com.cn,ChinaMediaMax
+HOST-SUFFIX,upos-bstar-mirrorakam.akamaized.net,ChinaMediaMax
+HOST-SUFFIX,upos-bstar1-mirrorakam.akamaized.net,ChinaMediaMax
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,ChinaMediaMax
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,ChinaMediaMax
 HOST-SUFFIX,v-56.com,ChinaMediaMax
 HOST-SUFFIX,v.qq.com,ChinaMediaMax
 HOST-SUFFIX,v.smtcdns.com,ChinaMediaMax
+HOST-SUFFIX,v1d.szbdyd.com,ChinaMediaMax
 HOST-SUFFIX,video.qq.com,ChinaMediaMax
 HOST-SUFFIX,videojj.com,ChinaMediaMax
 HOST-SUFFIX,wenyupages.com,ChinaMediaMax
@@ -328,11 +340,15 @@ IP-CIDR,118.24.63.156/32,ChinaMediaMax
 IP-CIDR,118.26.120.0/24,ChinaMediaMax
 IP-CIDR,118.26.32.0/23,ChinaMediaMax
 IP-CIDR,119.176.0.0/12,ChinaMediaMax
+IP-CIDR,119.29.29.29/32,ChinaMediaMax
 IP-CIDR,119.3.238.64/32,ChinaMediaMax
 IP-CIDR,120.92.108.182/32,ChinaMediaMax
 IP-CIDR,120.92.113.99/32,ChinaMediaMax
 IP-CIDR,120.92.153.217/32,ChinaMediaMax
+IP-CIDR,128.1.62.200/31,ChinaMediaMax
 IP-CIDR,134.175.207.130/32,ChinaMediaMax
+IP-CIDR,150.116.92.250/32,ChinaMediaMax
+IP-CIDR,164.52.76.18/32,ChinaMediaMax
 IP-CIDR,193.112.159.225/32,ChinaMediaMax
 IP-CIDR,203.107.1.0/24,ChinaMediaMax
 IP-CIDR,203.211.4.169/32,ChinaMediaMax
@@ -351,6 +367,7 @@ IP-CIDR,23.40.242.10/32,ChinaMediaMax
 IP-CIDR,23.53.32.88/32,ChinaMediaMax
 IP-CIDR,39.105.63.80/32,ChinaMediaMax
 IP-CIDR,45.254.48.1/32,ChinaMediaMax
+IP-CIDR,45.43.32.234/32,ChinaMediaMax
 IP-CIDR,47.100.127.239/32,ChinaMediaMax
 IP-CIDR,58.49.111.117/32,ChinaMediaMax
 IP-CIDR,58.49.111.79/32,ChinaMediaMax
