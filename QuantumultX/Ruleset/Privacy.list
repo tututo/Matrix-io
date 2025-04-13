@@ -1,5 +1,5 @@
 # 规则名称: Privacy
-# 规则统计: 39380
+# 规则统计: 39382
 
 HOST-SUFFIX,0.myikas.com,Privacy
 HOST-SUFFIX,0.net.easyjet.com,Privacy
@@ -7263,6 +7263,7 @@ HOST-SUFFIX,bhmzab.totes.com,Privacy
 HOST-SUFFIX,bhwjoa.cotopaxi.com,Privacy
 HOST-SUFFIX,bhwkju.vivo.com,Privacy
 HOST-SUFFIX,bhxemw.charleskeith.com,Privacy
+HOST-SUFFIX,bi-metrics.aramuz.net,Privacy
 HOST-SUFFIX,bi.banggood.com,Privacy
 HOST-SUFFIX,bi.concordesolutions.com,Privacy
 HOST-SUFFIX,bi.heyloyalty.com,Privacy
@@ -36531,6 +36532,7 @@ HOST-SUFFIX,tvppa.actonservice.com,Privacy
 HOST-SUFFIX,tvuaeb.taqi.com.br,Privacy
 HOST-SUFFIX,tw-go.experian.com,Privacy
 HOST-SUFFIX,tw.cx,Privacy
+HOST-SUFFIX,tw.reppublika.com,Privacy
 HOST-SUFFIX,tw.spiriteq.com,Privacy
 HOST-SUFFIX,twdhec.marioeletro.com,Privacy
 HOST-SUFFIX,tweetdeck.net.anwalt.de,Privacy
