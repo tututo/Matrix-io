@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31534
+# 规则统计: 31535
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -2660,6 +2660,7 @@ HOST-SUFFIX,audiencenetwork.com,GlobalMax
 HOST-SUFFIX,audiencenetwork.tv,GlobalMax
 HOST-SUFFIX,audiobeatsau.com,GlobalMax
 HOST-SUFFIX,audiobeatsbydre.com,GlobalMax
+HOST-SUFFIX,audiomack.com,GlobalMax
 HOST-SUFFIX,audiomonsterbeatsonline.com,GlobalMax
 HOST-SUFFIX,audionow.com,GlobalMax
 HOST-SUFFIX,aue.ac.uk,GlobalMax

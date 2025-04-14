@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7354
+# 规则统计: 7365
 
 payload:
   - DOMAIN,cloud.oracle.com
@@ -141,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,85st.com
   - DOMAIN-SUFFIX,881903.com
   - DOMAIN-SUFFIX,888.com
+  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,888poker.com
   - DOMAIN-SUFFIX,89-64.org
   - DOMAIN-SUFFIX,89.64.charter.constitutionalism.solutions
@@ -1268,6 +1269,7 @@ payload:
   - DOMAIN-SUFFIX,cloud.dify.ai
   - DOMAIN-SUFFIX,cloud.mail.ru
   - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudfunctions.net
@@ -1993,6 +1995,7 @@ payload:
   - DOMAIN-SUFFIX,fangongheike.com
   - DOMAIN-SUFFIX,fanhaodang.com
   - DOMAIN-SUFFIX,fanhaolou.com
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,fanqiang.tk
   - DOMAIN-SUFFIX,fanqiangdang.com
@@ -2015,6 +2018,7 @@ payload:
   - DOMAIN-SUFFIX,faststone.org
   - DOMAIN-SUFFIX,fatakat-n.club
   - DOMAIN-SUFFIX,fatbtc.com
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favotter.net
   - DOMAIN-SUFFIX,favstar.fm
   - DOMAIN-SUFFIX,fawanghuihui.org
@@ -2847,6 +2851,7 @@ payload:
   - DOMAIN-SUFFIX,gzm.tv
   - DOMAIN-SUFFIX,gzone-anime.info
   - DOMAIN-SUFFIX,h-china.org
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-moe.com
   - DOMAIN-SUFFIX,h1n1china.org
   - DOMAIN-SUFFIX,h528.com
@@ -3864,6 +3869,7 @@ payload:
   - DOMAIN-SUFFIX,mansion.com
   - DOMAIN-SUFFIX,mansionpoker.com
   - DOMAIN-SUFFIX,manta.com
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,manyvoices.news
   - DOMAIN-SUFFIX,maplew.com
   - DOMAIN-SUFFIX,marc.info
@@ -5389,6 +5395,7 @@ payload:
   - DOMAIN-SUFFIX,sina.com.hk
   - DOMAIN-SUFFIX,sina.com.tw
   - DOMAIN-SUFFIX,sinchew.com.my
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
   - DOMAIN-SUFFIX,singaporepools.com.sg
   - DOMAIN-SUFFIX,singfortibet.com
   - DOMAIN-SUFFIX,singlelogin.se
@@ -5518,6 +5525,7 @@ payload:
   - DOMAIN-SUFFIX,sosad.fun
   - DOMAIN-SUFFIX,sosreader.com
   - DOMAIN-SUFFIX,sostibet.org
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,sou-tong.org
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soul-plus.net
@@ -5588,6 +5596,7 @@ payload:
   - DOMAIN-SUFFIX,ssh91.com
   - DOMAIN-SUFFIX,ssl.webpack.de
   - DOMAIN-SUFFIX,ssl443.org
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,sspanel.org
   - DOMAIN-SUFFIX,sspro.ml
@@ -5925,6 +5934,7 @@ payload:
   - DOMAIN-SUFFIX,thlib.org
   - DOMAIN-SUFFIX,thomasbernhard.org
   - DOMAIN-SUFFIX,thongdreams.com
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,threadreaderapp.com
   - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
@@ -6476,6 +6486,7 @@ payload:
   - DOMAIN-SUFFIX,uymaarip.com
   - DOMAIN-SUFFIX,v.roucdn
   - DOMAIN-SUFFIX,v2.help
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,v2mm.tech
