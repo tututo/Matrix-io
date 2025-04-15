@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31535
+# 规则统计: 31543
 
 no_resolve: true
 domain_set:
@@ -10025,6 +10025,7 @@ domain_suffix_set:
   - fanhaodian.com
   - fanhaolou.com
   - fanhowab.buzz
+  - fani.com
   - fank.ru
   - fanleakstoday.com
   - fanqiang.network
@@ -10140,6 +10141,7 @@ domain_suffix_set:
   - fatstube.com
   - fau11.com
   - fault-analysis-group.ac.uk
+  - favcomic.com
   - favebook.com
   - favelaporno.com
   - favepornmovs.com
@@ -12426,6 +12428,7 @@ domain_suffix_set:
   - gzm.tv
   - gzone-anime.info
   - h-china.org
+  - h-ciyuan.com
   - h-doujinshi.xyz
   - h-flash.com
   - h-moe.com
@@ -17229,6 +17232,7 @@ domain_suffix_set:
   - mantochichi.com
   - manufacturingedc.ac.uk
   - manurefetish.com
+  - manwa.me
   - manytoon.com
   - manyvids.com
   - manyvoices.news
@@ -25123,6 +25127,7 @@ domain_suffix_set:
   - sothebys-institute.ac.uk
   - soton.ac.uk
   - sots.ac.uk
+  - sotwe.com
   - sou-tong.org
   - soubory.com
   - souka.xyz
@@ -25372,6 +25377,7 @@ domain_suffix_set:
   - ssl.com
   - ssl443.org
   - sslpaypal.org
+  - ssm.fun
   - ssmh.ac.uk
   - sspanel.net
   - sspanel.org
@@ -26718,6 +26724,7 @@ domain_suffix_set:
   - thotbook.tv
   - thothub.ru
   - thothub.to
+  - thotsbay.tv
   - thottok.com
   - thotvids.com
   - threadreaderapp.com
@@ -28129,6 +28136,7 @@ domain_suffix_set:
   - v.gd
   - v.roucdn
   - v2.help
+  - v2.hysteria.network
   - v2ex.co
   - v2ex.com
   - v2fly.org

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31535
+# 规则统计: 31543
 
 payload:
   - DOMAIN,adobeereg.com
@@ -10023,6 +10023,7 @@ payload:
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,fanhaolou.com
   - DOMAIN-SUFFIX,fanhowab.buzz
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fank.ru
   - DOMAIN-SUFFIX,fanleakstoday.com
   - DOMAIN-SUFFIX,fanqiang.network
@@ -10138,6 +10139,7 @@ payload:
   - DOMAIN-SUFFIX,fatstube.com
   - DOMAIN-SUFFIX,fau11.com
   - DOMAIN-SUFFIX,fault-analysis-group.ac.uk
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favebook.com
   - DOMAIN-SUFFIX,favelaporno.com
   - DOMAIN-SUFFIX,favepornmovs.com
@@ -12424,6 +12426,7 @@ payload:
   - DOMAIN-SUFFIX,gzm.tv
   - DOMAIN-SUFFIX,gzone-anime.info
   - DOMAIN-SUFFIX,h-china.org
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-doujinshi.xyz
   - DOMAIN-SUFFIX,h-flash.com
   - DOMAIN-SUFFIX,h-moe.com
@@ -17227,6 +17230,7 @@ payload:
   - DOMAIN-SUFFIX,mantochichi.com
   - DOMAIN-SUFFIX,manufacturingedc.ac.uk
   - DOMAIN-SUFFIX,manurefetish.com
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,manytoon.com
   - DOMAIN-SUFFIX,manyvids.com
   - DOMAIN-SUFFIX,manyvoices.news
@@ -25121,6 +25125,7 @@ payload:
   - DOMAIN-SUFFIX,sothebys-institute.ac.uk
   - DOMAIN-SUFFIX,soton.ac.uk
   - DOMAIN-SUFFIX,sots.ac.uk
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,sou-tong.org
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,souka.xyz
@@ -25370,6 +25375,7 @@ payload:
   - DOMAIN-SUFFIX,ssl.com
   - DOMAIN-SUFFIX,ssl443.org
   - DOMAIN-SUFFIX,sslpaypal.org
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,ssmh.ac.uk
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,sspanel.org
@@ -26716,6 +26722,7 @@ payload:
   - DOMAIN-SUFFIX,thotbook.tv
   - DOMAIN-SUFFIX,thothub.ru
   - DOMAIN-SUFFIX,thothub.to
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
   - DOMAIN-SUFFIX,threadreaderapp.com
@@ -28127,6 +28134,7 @@ payload:
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,v.roucdn
   - DOMAIN-SUFFIX,v2.help
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org

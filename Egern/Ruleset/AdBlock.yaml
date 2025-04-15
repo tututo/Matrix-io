@@ -1,5 +1,5 @@
 # 规则名称: AdBlock
-# 规则统计: 87570
+# 规则统计: 87569
 
 domain_suffix_set:
   - 0.myikas.com
@@ -71802,7 +71802,6 @@ domain_suffix_set:
   - stats.pubfind.io
   - stats.pusher.com
   - stats.qdq.com
-  - stats.qiumibao.com
   - stats.qovery.com
   - stats.quicksilvercre.com
   - stats.qwant.com

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31535
+# 规则统计: 31543
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -10022,6 +10022,7 @@ HOST-SUFFIX,fanhaodang.com,GlobalMax
 HOST-SUFFIX,fanhaodian.com,GlobalMax
 HOST-SUFFIX,fanhaolou.com,GlobalMax
 HOST-SUFFIX,fanhowab.buzz,GlobalMax
+HOST-SUFFIX,fani.com,GlobalMax
 HOST-SUFFIX,fank.ru,GlobalMax
 HOST-SUFFIX,fanleakstoday.com,GlobalMax
 HOST-SUFFIX,fanqiang.network,GlobalMax
@@ -10137,6 +10138,7 @@ HOST-SUFFIX,fatbtc.com,GlobalMax
 HOST-SUFFIX,fatstube.com,GlobalMax
 HOST-SUFFIX,fau11.com,GlobalMax
 HOST-SUFFIX,fault-analysis-group.ac.uk,GlobalMax
+HOST-SUFFIX,favcomic.com,GlobalMax
 HOST-SUFFIX,favebook.com,GlobalMax
 HOST-SUFFIX,favelaporno.com,GlobalMax
 HOST-SUFFIX,favepornmovs.com,GlobalMax
@@ -12423,6 +12425,7 @@ HOST-SUFFIX,gyutto.com,GlobalMax
 HOST-SUFFIX,gzm.tv,GlobalMax
 HOST-SUFFIX,gzone-anime.info,GlobalMax
 HOST-SUFFIX,h-china.org,GlobalMax
+HOST-SUFFIX,h-ciyuan.com,GlobalMax
 HOST-SUFFIX,h-doujinshi.xyz,GlobalMax
 HOST-SUFFIX,h-flash.com,GlobalMax
 HOST-SUFFIX,h-moe.com,GlobalMax
@@ -17226,6 +17229,7 @@ HOST-SUFFIX,mantais.ac.uk,GlobalMax
 HOST-SUFFIX,mantochichi.com,GlobalMax
 HOST-SUFFIX,manufacturingedc.ac.uk,GlobalMax
 HOST-SUFFIX,manurefetish.com,GlobalMax
+HOST-SUFFIX,manwa.me,GlobalMax
 HOST-SUFFIX,manytoon.com,GlobalMax
 HOST-SUFFIX,manyvids.com,GlobalMax
 HOST-SUFFIX,manyvoices.news,GlobalMax
@@ -25120,6 +25124,7 @@ HOST-SUFFIX,sostibet.org,GlobalMax
 HOST-SUFFIX,sothebys-institute.ac.uk,GlobalMax
 HOST-SUFFIX,soton.ac.uk,GlobalMax
 HOST-SUFFIX,sots.ac.uk,GlobalMax
+HOST-SUFFIX,sotwe.com,GlobalMax
 HOST-SUFFIX,sou-tong.org,GlobalMax
 HOST-SUFFIX,soubory.com,GlobalMax
 HOST-SUFFIX,souka.xyz,GlobalMax
@@ -25369,6 +25374,7 @@ HOST-SUFFIX,ssl-images-amazon.com,GlobalMax
 HOST-SUFFIX,ssl.com,GlobalMax
 HOST-SUFFIX,ssl443.org,GlobalMax
 HOST-SUFFIX,sslpaypal.org,GlobalMax
+HOST-SUFFIX,ssm.fun,GlobalMax
 HOST-SUFFIX,ssmh.ac.uk,GlobalMax
 HOST-SUFFIX,sspanel.net,GlobalMax
 HOST-SUFFIX,sspanel.org,GlobalMax
@@ -26715,6 +26721,7 @@ HOST-SUFFIX,thornbeck.ac.uk,GlobalMax
 HOST-SUFFIX,thotbook.tv,GlobalMax
 HOST-SUFFIX,thothub.ru,GlobalMax
 HOST-SUFFIX,thothub.to,GlobalMax
+HOST-SUFFIX,thotsbay.tv,GlobalMax
 HOST-SUFFIX,thottok.com,GlobalMax
 HOST-SUFFIX,thotvids.com,GlobalMax
 HOST-SUFFIX,threadreaderapp.com,GlobalMax
@@ -28126,6 +28133,7 @@ HOST-SUFFIX,v-resort.ac.uk,GlobalMax
 HOST-SUFFIX,v.gd,GlobalMax
 HOST-SUFFIX,v.roucdn,GlobalMax
 HOST-SUFFIX,v2.help,GlobalMax
+HOST-SUFFIX,v2.hysteria.network,GlobalMax
 HOST-SUFFIX,v2ex.co,GlobalMax
 HOST-SUFFIX,v2ex.com,GlobalMax
 HOST-SUFFIX,v2fly.org,GlobalMax
