@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31560
+# 规则统计: 31568
 
 no_resolve: true
 domain_set:
@@ -274,6 +274,7 @@ domain_suffix_set:
   - 1lib.eu
   - 1lib.limited
   - 1lib.pl
+  - 1lib.sk
   - 1lib.to
   - 1lib.tw
   - 1mobile.com
@@ -11802,6 +11803,7 @@ domain_suffix_set:
   - go-lang.net
   - go-lang.org
   - go-pki.com
+  - go-to-library.sk
   - go-to-zlibrary.se
   - go.com
   - go.dev
@@ -15054,6 +15056,7 @@ domain_suffix_set:
   - itaeromanga.com
   - itaiwan.gov.tw
   - italiabeatsbydrdre.com
+  - italian-books.sk
   - italiatibet.org
   - itasoftware.com
   - itcanwait.com
@@ -18724,6 +18727,7 @@ domain_suffix_set:
   - msgamesresearch.com
   - msguancha.com
   - msha.gov
+  - mshome.net
   - msinnovationchallenge.com
   - msk.ilnk.info
   - msk.kitazawa.me
@@ -31187,9 +31191,13 @@ domain_suffix_set:
   - yysub.net
   - yzld188.top
   - yzzk.com
+  - z-lib.gd
+  - z-lib.gs
   - z-lib.io
   - z-lib.org
+  - z-lib.ps
   - z-library.se
+  - z-library.sk
   - z00.world
   - z18r.co
   - z18r.com

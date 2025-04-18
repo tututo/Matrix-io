@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31560
+# 规则统计: 31568
 
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
@@ -271,6 +271,7 @@ HOST-SUFFIX,1lib.education,GlobalMax
 HOST-SUFFIX,1lib.eu,GlobalMax
 HOST-SUFFIX,1lib.limited,GlobalMax
 HOST-SUFFIX,1lib.pl,GlobalMax
+HOST-SUFFIX,1lib.sk,GlobalMax
 HOST-SUFFIX,1lib.to,GlobalMax
 HOST-SUFFIX,1lib.tw,GlobalMax
 HOST-SUFFIX,1mobile.com,GlobalMax
@@ -11799,6 +11800,7 @@ HOST-SUFFIX,go-lang.com,GlobalMax
 HOST-SUFFIX,go-lang.net,GlobalMax
 HOST-SUFFIX,go-lang.org,GlobalMax
 HOST-SUFFIX,go-pki.com,GlobalMax
+HOST-SUFFIX,go-to-library.sk,GlobalMax
 HOST-SUFFIX,go-to-zlibrary.se,GlobalMax
 HOST-SUFFIX,go.com,GlobalMax
 HOST-SUFFIX,go.dev,GlobalMax
@@ -15051,6 +15053,7 @@ HOST-SUFFIX,itaboo.info,GlobalMax
 HOST-SUFFIX,itaeromanga.com,GlobalMax
 HOST-SUFFIX,itaiwan.gov.tw,GlobalMax
 HOST-SUFFIX,italiabeatsbydrdre.com,GlobalMax
+HOST-SUFFIX,italian-books.sk,GlobalMax
 HOST-SUFFIX,italiatibet.org,GlobalMax
 HOST-SUFFIX,itasoftware.com,GlobalMax
 HOST-SUFFIX,itcanwait.com,GlobalMax
@@ -18721,6 +18724,7 @@ HOST-SUFFIX,msftnet.org,GlobalMax
 HOST-SUFFIX,msgamesresearch.com,GlobalMax
 HOST-SUFFIX,msguancha.com,GlobalMax
 HOST-SUFFIX,msha.gov,GlobalMax
+HOST-SUFFIX,mshome.net,GlobalMax
 HOST-SUFFIX,msinnovationchallenge.com,GlobalMax
 HOST-SUFFIX,msk.ilnk.info,GlobalMax
 HOST-SUFFIX,msk.kitazawa.me,GlobalMax
@@ -31184,9 +31188,13 @@ HOST-SUFFIX,yyjlymb.xyz,GlobalMax
 HOST-SUFFIX,yysub.net,GlobalMax
 HOST-SUFFIX,yzld188.top,GlobalMax
 HOST-SUFFIX,yzzk.com,GlobalMax
+HOST-SUFFIX,z-lib.gd,GlobalMax
+HOST-SUFFIX,z-lib.gs,GlobalMax
 HOST-SUFFIX,z-lib.io,GlobalMax
 HOST-SUFFIX,z-lib.org,GlobalMax
+HOST-SUFFIX,z-lib.ps,GlobalMax
 HOST-SUFFIX,z-library.se,GlobalMax
+HOST-SUFFIX,z-library.sk,GlobalMax
 HOST-SUFFIX,z00.world,GlobalMax
 HOST-SUFFIX,z18r.co,GlobalMax
 HOST-SUFFIX,z18r.com,GlobalMax
