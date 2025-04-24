@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 139442
+# 规则统计: 139453
 
 no_resolve: true
 domain_set:
@@ -45876,7 +45876,10 @@ domain_suffix_set:
   - hapg-hitachi.com
   - hapi123.net
   - hapids.com
+  - hapierxia.com
   - hapingapp.com
+  - hapipixia.com
+  - hapiyixia.com
   - hapjs.org
   - haplat.net
   - happi123.com
@@ -60306,6 +60309,8 @@ domain_suffix_set:
   - kaimg.com
   - kaimitech.com
   - kaipanla.com
+  - kaipuyun.com
+  - kaipuyun.net
   - kaiqiancq.com
   - kaiqiu.cc
   - kaiqsz.com
@@ -62186,6 +62191,7 @@ domain_suffix_set:
   - kuailedo.com
   - kuailekaishi.com
   - kuailelunwen.com
+  - kuailepipixia.com
   - kuailetongyao.com
   - kuailexs.com
   - kuailexue.com
@@ -77210,6 +77216,7 @@ domain_suffix_set:
   - pipishu.com
   - pipiti.com
   - pipix.com
+  - pipixiaha.com
   - pipiyo.com
   - pipsemi.com
   - pipuda.com
@@ -77841,10 +77848,13 @@ domain_suffix_set:
   - ppwwyyxx.com
   - ppx520.com
   - ppxclub.com
+  - ppxhhh.com
   - ppxiaoshuowang.com
+  - ppximg.com
   - ppxm.com
   - ppxmw.com
   - ppxs.net
+  - ppxstatic.com
   - ppxsw.co
   - ppxvod.com
   - ppxwo.com
@@ -118818,7 +118828,6 @@ ip_cidr_set:
   - 103.120.88.0/22
   - 103.120.96.0/21
   - 103.121.160.0/21
-  - 103.121.228.0/24
   - 103.121.250.0/24
   - 103.121.252.0/22
   - 103.121.52.0/22
@@ -121464,7 +121473,6 @@ ip_cidr_set:
   - 118.107.12.0/22
   - 118.107.32.0/24
   - 118.107.41.0/24
-  - 118.107.43.0/24
   - 118.107.56.0/23
   - 118.107.60.0/24
   - 118.107.63.0/24
@@ -126162,6 +126170,7 @@ ip_cidr_set:
   - 44.31.28.0/24
   - 44.31.42.0/24
   - 44.31.81.0/24
+  - 44.31.96.0/24
   - 44.32.143.0/24
   - 44.32.188.0/24
   - 44.32.191.0/24
@@ -139372,11 +139381,13 @@ ip_cidr6_set:
   - 2a14:67c1:800::/48
   - 2a14:67c1:a010::/44
   - 2a14:67c1:a020::/48
+  - 2a14:67c1:a023::/48
   - 2a14:67c1:a024::/48
   - 2a14:67c1:a02a::/48
   - 2a14:67c1:a02f::/48
   - 2a14:67c1:a061::/48
   - 2a14:67c1:a090::/47
+  - 2a14:67c1:b065::/48
   - 2a14:67c1:b066::/47
   - 2a14:67c1:b068::/47
   - 2a14:67c1:b100::/46
