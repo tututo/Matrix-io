@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31595
+# 规则统计: 31593
 
 payload:
   - DOMAIN,1password.drift.click
@@ -12225,7 +12225,6 @@ payload:
   - DOMAIN-SUFFIX,gotgeeks.com
   - DOMAIN-SUFFIX,gothdporn.com
   - DOMAIN-SUFFIX,gotporn.com
-  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,gotraffic.net
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotw.ca
@@ -14031,7 +14030,6 @@ payload:
   - DOMAIN-SUFFIX,idlcoyote.com
   - DOMAIN-SUFFIX,idnike.com
   - DOMAIN-SUFFIX,idol-sagasukun.com
-  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,idouga.com
   - DOMAIN-SUFFIX,idras.ac.uk
   - DOMAIN-SUFFIX,idreamx.com
@@ -19582,6 +19580,7 @@ payload:
   - DOMAIN-SUFFIX,newroutephd.ac.uk
   - DOMAIN-SUFFIX,news.co.uk
   - DOMAIN-SUFFIX,news.com.au
+  - DOMAIN-SUFFIX,news.mt.co.kr
   - DOMAIN-SUFFIX,news.net.au
   - DOMAIN-SUFFIX,news1.kr
   - DOMAIN-SUFFIX,news100.com.tw
@@ -25831,7 +25830,6 @@ payload:
   - DOMAIN-SUFFIX,stxmosquitoproject.net
   - DOMAIN-SUFFIX,stxmosquitoproject.org
   - DOMAIN-SUFFIX,sub147.com
-  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,sublimedirectory.com
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,submarin.online

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31595
+# 规则统计: 31593
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -12224,7 +12224,6 @@ HOST-SUFFIX,gotgayporn.com,GlobalMax
 HOST-SUFFIX,gotgeeks.com,GlobalMax
 HOST-SUFFIX,gothdporn.com,GlobalMax
 HOST-SUFFIX,gotporn.com,GlobalMax
-HOST-SUFFIX,gotquestions.org,GlobalMax
 HOST-SUFFIX,gotraffic.net,GlobalMax
 HOST-SUFFIX,gotrusted.com,GlobalMax
 HOST-SUFFIX,gotw.ca,GlobalMax
@@ -14030,7 +14029,6 @@ HOST-SUFFIX,idiomconnection.com,GlobalMax
 HOST-SUFFIX,idlcoyote.com,GlobalMax
 HOST-SUFFIX,idnike.com,GlobalMax
 HOST-SUFFIX,idol-sagasukun.com,GlobalMax
-HOST-SUFFIX,idope.se,GlobalMax
 HOST-SUFFIX,idouga.com,GlobalMax
 HOST-SUFFIX,idras.ac.uk,GlobalMax
 HOST-SUFFIX,idreamx.com,GlobalMax
@@ -19581,6 +19579,7 @@ HOST-SUFFIX,newpppp.com,GlobalMax
 HOST-SUFFIX,newroutephd.ac.uk,GlobalMax
 HOST-SUFFIX,news.co.uk,GlobalMax
 HOST-SUFFIX,news.com.au,GlobalMax
+HOST-SUFFIX,news.mt.co.kr,GlobalMax
 HOST-SUFFIX,news.net.au,GlobalMax
 HOST-SUFFIX,news1.kr,GlobalMax
 HOST-SUFFIX,news100.com.tw,GlobalMax
@@ -25830,7 +25829,6 @@ HOST-SUFFIX,stxmosquitoproject.com,GlobalMax
 HOST-SUFFIX,stxmosquitoproject.net,GlobalMax
 HOST-SUFFIX,stxmosquitoproject.org,GlobalMax
 HOST-SUFFIX,sub147.com,GlobalMax
-HOST-SUFFIX,subhd.tv,GlobalMax
 HOST-SUFFIX,sublimedirectory.com,GlobalMax
 HOST-SUFFIX,sublimetext.com,GlobalMax
 HOST-SUFFIX,submarin.online,GlobalMax
