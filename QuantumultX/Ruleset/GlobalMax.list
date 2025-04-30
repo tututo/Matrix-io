@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31593
+# 规则统计: 31594
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -26769,6 +26769,7 @@ HOST-SUFFIX,thotsbay.tv,GlobalMax
 HOST-SUFFIX,thottok.com,GlobalMax
 HOST-SUFFIX,thotvids.com,GlobalMax
 HOST-SUFFIX,threadreaderapp.com,GlobalMax
+HOST-SUFFIX,threads.com,GlobalMax
 HOST-SUFFIX,threads.net,GlobalMax
 HOST-SUFFIX,threatchaos.com,GlobalMax
 HOST-SUFFIX,thri.xxx,GlobalMax

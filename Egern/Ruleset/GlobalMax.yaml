@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31593
+# 规则统计: 31594
 
 no_resolve: true
 domain_set:
@@ -26772,6 +26772,7 @@ domain_suffix_set:
   - thottok.com
   - thotvids.com
   - threadreaderapp.com
+  - threads.com
   - threads.net
   - threatchaos.com
   - thri.xxx
