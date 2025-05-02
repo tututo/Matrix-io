@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31594
+# 规则统计: 31597
 
 payload:
   - DOMAIN,1password.drift.click
@@ -5047,6 +5047,7 @@ payload:
   - DOMAIN-SUFFIX,broadbandreports.com
   - DOMAIN-SUFFIX,broadbook.com
   - DOMAIN-SUFFIX,broadcast.co.nz
+  - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,broadpressinc.com
   - DOMAIN-SUFFIX,broadstairscollege.ac.uk
   - DOMAIN-SUFFIX,brocaproject.com
@@ -18744,6 +18745,7 @@ payload:
   - DOMAIN-SUFFIX,msguancha.com
   - DOMAIN-SUFFIX,msha.gov
   - DOMAIN-SUFFIX,mshome.net
+  - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,msinnovationchallenge.com
   - DOMAIN-SUFFIX,msk.ilnk.info
@@ -24681,6 +24683,7 @@ payload:
   - DOMAIN-SUFFIX,sinchew.com.my
   - DOMAIN-SUFFIX,sinchew.my
   - DOMAIN-SUFFIX,sinet.ac.uk
+  - DOMAIN-SUFFIX,sing-box.app
   - DOMAIN-SUFFIX,sing4.lat
   - DOMAIN-SUFFIX,sing68.com
   - DOMAIN-SUFFIX,singaporepools.com.sg
