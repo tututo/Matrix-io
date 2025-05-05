@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31597
+# 规则统计: 31595
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -12225,6 +12225,7 @@ HOST-SUFFIX,gotgayporn.com,GlobalMax
 HOST-SUFFIX,gotgeeks.com,GlobalMax
 HOST-SUFFIX,gothdporn.com,GlobalMax
 HOST-SUFFIX,gotporn.com,GlobalMax
+HOST-SUFFIX,gotquestions.org,GlobalMax
 HOST-SUFFIX,gotraffic.net,GlobalMax
 HOST-SUFFIX,gotrusted.com,GlobalMax
 HOST-SUFFIX,gotw.ca,GlobalMax
@@ -14030,6 +14031,7 @@ HOST-SUFFIX,idiomconnection.com,GlobalMax
 HOST-SUFFIX,idlcoyote.com,GlobalMax
 HOST-SUFFIX,idnike.com,GlobalMax
 HOST-SUFFIX,idol-sagasukun.com,GlobalMax
+HOST-SUFFIX,idope.se,GlobalMax
 HOST-SUFFIX,idouga.com,GlobalMax
 HOST-SUFFIX,idras.ac.uk,GlobalMax
 HOST-SUFFIX,idreamx.com,GlobalMax
@@ -16084,7 +16086,6 @@ HOST-SUFFIX,kukuku.uk,GlobalMax
 HOST-SUFFIX,kum.com,GlobalMax
 HOST-SUFFIX,kumo.com,GlobalMax
 HOST-SUFFIX,kun.im,GlobalMax
-HOST-SUFFIX,kun66.xyz,GlobalMax
 HOST-SUFFIX,kundun1069.com,GlobalMax
 HOST-SUFFIX,kurashsultan.com,GlobalMax
 HOST-SUFFIX,kurtmunger.com,GlobalMax
@@ -20028,6 +20029,7 @@ HOST-SUFFIX,noc.ac.uk,GlobalMax
 HOST-SUFFIX,nocn.ac.uk,GlobalMax
 HOST-SUFFIX,nocs.ac.uk,GlobalMax
 HOST-SUFFIX,nodejs.org,GlobalMax
+HOST-SUFFIX,nodeloc.com,GlobalMax
 HOST-SUFFIX,nodes.ac.uk,GlobalMax
 HOST-SUFFIX,nodeseek.com,GlobalMax
 HOST-SUFFIX,nodesnoop.com,GlobalMax
@@ -22687,7 +22689,6 @@ HOST-SUFFIX,qbittorrent.org,GlobalMax
 HOST-SUFFIX,qbmengmei6.mom,GlobalMax
 HOST-SUFFIX,qbsc.ac.uk,GlobalMax
 HOST-SUFFIX,qckprn.com,GlobalMax
-HOST-SUFFIX,qcmod.xyz,GlobalMax
 HOST-SUFFIX,qctconnect.com,GlobalMax
 HOST-SUFFIX,qdiehzz7.me,GlobalMax
 HOST-SUFFIX,qdmomentum.com,GlobalMax
@@ -23349,7 +23350,6 @@ HOST-SUFFIX,right-2.ac.uk,GlobalMax
 HOST-SUFFIX,rightbtc.com,GlobalMax
 HOST-SUFFIX,rightster.com,GlobalMax
 HOST-SUFFIX,rigpa.org,GlobalMax
-HOST-SUFFIX,rigums.xyz,GlobalMax
 HOST-SUFFIX,riku.me,GlobalMax
 HOST-SUFFIX,rileyguide.com,GlobalMax
 HOST-SUFFIX,rime.im,GlobalMax
@@ -24394,7 +24394,6 @@ HOST-SUFFIX,sgul.ac.uk,GlobalMax
 HOST-SUFFIX,sgwritings.com,GlobalMax
 HOST-SUFFIX,sgzhan.com,GlobalMax
 HOST-SUFFIX,sh-xuxingda.com,GlobalMax
-HOST-SUFFIX,sh83.xyz,GlobalMax
 HOST-SUFFIX,shadbase.com,GlobalMax
 HOST-SUFFIX,shadeyouvpn.com,GlobalMax
 HOST-SUFFIX,shadow.ma,GlobalMax
@@ -25832,6 +25831,7 @@ HOST-SUFFIX,stxmosquitoproject.com,GlobalMax
 HOST-SUFFIX,stxmosquitoproject.net,GlobalMax
 HOST-SUFFIX,stxmosquitoproject.org,GlobalMax
 HOST-SUFFIX,sub147.com,GlobalMax
+HOST-SUFFIX,subhd.tv,GlobalMax
 HOST-SUFFIX,sublimedirectory.com,GlobalMax
 HOST-SUFFIX,sublimetext.com,GlobalMax
 HOST-SUFFIX,submarin.online,GlobalMax
@@ -30131,7 +30131,6 @@ HOST-SUFFIX,xiaoyaoge.xyz,GlobalMax
 HOST-SUFFIX,xiaxiaoqiang.net,GlobalMax
 HOST-SUFFIX,xiezhua.com,GlobalMax
 HOST-SUFFIX,xihua.es,GlobalMax
-HOST-SUFFIX,xin21.xyz,GlobalMax
 HOST-SUFFIX,xinaia-av.buzz,GlobalMax
 HOST-SUFFIX,xinbao.de,GlobalMax
 HOST-SUFFIX,xindelu.com,GlobalMax
@@ -31168,7 +31167,6 @@ HOST-SUFFIX,ysmany.com,GlobalMax
 HOST-SUFFIX,ysmass.com,GlobalMax
 HOST-SUFFIX,ysmeal.com,GlobalMax
 HOST-SUFFIX,ysmeat.com,GlobalMax
-HOST-SUFFIX,ysmeet.com,GlobalMax
 HOST-SUFFIX,ysmelf.com,GlobalMax
 HOST-SUFFIX,ysmere.com,GlobalMax
 HOST-SUFFIX,ysmuch.com,GlobalMax

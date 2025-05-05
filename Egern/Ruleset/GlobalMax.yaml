@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31597
+# 规则统计: 31595
 
 no_resolve: true
 domain_set:
@@ -12228,6 +12228,7 @@ domain_suffix_set:
   - gotgeeks.com
   - gothdporn.com
   - gotporn.com
+  - gotquestions.org
   - gotraffic.net
   - gotrusted.com
   - gotw.ca
@@ -14033,6 +14034,7 @@ domain_suffix_set:
   - idlcoyote.com
   - idnike.com
   - idol-sagasukun.com
+  - idope.se
   - idouga.com
   - idras.ac.uk
   - idreamx.com
@@ -16087,7 +16089,6 @@ domain_suffix_set:
   - kum.com
   - kumo.com
   - kun.im
-  - kun66.xyz
   - kundun1069.com
   - kurashsultan.com
   - kurtmunger.com
@@ -20031,6 +20032,7 @@ domain_suffix_set:
   - nocn.ac.uk
   - nocs.ac.uk
   - nodejs.org
+  - nodeloc.com
   - nodes.ac.uk
   - nodeseek.com
   - nodesnoop.com
@@ -22690,7 +22692,6 @@ domain_suffix_set:
   - qbmengmei6.mom
   - qbsc.ac.uk
   - qckprn.com
-  - qcmod.xyz
   - qctconnect.com
   - qdiehzz7.me
   - qdmomentum.com
@@ -23352,7 +23353,6 @@ domain_suffix_set:
   - rightbtc.com
   - rightster.com
   - rigpa.org
-  - rigums.xyz
   - riku.me
   - rileyguide.com
   - rime.im
@@ -24397,7 +24397,6 @@ domain_suffix_set:
   - sgwritings.com
   - sgzhan.com
   - sh-xuxingda.com
-  - sh83.xyz
   - shadbase.com
   - shadeyouvpn.com
   - shadow.ma
@@ -25835,6 +25834,7 @@ domain_suffix_set:
   - stxmosquitoproject.net
   - stxmosquitoproject.org
   - sub147.com
+  - subhd.tv
   - sublimedirectory.com
   - sublimetext.com
   - submarin.online
@@ -30134,7 +30134,6 @@ domain_suffix_set:
   - xiaxiaoqiang.net
   - xiezhua.com
   - xihua.es
-  - xin21.xyz
   - xinaia-av.buzz
   - xinbao.de
   - xindelu.com
@@ -31171,7 +31170,6 @@ domain_suffix_set:
   - ysmass.com
   - ysmeal.com
   - ysmeat.com
-  - ysmeet.com
   - ysmelf.com
   - ysmere.com
   - ysmuch.com
