@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31595
+# 规则统计: 31597
 
 payload:
   - DOMAIN,1password.drift.click
@@ -24670,6 +24670,7 @@ payload:
   - DOMAIN-SUFFIX,simplenote.com
   - DOMAIN-SUFFIX,simpleproductivityblog.com
   - DOMAIN-SUFFIX,simpleswap.io
+  - DOMAIN-SUFFIX,simplex.chat
   - DOMAIN-SUFFIX,simplify.com
   - DOMAIN-SUFFIX,simplifycommerce.com
   - DOMAIN-SUFFIX,simply-hentai.com
@@ -31349,6 +31350,7 @@ payload:
   - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zobry.site
   - DOMAIN-SUFFIX,zodgame.us
+  - DOMAIN-SUFFIX,zodgame.xyz
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zoho.com.au
   - DOMAIN-SUFFIX,zoho.eu

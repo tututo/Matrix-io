@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31595
+# 规则统计: 31597
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -24669,6 +24669,7 @@ HOST-SUFFIX,simplecd.org,GlobalMax
 HOST-SUFFIX,simplenote.com,GlobalMax
 HOST-SUFFIX,simpleproductivityblog.com,GlobalMax
 HOST-SUFFIX,simpleswap.io,GlobalMax
+HOST-SUFFIX,simplex.chat,GlobalMax
 HOST-SUFFIX,simplify.com,GlobalMax
 HOST-SUFFIX,simplifycommerce.com,GlobalMax
 HOST-SUFFIX,simply-hentai.com,GlobalMax
@@ -31348,6 +31349,7 @@ HOST-SUFFIX,zmedia.com.tw,GlobalMax
 HOST-SUFFIX,zndsk.com,GlobalMax
 HOST-SUFFIX,zobry.site,GlobalMax
 HOST-SUFFIX,zodgame.us,GlobalMax
+HOST-SUFFIX,zodgame.xyz,GlobalMax
 HOST-SUFFIX,zoho.com,GlobalMax
 HOST-SUFFIX,zoho.com.au,GlobalMax
 HOST-SUFFIX,zoho.eu,GlobalMax

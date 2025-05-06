@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31595
+# 规则统计: 31597
 
 no_resolve: true
 domain_set:
@@ -24672,6 +24672,7 @@ domain_suffix_set:
   - simplenote.com
   - simpleproductivityblog.com
   - simpleswap.io
+  - simplex.chat
   - simplify.com
   - simplifycommerce.com
   - simply-hentai.com
@@ -31351,6 +31352,7 @@ domain_suffix_set:
   - zndsk.com
   - zobry.site
   - zodgame.us
+  - zodgame.xyz
   - zoho.com
   - zoho.com.au
   - zoho.eu
